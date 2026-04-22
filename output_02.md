@@ -245,6 +245,7 @@ Structured Data (Machine Readable):
     "Civil Society Organization": 13
   }
 }
+```
 
 **[Figure: Regional Distribution]**
 
@@ -287,6 +288,7 @@ Structured Data (Machine Readable):
     "North America": 6
   }
 }
+```
 
 - Full set of comments on the Biodiversity project page.
 
