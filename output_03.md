@@ -169,6 +169,7 @@ Structured Data (Machine Readable):
   }
 }
 
+```
 **[Figure: Breakdown of Submissions by Stakeholder Constituency and Region]**
 
 Type: diagram
@@ -224,6 +225,7 @@ Structured Data (Machine Readable):
   }
 }
 
+```
 **[Figure: Pie Chart of Regional Distribution]**
 
 Type: diagram
