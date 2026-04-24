@@ -1,2271 +1,1558 @@
-# Gri 11 Oil And Gas Sector 2021 V1.1
 
-**[Figure: Untitled]**
 
-Type: diagram
 
-Description: The figure is a geometric composition featuring a large brown circle, a smaller light-brown square, and a rectangle with rounded corners. The circle is positioned on the left side of the image, while the square and rectangle are placed on the right side.
-
-Key Elements:
-
-*   Large brown circle -> serves as the background element
-*   Smaller light-brown square -> adds visual contrast and balance
-*   Rectangle with rounded corners -> provides a sense of depth and dimensionality
-
-This diagram appears to be an abstract representation, possibly used for decorative or illustrative purposes.
-
-**[Figure: Untitled]**
-
-Type: diagram
-
-Description: The diagram shows a simple, abstract representation of a process or system. It consists of various shapes and lines, but lacks a clear title or legend to provide context.
-
-Key Elements:
-
-- Rectangles -> Representing different stages or components
-- Arrows -> Indicating the flow or direction between stages
-- Circles -> Possibly symbolizing inputs, outputs, or key points in the process
-
-This diagram appears to be a basic illustration of a sequence or relationship between different elements, but without additional information, its specific meaning or application cannot be determined.
-
-**[Figure: Figure on page 1]**
-
-Type: diagram
-
-Description: The figure is a simple, solid-colored background with no discernible elements or features. It appears to be a placeholder or a blank page.
-
-Key Elements:
-
-*   None
-
-This figure does not contain any visual elements that can be classified or described further.
-
-**[Figure: Figure on page 1]**
-
-Type: diagram
-
-Description: The diagram illustrates a process with three steps, each represented by a rectangle with a unique color. The first step is labeled "Step 1" and is colored blue, the second step is labeled "Step 2" and is colored green, and the third step is labeled "Step 3" and is colored red.
-
-Key Elements:
-
-- Step 1 -> This is the first step in the process.
-- Step 2 -> This is the second step in the process.
-- Step 3 -> This is the third step in the process.
-
-Note: The diagram does not provide any additional information about the process or the steps involved.
-
-## Sector Standard
-
-Effective Date This Standard is effective for reports or other materials published on or after 1 January 2023.
-
+# GRI 13: Agriculture, Aquaculture and Fishing Sectors 2022 V1.1
+### Sector Standard
+Effective Date This Standard is effective for reports or other materials published on or after 1 January 2024.
 Responsibility This Standard is issued by the Global Sustainability Standards Board (GSSB). Any feedback on the GRI Standards can be submitted to gssbsecretariat@globalreporting.org for the consideration of the GSSB.
-
 Due Process This Standard was developed in the public interest and in accordance with the requirements of the GSSB Due Process Protocol. It has been developed using multi-stakeholder expertise, and with regard to authoritative intergovernmental instruments and widely held expectations of organizations relating to social, environmental, and economic responsibilities.
-
 Legal Liability This document, designed to promote sustainability reporting, has been developed by the Global Sustainability Standards Board (GSSB) through a unique multi-stakeholder consultative process involving representatives from organizations and report information users from around the world. While the GRI Supervisory Board, Management Board, and GSSB encourage the use of the GRI Sustainability Reporting Standards (GRI Standards) and related Interpretations by all organizations, the preparation and publication of reports based fully or partially on the GRI Standards and related Interpretations are the full responsibility of those producing them. Neither the GRI Supervisory Board, Management Board, GSSB, nor Stichting Global Reporting Initiative (GRI) can assume responsibility for any consequences or damages resulting directly or indirectly from the use of the GRI Standards and related Interpretations in the preparation of reports, or the use of reports based on the GRI Standards and related Interpretations.
-
 Copyright and trademark notice This document is copyright-protected by Stichting Global Reporting Initiative (GRI). The reproduction and distribution of this document for information and/or use in preparing a sustainability report is permitted without prior permission from GRI. However, neither this document nor any extract from it may be reproduced, stored, translated, or transferred in any form or by any means (electronic, mechanical, photocopied, recorded, or otherwise) for any other purpose without prior written permission from GRI.
-
-Global Reporting Initiative, GRI and logo, GSSB and logo, and GRI Sustainability Reporting Standards (GRI Standards) and logo are trademarks of Stichting Global Reporting Initiative. © 2025 GRI. All rights reserved.
-
-ISBN 978-90-8866-143-3
-
-# GRI 11: Oil and Gas Sector 2021
-
-## History of updates
-
-### Table: Data Table
+Global Reporting Initiative, GRI and logo, GSSB and logo, and GRI Sustainability Reporting Standards (GRI Standards) and logo are trademarks of Stichting Global Reporting Initiative.
+© 2025 GRI. All rights reserved.
+ISBN 978-90-8866-145-7
+# GRI 13: Agriculture, Aquaculture and Fishing Sectors 2022
+### History of updates
+**[Table]**
 
 | Version (V) | Summary of changes | Relevant Topic Standard |
 |---|---|---|
-| V1.1 Published on 1 January 2026 | Topic 11.1 Climate change • Likely material topics 11.1 GHG emissions and 11.2 Climate adaptation, resilience and transition have been merged into one topic. Topic description has been updated with terminology and concepts as per GRI 102 and GRI 103. Disclosures from GRI 302: Energy 2016 and GRI 305: Emissions 2016 have been replaced by the following: • GRI 102: Disclosures 102-1 to 102-10, covering information on an organization’s transition and adaptation plans, just transition, GHG emissions, GHG removals, and carbon credits. As a result, some additional sector recommendations and disclosures have been removed or revised. • GRI 103: Disclosures 103-1 to 103-4, covering information on an organization’s energy policies and commitments, and energy consumption and intensity. See detailed changes here. | GRI 102: Climate Change 2025 (effective 1 January 2027) GRI 103: Energy 2025 (effective 1 January 2027) |
-|  | Topic 11.4 Biodiversity • Topic description has been updated with terminology and concepts as per GRI 101. Disclosures from GRI 304: Biodiversity 2016 have been replaced by the following: • GRI 101: Disclosures 101-1, 101-2, and 101-4 to 101-8, covering information on an organization’s biodiversity policies; the management, identification, and location of biodiversity impacts; direct drivers of biodiversity loss; and ecosystem services. As a result, some additional sector recommendations and disclosures have been removed or revised. See detailed changes here. | GRI 101: Biodiversity 2024 (effective 1 January 2026) |
+| V1.1 Published on 1 January 2026 | Topics 13.1 Emissions and 13.2 Climate adaptation • Topic descriptions have been updated with terminology and concepts as per GRI 102. Disclosures from GRI 201: Economic Performance 2016 and GRI 305: Emissions 2016 have been replaced by the following: • GRI 102: Disclosures 102-1 to 102-10, covering information on an organization’s transition and adaptation plans, just transition, GHG emissions, GHG removals, and carbon credits. As a result, some additional sector recommendations and disclosures have been removed or revised. See detailed changes here. | GRI 102: Climate Change 2025 (effective 1 January 2027) |
+|  | Topics 13.3 Biodiversity and 13.4 Natural ecosystem conversion • Topic descriptions have been updated with terminology and concepts as per GRI 101. Disclosures from GRI 304: Biodiversity 2016 have been replaced by the following: • GRI 101: Disclosures 101-1 to 101-8, covering information on an organization’s biodiversity policies; the management, identification, and location of biodiversity impacts; direct drivers of biodiversity loss; access and benefit sharing; and ecosystem services. As a result, some additional sector recommendations and disclosures have been removed or revised. See detailed changes here. | GRI 101: Biodiversity 2024 (effective 1 January 2026) |
 
 ## Content
-
-Introduction
-4
-
-1. Sector profile
-9
-
-Sector activities and business relationships
-9
-
-The sector and sustainable development
-10
-
-2. Likely material topics
-13
-
-Topic 11.1 Climate change
-13
-
-Topic 11.3 Air emissions
-17
-
-Topic 11.4 Biodiversity
-19
-
-Topic 11.5 Waste
-21
-
-Topic 11.6 Water and effluents
-23
-
-Topic 11.7 Closure and rehabilitation
-25
-
-Topic 11.8 Asset integrity and critical incident management
-27
-
-Topic 11.9 Occupational health and safety
-29
-
-Topic 11.10 Employment practices
-31
-
-Topic 11.11 Non-discrimination and equal opportunity
-33
-
-Topic 11.12 Forced labor and modern slavery
-35
-
-Topic 11.13 Freedom of association and collective bargaining
-37
-
-Topic 11.14 Economic impacts
-39
-
-Topic 11.15 Local communities
-41
-
-Topic 11.16 Land and resource rights
-43
-
-Topic 11.17 Rights of Indigenous Peoples
-45
-
-Topic 11.18 Conflict and security
-47
-
-Topic 11.19 Anti-competitive behavior
-49
-
-Topic 11.20 Anti-corruption
-51
-
-Topic 11.21 Payments to governments
-54
-
-Topic 11.22 Public policy
-57
-
-Glossary
-59
-
-Bibliography
-71
-
+Introduction 5
+1. Sector profile 10
+Sector activities and business relationships 10
+The sectors and sustainable development 12
+2. Likely material topics 14
+### Topic 13.1 Emissions 14 Topic 13.2 Climate adaptation 16
+### Topic 13.3 Biodiversity 18 Topic 13.4 Natural ecosystem conversion 21
+### Topic 13.5 Soil health 24 Topic 13.6 Pesticides use 26
+### Topic 13.7 Water and effluents 28 Topic 13.8 Waste 30
+### Topic 13.9 Food security 32 Topic 13.10 Food safety 34
+### Topic 13.11 Animal health and welfare 36 Topic 13.12 Local communities 38
+### Topic 13.13 Land and resource rights 40 Topic 13.14 Rights of Indigenous Peoples 42
+### Topic 13.15 Non-discrimination and equal opportunity 44 Topic 13.16 Forced or compulsory labor 46
+### Topic 13.17 Child labor 48 Topic 13.18 Freedom of association and collective bargaining 50
+### Topic 13.19 Occupational health and safety 52 Topic 13.20 Employment practices 55
+### Topic 13.21 Living income and living wage 56 Topic 13.22 Economic inclusion 59
+### Topic 13.23 Supply chain traceability 61 Topic 13.24 Public policy 63
+### Topic 13.25 Anti-competitive behavior 65 Topic 13.26 Anti-corruption 67
+Glossary 69
+Bibliography 79
 # Introduction
-
-GRI 11: Oil and Gas Sector 2021 V1.1 provides information for organizations in the oil and gas sector about their likely material topics. These topics are likely to be material for organizations in the oil and gas sector on the basis of the sector’s most significant impacts on the economy, environment, and people, including on their human rights.
-
-GRI 11 also contains a list of disclosures for organizations in the oil and gas sector to report in relation to each likely material topic. This includes disclosures from the GRI Topic Standards and other sources.
-
-The Standard is structured as follows: The rest of the Introduction section provides an overview of the sector this Standard applies to, an overview of the system of GRI Standards, and further information on using this Standard.
-
-Section 1 provides a high-level overview of the oil and gas sector, including its activities, business relationships, context, and the connections between the United Nations Sustainable Development Goals (SDGs) and the likely material topics for the sector.
-
-- Section 2 outlines the topics that are likely to be material for organizations in the oil and gas sector and therefore potentially merit reporting. For each likely material topic, the sector’s most significant impacts are described and disclosures to report information about the organization’s impacts in relation to the topic are listed.
-
+GRI 13: Agriculture, Aquaculture and Fishing Sectors 2022 V1.1 provides information for organizations in the agriculture, aquaculture, and fishing sectors about their likely material topics. These topics are likely to be material for organizations in the agriculture, aquaculture, and fishing sectors on the basis of the sectors’ most significant impacts on the economy, environment, and people, including on their human rights.
+GRI 13 also contains a list of disclosures for organizations in the agriculture, aquaculture, and fishing sectors to report in relation to each likely material topic. This includes disclosures from the GRI Topic Standards and other sources.
+The Standard is structured as follows:
+Section 1 provides a high-level overview of the agriculture, aquaculture, and fishing sectors, including their activities, business relationships, context, and the connections between the United Nations Sustainable Development Goals (SDGs) and the likely material topics for the sectors.
+- Section 2 outlines the topics that are likely to be material for organizations in the agriculture, aquaculture, and fishing sectors and therefore potentially merit reporting. For each likely material topic, the sectors’ most significant impacts are described and disclosures to report information about the organization’s impacts in relation to the topic are listed.
 - The Glossary contains defined terms with a specific meaning when used in the GRI Standards. The terms are underlined in the text and linked to the definitions. •
-
 The Bibliography lists authoritative intergovernmental instruments and additional references used in developing this Standard, listed by topic. It also lists further resources that the organization can consult. •
-
-## Sector this Standard applies to
-
-GRI 11 applies to organizations undertaking any of the following: This Standard can be used by any organization in the oil and gas sector, regardless of size, type, geographic location, or reporting experience.
-
-Exploration and production of onshore and offshore oil and gas.
-
-- Supply of equipment and services to oil fields and offshore platforms, such as drilling, exploration, seismic information services, and platform construction.
-
-Transportation and storage of oil and gas, such as oil and gas pipeline operators.
-
-- Refining of oil into petroleum products for use as fuels and as feedstocks for chemicals.
-
+The rest of the Introduction section provides an overview of the sectors this Standard applies to, an overview of the system of GRI Standards, and further information on using this Standard.
+### Sectors this Standard applies to
+GRI 13 applies to organizations undertaking any of the following:
+Crop production
+- Animal production
+- Aquaculture
+- Fishing
+This Standard can be used by any organization in the agriculture, aquaculture, and fishing sectors, regardless of size, type, geographic location, or reporting experience.
 The organization must use all applicable Sector Standards for the sectors in which it has substantial activities.
-
-Sector classifications Table 1 lists industry groupings relevant to the oil and gas sector covered in this Standard in the Global Industry Classification Standard (GICS®) [4], the Industry Classification Benchmark (ICB) [3], the International Standard Industrial Classification of All Economic Activities (ISIC) [6], and the Sustainable Industry Classification System (SICS®) [5]. The table is intended to assist an organization in identifying whether GRI 11 applies to it and is for reference only.
-
-1 The relevant industry groupings in the Statistical Classification of Economic Activities in the European Community (NACE) [1] and the North American Industry Classification System (NAICS) [2] can also be established through available concordances with the International Standard Industrial Classification (ISIC).
-
-### Table 1. Industry groupings relevant to the oil and gas sector in other classification systems
+#### Sector classifications
+Table 1 lists industry groupings relevant to the agriculture, aquaculture, and fishing sectors covered in this Standard in the Global Industry Classification Standard (GICS®) [4], the Industry Classification Benchmark (ICB) [3], the International Standard Industrial Classification of All Economic Activities (ISIC) [6], and the Sustainable Industry Classification System (SICS®) [5]. The table is intended to assist an organization in identifying whether GRI 13 applies to it and is for reference only.
+1 The relevant industry groupings in the Statistical Classification of Economic Activities in the European Community (NACE) [1] and the North
+American Industry Classification System (NAICS) [2] can also be established through available concordances with the International Standard Industrial Classification (ISIC).
+**[Table: Table 1. Industry groupings relevant to the agriculture, aquaculture, and fishing sectors in other classification systems]**
 
 | CLASSIFICATION SYSTEM | CLASSIFICATION NUMBER | CLASSIFICATION NAME |
 |---|---|---|
-| GICS® | 10101010 | Oil & Gas Drilling |
-|  | 10101020 | Oil & Gas Equipment & Services |
-|  | 10102010 | Integrated Oil & Gas |
-|  | 10102020 | Oil & Gas Exploration & Production |
-|  | 10102030 | Oil & Gas Refining and Marketing (excluding retail) |
-|  | 10102040 | Oil & Gas Storage & Transportation |
-| ICB | 60101000 | Integrated Oil & Gas |
-|  | 60101010 | Oil: Crude Producers |
-|  | 60101015 | Offshore Drilling & Other Services |
-|  | 60101020 | Oil Refining and Marketing (excluding retail) |
-|  | 60101030 | Oil Equipment & Services |
-|  | 60101035 | Pipelines |
-| ISIC | B6 | Extraction of crude petroleum and natural gas |
-|  | B91 | Support activities for petroleum and natural gas extraction |
-|  | C192 | Manufacture of refined petroleum products |
-| SICS® | EM-EP | Oil & Gas - Exploration & Production |
-|  | EM-MD | Oil & Gas - Midstream |
-|  | EM-RM | Oil & Gas - Refining & Marketing (excluding retail) |
-|  | EM-SV | Oil & Gas - Services |
+| GICS® | 30202010 | Agricultural Products |
+| ICB | 45102010 | Farming, Fishing and Plantations |
+| ISIC | A1 A3 | Crop and animal production (excluding hunting) Fishing and aquaculture |
+| SICS® | FB-AG FB-MP | Agricultural Products Meat, Poultry and Dairy |
 
-## System of GRI Standards
-
+### System of GRI Standards
 This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an organization to report information about its most significant impacts on the economy, environment, and people, including impacts on their human rights, and how it manages these impacts.
-
 The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI Universal Standards, GRI Sector Standards, and GRI Topic Standards (see Figure 1 in this Standard).
-
 Universal Standards: GRI 1, GRI 2 and GRI 3 GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.
-
 GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its reporting practices and other organizational details, such as its activities, governance, and policies.
-
 GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that the organization uses to report information about its process of determining material topics, its list of material topics, and how it manages each topic.
-
 Sector Standards The Sector Standards provide information for organizations about their likely material topics. The organization uses the Sector Standards that apply to its sectors when determining its material topics and when determining what to report for each material topic.
-
 Topic Standards The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation to particular topics. The organization uses the Topic Standards according to the list of material topics it has determined using GRI 3.
 
-**[Figure: GRI Standards: Universal, Sector and Topic Standards]**
 
-Type: diagram
-
-Description: The figure illustrates the three types of GRI Standards: Universal, Sector, and Topic Standards. It provides a visual representation of how these standards are applied to different sectors and topics.
-
-Key Elements:
-
-* Universal Standards -> Requirements and principles for using the GRI Standards
-* Sector Standards -> Disclosures about the reporting organization
-* Topic Standards -> Disclosures and guidance about the organization's material topics
-
-This diagram helps users understand the structure and application of GRI Standards in sustainability reporting.
-
-## Using this Standard
-
-An organization in the oil and gas sector reporting in accordance with the GRI Standards is required to use this Standard when determining its material topics and then when determining what information to report for the material topics.
-
-### Determining material topics Material topics represent an organization's most significant impacts on the economy, environment, and people, including their human rights.
-
-# Section 1 of this Standard provides contextual information that can help the organization in identifying and assessing its impacts.
-
-Section 2 outlines the topics that are likely to be material for organizations in the oil and gas sector. The organization is required to review each topic described and determine whether it is a material topic for it.
-
-The organization needs to use this Standard when determining its material topics. However, circumstances for each organization vary, and the organization needs to determine its material topics according to its specific circumstances, such as its business model; geographic, cultural, and legal operating context; ownership structure; and the nature of its impacts. Because of this, not all topics listed in this Standard may be material for all organizations in the oil and gas sector. See GRI 3: Material Topics 2021 for step-by-step guidance on how to determine material topics.
-
+### Using this Standard
+An organization in the agriculture, aquaculture, and fishing sectors reporting in accordance with the GRI Standards is required to use this Standard when determining its material topics and then when determining what information to report for the material topics.
+Determining material topics Material topics represent an organization's most significant impacts on the economy, environment, and people, including their human rights.
+Section 1 of this Standard provides contextual information that can help the organization in identifying and assessing its impacts.
+Section 2 outlines the topics that are likely to be material for organizations in the agriculture, aquaculture, and fishing sectors. The organization is required to review each topic described and determine whether it is a material topic for it.
+The organization needs to use this Standard when determining its material topics. However, circumstances for each organization vary, and the organization needs to determine its material topics according to its specific circumstances, such as its business model; geographic, cultural, and legal operating context; ownership structure; and the nature of its impacts. Because of this, not all topics listed in this Standard may be material for all organizations in the agriculture, aquaculture, and fishing sectors. See GRI 3: Material Topics 2021 for step-by-step guidance on how to determine material topics.
 If the organization has determined any of the topics included in this Standard as not material, then the organization is required to list them in the GRI content index and explain why they are not material.
-
-See Requirement 3 in GRI 1: Foundation 2021 and Box 5 in GRI 3 for more information on using Sector Standards to determine material topics.
-
-### Determining what to report For each material topic, an organization reports information about its impacts and how it manages these impacts.
-
+See Requirement 3 in GRI 1 Foundation 2021 and Box 5 in GRI 3 for more information on using Sector Standards to determine material topics.
+#### Determining what to report For each material topic, an organization reports information about its impacts and how it manages these impacts.
 Once an organization has determined a topic included in this Standard to be material, the Standard also helps the organization identify disclosures to report information about its impacts relating to that topic.
-
 For each topic in section 2 of this Standard, a reporting sub-section is included. These sub-sections list disclosures from the GRI Topic Standards that are relevant to the topic. They may also list additional sector disclosures and recommendations for the organization to report. This is done in cases where the Topic Standards do not provide disclosures, or where the disclosures from the Topic Standards do not provide sufficient information about the organization’s impacts in relation to a topic. These additional sector disclosures and recommendations may be based on other sources. Figure 2 illustrates how the reporting included in each topic is structured.
-
 The organization is required to report the disclosures from the Topic Standards listed for those topics it has determined to be material. If any of the Topic Standards disclosures listed are not relevant to the organization’s impacts, the organization is not required to report them. However, the organization is required to list these disclosures in the GRI content index and provide ‘not applicable’ as the reason for omission for not reporting the disclosures. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.
-
-The additional sector disclosures and recommendations outline further information which has been identified as relevant for organizations in the oil and gas sector to report in relation to a topic. The organization should provide sufficient information about its impacts in relation to each material topic, so that information users can make informed assessments and decisions about the organization. For this reason, reporting these additional sector disclosures and recommendations is encouraged, however it is not a requirement.
-
+The additional sector disclosures and recommendations outline further information which has been identified as relevant for organizations in the agriculture, aquaculture, and fishing sectors to report in relation to a topic. The organization should provide sufficient information about its impacts in relation to each material topic, so that information users can make informed assessments and decisions about the organization. For this reason, reporting these additional sector disclosures and recommendations is encouraged, however it is not a requirement.
 When the organization reports additional sector disclosures, it is required to list them in the GRI content index (see Requirement 7 in GRI 1).
-
 If the organization reports information that applies to more than one material topic, it does not need to repeat it for each topic. The organization can report this information once, with a clear explanation of all the topics it covers.
-
 If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the organization can report on a required disclosure by providing a reference in the GRI content index as to where this information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the information has been published).
-
 See Requirement 5 in GRI 1 for more information on using Sector Standards to report disclosures.
-
 GRI Sector Standard reference numbers GRI Sector Standard reference numbers are included for all disclosures listed in this Standard, both those from GRI Standards and additional sector disclosures. When listing the disclosures from this Standard in the GRI content index, the organization is required to include the associated GRI Sector Standard reference numbers (see Requirement 7 in GRI 1: Foundation 2021). This identifier helps information users assess which of the disclosures listed in the applicable Sector Standards are included in the organization’s reporting.
+Defined terms Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The organization is required to apply the definitions in the Glossary.
+#### References and resources The authoritative intergovernmental instruments and additional references used in developing this Standard, as well as further resources that may help report on likely material topics and can be consulted by the organization are listed in the Bibliography. These complement the references and resources listed in GRI 3: Material Topics 2021 and in the GRI Topic Standards.
 
-### Defined terms Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The organization is required to apply the definitions in the Glossary.
+**[Table]**
 
-References and resources The authoritative intergovernmental instruments and additional references used in developing this Standard, as well as further resources that may help report on likely material topics and can be consulted by the organization are listed in the Bibliography. These complement the references and resources listed in GRI 3: Material Topics 2021 and in the GRI Topic Standards.
+| 5 1 3 2 4 | 1 Management of the topic The organization is required to report how it manages each material topic using Disclosure 3-3 in GRI 3: Material Topics 2021. 2 Topic Standards disclosures Disclosures from the GRI Topic Standards that have been identified as relevant for organizations in the sector(s) are listed here. When the topic is determined by the organization as material, it is required to report those disclosures or explain why they are not applicable in the GRI context index. See the Topic Standard for the content of the disclosure, including requirements, recommendations, and guidance. 3 Additional sector recommendations Additional sector recommendations may be listed. These complement Topic Standards disclosures and are recommended for an organization in the sector(s). 4 Additional sector disclosures Additional sector disclosures may be listed. Reporting these, together with any Topic Standards disclosures, ensures the organization reports sufficient information about its impacts in relation to the topic. 5 Sector Standard reference numbers GRI Sector Standard reference numbers are required to be included in the GRI Content Index. This helps information users assess which of the disclosures listed in the Sector Standards are included in the organization’s reporting. |
+|---|---|
 
-1 Management of the topic The organization is required to report how it manages each material topic using Disclosure 3-3 in GRI 3: Material Topics 2021.
-
-2 Topic Standards disclosures Disclosures from the GRI Topic Standards that have been identified as relevant for organizations in the sector(s) are listed here. When the topic is determined by the organization as material, it is required to report those disclosures or explain why they are not applicable in the GRI context index. See the Topic Standard for the content of the disclosure, including requirements, recommendations, and guidance.
-
-3 Additional sector recommendations Additional sector recommendations may be listed. These complement Topic Standards disclosures and are recommended for an organization in the sector(s).
-
-4 Additional sector disclosures Additional sector disclosures may be listed. Reporting these, together with any Topic Standards disclosures, ensures the organization reports sufficient information about its impacts in relation to the topic.
-
-5 Sector Standard reference numbers Figure 2. Structure of reporting included in each topic
-
-GRI Sector Standard reference numbers are required to be included in the GRI Content Index. This helps information users assess which of the disclosures listed in the Sector Standards are included in the organization’s reporting.
 
 # 1. Sector profile
-
-Oil and gas are non-renewable natural resources, used by humans for thousands of years and with particular intensity during the last two centuries. The oil and gas sector is a large global industry producing fuel for transportation and for energy generation, and raw materials for chemical products and polymers. The sector’s outputs are also used in construction, clothing, fertilizers and insecticides, medical and electronic equipment, and a range of everyday objects. The combustion of oil and gas generates air emissions, including greenhouse gases (GHGs), which are the main contributor to climate change.
-
-The oil and gas sector comprises organizations of different sizes and ownership status. State-owned oil and gas enterprises are present in most oil and gas resource-rich countries, representing some of the largest organizations in the sector. Privately held oil and gas organizations are also important and are, in general, vertically integrated and operate internationally. Medium-sized organizations may operate in specific regions or countries, or deliver products, services and technology, such as surveying of resources, drilling, design, planning, and construction, to exploration and production organizations.
-
-## Sector activities and business relationships
-
+The agriculture, aquaculture, and fishing sectors produce essential food and non-food items, such as fibers, fuels, and rubber products. They play a major role in global development as a provider of food for human consumption and supplier of materials to other economic sectors, such as textiles, construction materials, pharmaceuticals, and the production of biofuels.
+Production levels and value created by the sectors have increased in almost all countries across the globe in the past 20 years. However, their contribution to global gross domestic product (GDP) across this time period has stayed consistent at about 4%. Despite this relatively limited global economic contribution, the sector has an outsized impact in developing countries and on those in rural areas. In some developing countries, it accounts for more than a quarter of GDP [20].
+Demand for the products of the sectors is projected to grow into the future, driven by a growing population and changes in income levels. Future production will also be influenced by demographic, socio-cultural, and lifestyle changes, as well as consumer awareness of health and sustainability issues [30].
+Agriculture, aquaculture, and fishing operations can be formally or informally organized as large-scale or small-scale business enterprises. Operations can also include households, cooperatives, and government institutions. These organizations can own or operate farms, fishing vessels, mills, and hatcheries. Vertically integrated organizations can directly own or manage production, storage, processing, and distribution.
+### Sector activities and business relationships
 Through their activities and business relationships, organizations can have an effect on the economy, environment, and people, and in turn make negative or positive contributions to sustainable development. When determining its material topics, the organization should consider the impacts of both its activities and its business relationships. See section 1 in GRI 3: Material Topics 2021 for more information.
+Activities The impacts of an organization vary according to the types of activities it undertakes. The following list outlines some of the key activities of the agriculture, aquaculture, and fishing sectors, as defined in this Standard. This list is not exhaustive.
+Crop production Production: growing and harvesting seeds, trees for rubber and latex, and all crops, such as cereals, vegetables, fruits, fibers, and other types; gathering berries, nuts, mushrooms, and sap.
+Primary processing: cleaning, grading, hulling, pounding, and milling grains; soaking, heating, and drying leaves; extracting and filtering oils.
+Aggregation: aggregating crop produce from multiple sources at farm level for sale to downstream markets, which can involve transaction by intermediary organizations or single actors.
+Storage: keeping crops in a way that preserves their quality and keeps them safe from, for example, molds, yeasts, and rodents.
+Transportation: using traditional or mechanized transportation to move crops.
+Trading: buying and selling crops.
+Animal production Production: breeding and rearing livestock and poultry; collecting live animal products, such as meat, milk, eggs, honey, and wool; farming insects; raising animals in captivity; feeding animals; operating animal farms.
+Primary processing: cleaning and washing animal products; processing milk; candling eggs; slaughtering animals for meat; deboning, cutting, smoking, and freezing meat; separating fur, skins, feathers, and down.
+2 This figure is based on the agriculture, forestry and fishing sector as defined in the International Standard Industrial Classification of All Economic
+Activities (ISIC) which includes crop and animal production, hunting and related service activities, forestry and logging, and fishing and aquaculture [20].
+Aggregation: aggregating animal products from multiple farms for sale to downstream markets, which can involve transaction by intermediary organizations or single actors.
+Storage: keeping animal products in a way that preserves their quality and keeps them safe from, for example, harmful bacteria.
+Transportation: using traditional or mechanized transportation to move live animals and animal products.
+Trading: buying and selling live animals and animal products.
+Aquaculture Production: growing of algae and other seaweeds; culturing or farming of aquatic organisms, such as fish, mollusks, and crustaceans, in captive conditions that involve regular stocking, feeding, and protecting against predators; this includes both capture-based aquaculture (CBA) and hatchery-based aquaculture (HBA) systems.
+Primary processing: slaughtering and deshelling produced aquatic organisms; undertaking service activities incidental to the operation of fish hatcheries and fish farms.
+Aggregation: aggregating fish, mollusks, and crustaceans from multiple sources for sale to downstream markets, which can involve transaction by intermediary organizations or single actors.
+Storage: keeping aquaculture products in a way that preserves their quality and keeps them safe from, for example, harmful bacteria.
+Transportation: using traditional or mechanized transportation to move aquaculture products.
+Trading: buying and selling aquaculture products.
+Fishing Fishing: capturing wild aquatic organisms, such as fish, mollusks, and crustaceans, via shore-based netting or commercial fishing vessels in inshore, coastal, or offshore waters.
+Primary processing: onboard handling of live wild aquatic organisms after capture and through to the point of landing.
+Aggregation: aggregating fish, mollusks, and crustaceans from multiple sources to downstream markets, which can involve transaction by intermediary organizations or single actors.
+Storage: keeping fishing products in a way that preserves their quality and keeps them safe from, for example, harmful bacteria.
+Transportation: using traditional or mechanized transportation to move fishing products.
+Trading: buying and selling fishing products.
+Business relationships An organization’s business relationships include relationships that it has with business partners, with entities in its value chain including those beyond the first tier, and with any other entities directly linked to its operations, products, or services. The following types of business relationships are prevalent in the agriculture, aquaculture, and fishing sectors and are relevant when identifying the impacts of organizations in the sectors.
+Aggregators: intermediary organizations or single actors who bring products from multiple sources at farm, fishery, hatchery, or mill level for sale to downstream markets.
+Animal or fish feed suppliers: organizations or persons that provide feed for animal production or aquaculture.
+Primary producers: agriculture, aquaculture, and fishing organizations can often buy their products from primary producers who actively farm or fish. Primary producers can be other organizations or persons, such as farmers and fishers, categorized as self-employed workers.
+Suppliers of agricultural inputs: organizations that produce and sell fertilizers, pesticides and other inputs, and seeds.
+3 Fishing products refer to wild aquatic organisms captured, such as fish, mollusks, and crustaceans.
+### The sectors and sustainable development
+Agriculture, aquaculture, and fishing are fundamental to feeding the world’s population. The sectors have a key role in meeting the growing demand for nutritious, affordable, and safe food for an estimated 10 billion people by 2050 [30]. At the same time, these sectors’ activities are increasingly recognized as having significant impacts on sustainable development. Intensive use of natural resources, the location of operations in rural areas, and large amounts of labor involved into production globally are factors contributing to the scale of the sectors’ impacts.
+The agriculture, aquaculture, and fishing sectors are the second largest source of employment worldwide [20]. Over 2.5 billion people living in rural areas depend on them these sectors for jobs. At the same time, agriculture, aquaculture, and fishing are sectors with the highest informality rates in employment contracts, commercial transactions, and land tenure, posing challenges to upholding human rights. With 80% of the world’s poor living in rural areas, ensuring sufficient income for rural workers remains an issue [37]. Improving incomes means communities need better economic opportunities, access to technology, skills training, and a more equitable distribution of value created by their labor. Growth in the sectors is proportionately more effective in raising the incomes of the world’s poorest people in comparison to other sectors.
+Agriculture, aquaculture, and fishing have a substantial environmental footprint. For example, agriculture accounts for an estimated 70% of freshwater withdrawals globally and is a substantial source of greenhouse gas (GHG) emissions, accounting for 22% of the total global emissions [25]. Similarly, fishing is responsible for at least 1.2% of global oil consumption [10].
+Because agriculture, aquaculture, and fishing production rely on biodiversity, soils, and ecosystems, implementing sustainable practices across the sectors is a fundamental condition for food security. However, the agriculture sector is associated with 70% of losses in terrestrial biodiversity because of land conversion, deforestation, soil erosion, and impacts of pesticides [21]. Fishing has resulted in significant impacts on global ocean biodiversity, with one-third of fish stocks being overfished and about 60% fished at their maximum sustainable levels [24].
+There has been ongoing growth in the global consumption of animal and aquaculture products. With approximately 340 million tons of meat, 88 million tons of dairy and 85 million tons of aquaculture products being produced annually, animal health and welfare are fundamental to agriculture and aquaculture activities [20]. The conditions animals live in have considerable implications for preventing zoonotic disease and the risks of antimicrobial resistance. Sound animal health and welfare also mean the responsibility for treating animals humanely.
+Climate change poses challenges for the agriculture, aquaculture, and fishing sectors. It can affect yields, disrupt production and supply chains, jeopardizing food security. Impacts of climate change can also deepen poverty levels, displace people from their lands, and thus increase migration. Agriculture, aquaculture, and fishing organizations can contribute to food security and global development by building resilience to climate change, reducing food loss, and providing income and livelihoods to farmers and fishers and their communities.
+Sustainable Development Goals The Sustainable Development Goals (SDGs), part of the 2030 Agenda for Sustainable Development adopted by the 193 United Nations (UN) member states, comprise the world’s comprehensive plan of action for achieving sustainable development.
+Since the SDGs and targets associated with them are integrated and indivisible, agriculture, aquaculture, and fishing organizations have the potential to contribute to all SDGs by enhancing their positive impacts, or by preventing and mitigating their negative impacts on the economy, environment, and people.
+The agriculture, aquaculture, and fishing sectors provide food for communities across the world and are best positioned to contribute to Goal 2: Zero Hunger. The sectors are also the world’s biggest employers and the largest economic sectors for many countries, directly impacting Goal 1: No Poverty and Goal 8: Decent Work and Economic Growth.
+By managing natural resources sustainably and efficiently (Goal 12: Responsible Consumption and Production), agriculture has the potential to revitalize rural landscapes, contributing to Goal 15: Life on land. At the same time, the aquaculture and fishing sectors can contribute to healthy marine and aquatic ecosystems, which is Goal 14: Life Below Water. By implementing resilient fishing and farming practices, the agriculture, aquaculture, and fishing sectors can help increase productivity and build the adaptive capacity to respond to climate change (Goal 13: Climate Action).
+4 This figure is based on the agriculture, forestry and fishing sector as defined in the International Standard Industrial Classification of All Economic
+Activities (ISIC) which includes crop and animal production, hunting and related service activities, forestry and logging, fishing, and aquaculture [19]. 5 This figure is based on the Agriculture, Forestry and Other Land Use (AFOLU) sector as defined in the International Panel for Climate Change reports
+(IPCC). Land use change is the largest source of AFOLU emissions, followed by ruminant livestock production, followed by crop production [25].
+Table 2 presents connections between the likely material topics for the agriculture, aquaculture, and fishing sectors and the SDGs. These linkages were identified based on an assessment of the impacts described in each likely material topic, and the targets associated with each SDG.
+Table 2 is not a reporting tool but presents connections between the agriculture, aquaculture, and fishing sectors’ significant impacts and the goals of the 2030 Agenda for Sustainable Development. See references [40] and [41] in the Bibliography for information on reporting progress towards the SDGs using the GRI Standards.
+**[Table: Table 2. Linkages between the likely material topics for the agriculture, aquaculture, and fishing sectors and the SDGs]**
 
-### Activities The impacts of an organization vary according to the types of activities it undertakes. The following list outlines some of the key activities of the oil and gas sector, as defined in this Standard. This list is not exhaustive.
-
-Exploration: Surveying of resources, including aerial surveys, seismic testing, and exploratory drilling.
-
-Development: Design, planning, and construction of oil and gas fields, including processing and worker facilities.
-
-Production: Extraction of oil and gas from onshore or offshore reserves, and separation of oil, gas and water.
-
-Oil sands mining: Extraction of bitumen from oil sands using surface mining or in situ techniques.
-
-Closure and rehabilitation: Closure, decommissioning, dismantling, removal, disposal, or modification of assets, facilities and sites.
-
-Refining: Refining of oil into petroleum products for use as fuels and as feedstocks for chemicals.
-
-Processing: Processing gas into pipe-quality natural gas and natural gas liquids, including removing hydrocarbons and fluids.
-
-Transportation: Marine and land transportation of oil and gas.
-
-Storage and pipelines: Distribution and storage of oil and gas in tanks and marine vessels and distribution via marine and land-based pipelines.
-
-Sales and marketing: Selling of oil and gas products for the purpose of, for example, fuels, gas for retail use, and inputs in the production of specialty chemicals, petrochemicals, and polymers.
-
-Business relationships An organization’s business relationships include relationships that it has with business partners, with entities in its value chain including those beyond the first tier, and with any other entities directly linked to its operations, products, or services. The following types of business relationships are prevalent in the oil and gas sector and are relevant when identifying the impacts of organizations in the sector.
-
-Joint ventures are arrangements in which organizations share the costs, benefits, and liabilities of oil and gas activities. An organization in the oil and gas sector can be involved with negative impacts as a result of a joint venture, even if it is a non-operating partner.
-
-State-owned enterprises (SOEs) are often the largest oil and gas producers and hold ownership of the majority of global reserves. They may also serve as joint venture partners to publicly traded oil and gas organizations. SOEs have specific challenges relating to transparency and governance, which are addressed in some of the likely material topics in this Standard.
-
-Suppliers and contractors are used in large numbers in the oil and gas sector to perform certain activities, such as drilling and construction, or to provide other services and products. Some of the significant impacts covered in this Standard concern the supply chain.
-
-Customers use oil and gas to produce energy, heat, and materials. When combusting oil and gas, they generate greenhouse gases (GHGs) and other air emissions. While the primary responsibility for reducing and managing their emissions lies with customers, organizations extracting and producing oil and gas are also expected to take actions to reduce emissions from the combustion of their products and to disclose the related GHG emissions (Scope 3 GHG emissions). As such, this Standard includes not only Scope 1 and Scope 2 GHG emissions, but also Scope 3 GHG emissions.
-
-## The sector and sustainable development
-
-Energy is a key driver of economic growth and sustainable development. Oil and gas have been fundamental sources of the world’s energy, contributing to economic growth and poverty reduction.
-
-Currently, oil and gas are the world's most actively traded commodities. Together, they represent the most important resources for electricity production, providing over 50% of the total supply [13]. In 2020, 90% of the transportation sector’s energy needs were met by oil products [12]. The oil and gas sector today also meets much of society’s needs for raw materials used in the production of specialty chemicals, petrochemicals, and polymers.
-
-At present, oil and gas are considered strategic assets in regions or countries where they generate critical revenue streams or support energy independence. For example, the percentage of gross domestic product attributable to oil revenues has reached 45% in some resource-rich countries [20]. Revenues from this sector can contribute to local and national economic development, together with job creation, investments, and infrastructure, business, and skills development.
-
-The majority of the world’s countries have committed to combating climate change, as outlined in the Paris Agreement [7]. The International Panel on Climate Change (IPCC) warns that continuing to emit greenhouse gas (GHG) at the current rate could result in dangerous global temperature increases leading to magnified risks of extreme weather and climate events [15]. Other reports show that with current policy commitments the world is heading toward a dangerous 3.2°C rise in temperature by 2100 [18].
-
-These projections underline the need to transition to a low-carbon economy based on affordable, reliable, and sustainable energy. Achieving net-zero GHG emissions by 2050 is required to limit global warming to 1.5°C above pre-industrial levels, a level predicted to pose significantly lower risks to natural and human systems than that of 2°C [15]. Combined, the GHGs released by extracting, refining, and burning oil and gas represent 55% of all energyrelated GHG emissions and constitute the largest contribution to anthropogenic climate change [45]. Action taken by the oil and gas sector is essential to the transition to a low-carbon economy.
-
-The number of oil and gas operations closing will increase in the context of transition to a low-carbon economy, and impacts of these closures on workers and communities will consequently rise. A just transition is a fair and equitable pathway through industrial transformation to a sustainable future, where governments and organizations work in collaboration. Such a transition integrates worker-centric public policies and programs with employer policies and programs to provide a secure and decent future for all workers, their families, and the communities that rely on them. The path for transitioning to a low-carbon economy will vary for different countries according to factors such as their economic conditions and capability to respond to and mitigate impacts of climate change [9].
-
-Besides contributing to climate change, the activities of the oil and gas sector generate further negative impacts on the environment and people, including impacts on their human rights. These impacts include loss of biodiversity; soil, water and air pollution; conflict and social disruption, and threats to human health. Vulnerable groups such as Indigenous Peoples or women may be disproportionally affected, and oil and gas operations may continue to generate negative impacts after their closure.
-
-Negative impacts can be intensified by inadequate governance of natural resources. The large revenues derived from the oil and gas sector can lead to corruption and mismanagement of resources. Economies dependent on oil and gas can also be vulnerable to commodity price and production fluctuations.
-
-Sustainable Development Goals The Sustainable Development Goals (SDGs), part of the 2030 Agenda for Sustainable Development adopted by the 193 United Nations (UN) member states, comprise the world’s comprehensive plan of action for achieving sustainable development [8].
-
-Since the SDGs and targets associated with them are integrated and indivisible, oil and gas organizations have the potential to contribute to all SDGs by enhancing their positive impacts, or by preventing and mitigating their negative impacts on the economy, environment, and people.
-
-The oil and gas sector is particularly relevant to achieving Goal 13: Climate Action and, given the potential impact of climate change on the development agenda, this will influence the achievement of every goal, while contributing to the transition to a low-carbon economy.
-
-The oil and gas sector also plays a fundamental role in achieving Goal 7: Affordable and Clean Energy. Ensuring access to energy for all while transitioning toward a low-carbon economy is one of the challenges faced by the sector. Millions of people still lack access to energy. This limitation hinders access to basic services such as those recognized in Goal 3: Good Health and Well-Being and Goal 4: Quality Education as well as their income-generating opportunities, which are crucial to achieving Goal 1: No Poverty. More broadly, affordable and reliable energy is a fundamental input for the world economy and instrumental for achieving Goal 8: Decent Work and Economic Growth.
-
-In countries that produce oil and gas, the sector generates high revenues and attracts significant investment. However, the large revenues derived from the sector carry a risk of corruption and conflict over resources, which have a bearing on Goal 16: Peace, Justice and Strong Institutions.
-
-Table 2 presents connections between the likely material topics for the oil and gas sector and the SDGs. These linkages were identified based on an assessment of the impacts described in each likely material topic, the targets associated with each SDG, and existing mapping undertaken for the sector (see references [14] and [16] in the Bibliography).
-
-Table 2 is not a reporting tool but presents connections between the oil and gas sector’s significant impacts and the goals of the 2030 Agenda for Sustainable Development. See references [21] and [22] in the Bibliography for information on reporting progress towards the SDGs using the GRI Standards.
-
-Topic 11.1 Climate change Topic 11.3 Air emissions Topic 11.4 Biodiversity Topic 11.5 Waste Topic 11.6 Water and effluents Topic 11.7 Closure and rehabilitation Topic 11.8 Asset integrity and critical incident management Topic 11.9 Occupational health and safety Topic 11.10 Employment practices Topic 11.11 Non-discrimination and equal opportunity Topic 11.12 Forced labor and modern slavery Topic 11.13 Freedom of association and collective bargaining Topic 11.14 Economic impacts Topic 11.15 Local communities Topic 11.16 Land and resource rights Topic 11.17 Rights of Indigenous Peoples Topic 11.18 Conflict and security Topic 11.19 Anti-competitive behavior Topic 11.20 Anti-corruption Topic 11.21 Payments to governments Topic 11.22 Public policy This section comprises the likely material topics for the oil and gas sector. Each topic describes the sector’s most significant impacts related to the topic and lists disclosures that have been identified as relevant for reporting on the topic by oil and gas organizations. The organization is required to review each topic in this section and determine whether it is a material topic for the organization, and then to determine what information to report for its material topics.
+| Topic 13.1 Emissions |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Topic 13.2 Climate adaptation |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.3 Biodiversity |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.4 Natural ecosystem conversion |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.5 Soil health |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.6 Pesticides use |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.7 Water and effluents |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.8 Waste |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.9 Food security |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.10 Food safety |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.11 Animal health and welfare |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.12 Local communities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.13 Land and resource rights |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.14 Rights of Indigenous Peoples |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.15 Non-discrimination and equal opportunity |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.16 Forced or compulsory labor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.17 Child labor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.18 Freedom of association and collective bargaining |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.19 Occupational health and safety |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.20 Employment practices |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.21 Living income and living wage |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.22 Economic inclusion |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.23 Supply chain traceability |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.24 Public policy |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.25 Anti-competitive behavior |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Topic 13.26 Anti-corruption |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 # 2. Likely material topics
-
-## Topic 11.1 Climate change
-
-Climate change refers to long-term shifts in the climate system, primarily driven by greenhouse gas (GHG) emissions from human activities. Organizations contribute to climate change, particularly through non-renewable energy consumption across the value chain, and are responsible for mitigating and adapting to its impacts, including by developing transition and adaptation plans aligned with just transition principles. This topic covers GHG emissions, energy consumption, actions taken to mitigate and adapt to climate change, and impacts on workers, local communities, and Indigenous Peoples.
-
-The oil and gas sector’s activities and use of its products are responsible for a large portion of two major greenhouse gas (GHG) emissions: carbon dioxide (CO2) and methane (CH4). Globally, it is estimated that the sector is responsible for a quarter of all anthropogenic emissions of CH4, which has a notably higher global warming potential than CO2. Some measurements indicate that available figures on CH4 emissions from the sector could be underestimated. Other GHGs from oil and gas activities include nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride (NF3).
-
-Signatories of the Paris Agreement have committed to keeping global warming well below 2°C above pre-industrial levels while pursuing efforts to limit global temperature rise to 1.5ºC [29]. However, available fossil fuel reserves far exceed the consumption limit needed to stay within these limits [56]. Organizations in the oil and gas sector face increasing demands to set GHG emissions reduction targets, modify their business models, and invest in renewable energy, as well as adopt technologies to remove CO2 from the atmosphere [45], and nature-based solutions to mitigate climate change, such as reforestation, afforestation, and coastal and wetland restoration.
-
-GHG emissions from oil and gas activities are classified as Scope 1 GHG emissions in the case of sources owned or controlled by the organization or Scope 2 GHG emissions in the case of purchased or acquired electricity, heating, cooling, and steam consumed by the organization. In 2020, 15% of the world’s energy-related GHG emissions came from producing and distributing oil and gas [45].
-
-Scope 1 GHG emissions come from fuel combustion during production, process emissions such as those during loading and tankage, and fugitive emissions such as those from piping and equipment leaks. A substantial source of the sector’s Scope 1 GHG emissions is flaring and venting, which aims to dispose of gas that cannot be contained or handled otherwise for safety, technical, or economic reasons. These practices occur during oil and gas production, storage, and refining (see Box 1 in this Standard).
-
-The sector also faces expectations to address Scope 3 GHG emissions related to the use of oil and gas products. These constitute the most significant GHG emissions for the sector, accounting for over half of global CO2 emissions [41]. The majority of Scope 3 GHG emissions originate from combustion processes related to construction, electricity and heat generation, manufacturing, and transportation. These emissions can increase with higher energy demands.
-
-Actions to reduce Scope 1 and Scope 2 GHG emissions linked to extracting and distributing oil and gas offer important and immediate opportunities for the sector to contribute to reducing global GHG emissions. However, the depletion of traditional oil and gas resources has led the sector to move production to more difficult settings, which may involve more complex extraction methods such as offshore deep-water drilling or oil sands mining. Despite improvements in production efficiency, extracting these oil and gas resources can increase the amount of energy used during production and transportation and result in higher GHG emissions.
-
-Actions to reduce Scope 3 GHG emissions can include changing the portfolio of products and services from highcarbon products and services towards low-carbon alternatives. Transitioning to less GHG emissions-intensive economic activities creates uncertainty about the future demand for oil and gas [45] [46]. A decrease in demand will translate into lower utilization of existing production facilities and decreased development of reserves. Depending on the rate of this transition, some fields and facilities may need to be re-evaluated or written off prematurely, becoming stranded assets. This can have impacts on local communities and workers, especially when jobs are terminated, and may create challenges related to employability and desirable re-employment opportunities.
-
-The transition may affect employment, government revenues, and economic development in regions where the sector operates. More frequent closures are less likely to be counterbalanced by openings, as has been the case in the past. Closure of operations without adequate provisions for decommissioning and rehabilitation may also result in an economic burden for governments and local communities (see also topic 11.7 Closure and rehabilitation), particularly in countries where oil and gas production accounts for a significant percentage of their revenues.
-
-According to the International Labour Organization (ILO), a just transition involves greening the economy in a way that is as fair and inclusive as possible to everyone concerned, creating decent work opportunities, and leaving no one behind. Achieving a just transition requires recognizing the different dependency levels of workers, local communities, and national economies on the oil and gas sector [47]. Actions that contribute to a just transition include providing adequate advance notice of closures, collaborating with governments and unions, advocating for climate-consistent policies (see also topic 11.22 Public policy), up- and re-skilling and redeploying workers, and making alternative investments in the affected communities. Meaningful engagement with stakeholders, including Indigenous Peoples and local communities, at an early stage, is also critical to achieving a just transition.
-
-Box 1. Flaring and venting When gas needs to be disposed of, it may be flared (burned off), or vented (released without being burned). Flaring converts gas to CO while venting releases CH directly into the atmosphere. Given that CH has a higher global warming potential than CO , routing associated gases to an efficient flare system instead of venting is considered best practice and there is wide agreement that routine venting should be eliminated.
-
-2 4 4 Flaring also represents a major source of GHG emissions. While large amounts of gases resulting from oil and gas activities are used or conserved, flaring still routinely occurs. According to the World Bank, routine flaring occurs ‘during normal oil production operations in the absence of sufficient facilities or amenable geology to re-inject the produced gas, utilize it on-site, or dispatch it to a market’. Increases in shale oil production have further contributed to volumes of flaring.
-
-The amount of natural gas flared in 2018 resulted in emissions of approximately 275 megatons of CO , as well as CH4, black carbon and N O.
-
-See references [43], [67] and [69] in the Bibliography.
-
-### Reporting on climate change
-
-If the organization has determined climate change to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+This section comprises the likely material topics for the agriculture, aquaculture, and fishing sectors. Each topic describes the sectors’ most significant impacts related to the topic and lists disclosures that have been identified as relevant for reporting on the topic by agriculture, aquaculture, and fishing organizations. The organization is required to review each topic in this section and determine whether it is a material topic for the organization, and then to determine what information to report for its material topics.
+### Topic 13.1 Emissions
+This topic addresses emissions into the air, including greenhouse gases (GHG), ozone-depleting substances (ODS), nitrogen oxides (NOX), sulfur oxides (SOX), and other significant air emissions regarded as pollutants. Emissions can have negative impacts on air quality, ecosystems, and on human and animal health. GHG emissions are the single biggest contributor to climate change.
+Agriculture is responsible for a large portion of greenhouse gas (GHG) emissions. From 2007 to 2016, the sector accounted for approximately 13% of carbon dioxide (CO2), 44% of methane (CH4), and 82% of nitrous oxide (N2O) emissions from human activities globally, which was 23% of the total net anthropogenic emissions of GHGs over this period [46].
+In agriculture and aquaculture, the highest share of total emissions is associated with land use change, including the conversion of land from a natural ecosystem for use by the sectors [46] (see also topic 13.4 Natural ecosystem conversion). Forests contribute to the reduction of CO2 by absorbing more carbon than they release, making them a carbon sink. Clearing forests or grasslands results in large amounts of CO2 being released. Soil and pasture management practices can contribute to the capacity of soil to store carbon or adversely accelerate the release of carbon from the soil into the atmosphere (see topic 13.5 Soil health). Restoring and preserving carbon sinks, such as natural ecosystems and soils, plays an integral role in mitigating climate change (see also topic 13.2 Climate adaptation).
+Land management for crop production generates emissions through soil cultivation, including tillage, crop residue decomposition, and burning vegetation and crop residues. This results in the production of CO2, N2O, and particulate matter. Fertilizers, pesticides, and fuels used to power machinery and vehicles also release GHG emissions.
+Ruminant livestock produce GHG emissions during respiration and digestion. Animal manure also emits gases, such as CH4, N2O, and CO2. Livestock on managed pastures and rangelands was estimated to account for over half of total anthropogenic N2O emissions from agriculture [46]. CH4 and N2O emissions have a higher global warming potential than CO2.
+In animal production and aquaculture, emissions are also associated with the sourcing of animal and fish feed. These emissions can be caused by natural ecosystem conversion and the feed's production, processing, and transportation. In aquaculture land-based farms, emissions are also released from the combustion of fuel to generate the energy needed to regulate water temperature and circulation.
+Fishing activities generate emissions from burning fuels, such as diesel, marine fuel oils, and intermediate fuel oils. These fuels provide the power to fishing vessels to access marine stocks and power onboard fish processing facilities, including freezing or refrigerating fish. Fishing vessels are not necessarily optimized for fuel efficiency, further contributing to emissions. The combustion of fuels also produces localized air pollution, while the use of refrigerants to store fish products can result in the emission of ozone-depleting substances.
+Signatories of the Paris Agreement have committed to keeping global warming well below 2°C above pre-industrial levels while pursuing efforts to limit the global temperature rise to 1.5ºC [42]. Organizations in the agriculture, aquaculture, and fishing sectors face increasing demands to set GHG emissions reduction targets consistent with the cumulative carbon budgets that set sectoral caps for the total allowed CO2 emissions [42].
+Organizations in these sectors can reduce emissions by, for example, implementing measures that lower CH4 emissions from ruminants, such as improving feed and manure management. In crop production, they can apply culture-specific production practices, such as growing rice using alternate wetting and drying methods that reduce CH4 emissions.
+#### Reporting on emissions
+If the organization has determined emissions to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe actions taken to manage flaring and venting and the effectiveness of actions taken. | 11.1.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.1.1 |
 | Topic Standard disclosures |  |  |
-| GRI 102: Climate Change 2025 | Disclosure 102-1 Transition plan for climate change mitigation Additional sector recommendations • Describe how climate change-related risks and opportunities affect or could affect the organization’s operations or revenue, including: - development of currently proven and probable reserves; - potential write-offs and early closure of existing assets; - oil and gas production volumes for the current reporting period and projected volumes for the next five years. | 11.1.2 |
-|  | Disclosure 102-2 Climate change adaptation plan | 11.1.3 |
-|  | Disclosure 102-3 Just transition | 11.1.4 |
-|  | Disclosure 102-4 GHG emissions reduction targets and progress | 11.1.5 |
-|  | Disclosure 102-5 Scope 1 GHG emissions Additional sector recommendations • Report the breakdown of gross Scope 1 GHG emissions by type of source (e.g., stationary or mobile combustion, process emissions, and fugitive emissions). | 11.1.6 |
-|  | Disclosure 102-6 Scope 2 GHG emissions | 11.1.7 |
-|  | Disclosure 102-7 Scope 3 GHG emissions | 11.1.8 |
-|  | Disclosure 102-8 GHG emissions intensity | 11.1.9 |
-|  | Disclosure 102-9 GHG removals in the value chain Additional sector recommendations • Report net mass of CO in metric tons captured and removed from the 2 atmosphere (CO stored less the GHG emitted in the process).2 2 | 11.1.10 |
-|  | Disclosure 102-10 Carbon credits | 11.1.11 |
-| GRI 103: Energy 2025 | Disclosure 103-1 Energy policies and commitments | 11.1.12 |
-|  | Disclosure 103-2 Energy consumption and self-generation within the organization | 11.1.13 |
-|  | Disclosure 103-3 Upstream and downstream energy consumption | 11.1.14 |
-|  | Disclosure 103-4 Energy intensity | 11.1.15 |
-| Additional sector disclosures |  |  |
-| CapEx investment allocation: Report the percentage of capital expenditure (CapEx) that is allocated to investments in: • prospection, exploration, and development of new reserves; • energy from renewable sources (by renewable energy source); • technologies to remove CO from the atmosphere and nature-based solutions to mitigate climate 2 change; • other research and development initiatives that can address the organization’s climate change risks. |  | 11.1.16 |
+| GRI 102: Climate Change 2025 | Disclosure 102-1 Transition plan for climate change mitigation | 13.1.2 |
+|  | Disclosure 102-3 Just transition | 13.1.3 |
+|  | Disclosure 102-4 GHG emissions reduction targets and progress | 13.1.4 |
+|  | Disclosure 102-5 Scope 1 GHG emissions Additional sector recommendations • When reporting gross Scope 1 GHG emissions, include land use change emissions.6 | 13.1.5 |
+|  | Disclosure 102-6 Scope 2 GHG emissions | 13.1.6 |
+|  | Disclosure 102-7 Scope 3 GHG emissions Additional sector recommendations • When reporting gross Scope 3 GHG emissions, include land use change emissions. | 13.1.7 |
+|  | Disclosure 102-8 GHG emissions intensity | 13.1.8 |
+|  | Disclosure 102-9 GHG removals in the value chain | 13.1.9 |
+|  | Disclosure 102-10 Carbon credits | 13.1.10 |
+| GRI 305: Emissions 2016 | Disclosure 305-6 Emissions of ozone-depleting substances (ODS) | 13.1.11 |
+|  | Disclosure 305-7 Nitrogen oxides (NO ), sulfur oxides (SO ), and other significant X X air emissions | 13.1.12 |
 
-2 The mass of the CO2 captured using carbon capture and storage less the mass of CO2 emitted as a result of or during the process is sometimes known as 'net reduction of emissions' [40].
-
-### References and resources
-
-GRI 102: Climate Change 2025 and GRI 103: Energy 2025 list authoritative intergovernmental instruments, additional references, and resources relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on climate change by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.3 Air emissions
-
-Air emissions include pollutants that have negative impacts on air quality and ecosystems, including human and animal health. This topic covers impacts from emissions of sulfur oxides (SO ), nitrogen oxides (NO ), particulate matter (PM), volatile organic compounds (VOC), carbon monoxide (CO), and heavy metals, such as lead, mercury, and cadmium.
-
-x x x x
-
-The activities of the oil and gas sector and the combustion of oil and gas are anthropogenic sources of other air emissions besides greenhouse gases (GHGs). These include SO , NO , PM, VOCs, hazardous air pollutants (HAP), such as benzene (C H ) and hydrogen sulfide (H S), and ozone (O ).3 These air emissions can be released during production and processing; refining, distribution, and storage. They can result from activities such as flaring and venting; fuel combustion for powering machinery; and transportation of supplies and products. Air emissions can also result from evaporation losses, fugitive emissions from equipment leaks and failures, and process-safety incidents and events. A significant number of air emissions also result from fuel combustion by end-users.
-
-6 6 2 3 Globally, air pollution causes acute health problems and millions of deaths annually by contributing to heart and lung diseases, strokes, respiratory infections, and neurological damage [93]. Children, the elderly, and the poor are disproportionately affected by these emissions, as are local communities adjacent to operational sites.
-
-Air emissions may lead to widespread and diverse impacts on ecosystems, while affecting other economic activities that depend on these ecosystems. For example, NOx emissions that enter oceans, lakes, or other waterbodies can alter their chemistry, negatively impacting land and aquatic life. NOx and SOx emissions can lead to acid rain and increase ocean acidification. These emissions can also cause damage to plant life by, for example, impairing photosynthesis and reducing growth.
-
-3 The scope of this topic does not include carbon dioxide CO and methane CH4, which are reported under GHG emissions. 2 If the organization has determined air emissions to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Reporting on air emissions
-
-### Table: Data Table
+#### References and resources
+GRI 102: Climate Change 2025 and GRI 305: Emissions 2016 list authoritative intergovernmental instruments, additional references, and resources relevant to reporting on this topic.
+The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on emissions by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+6 Land use change refers to a change in the use or management of land by humans, which may lead to a change in land cover; for instance, when
+cropland is converted to grassland or when forests are converted to cropland. This includes natural ecosystem conversion [48] (see also topic 13.4 Natural ecosystem conversion).
+### Topic 13.2 Climate adaptation
+Organizations contribute to climate change and are simultaneously affected by it. Climate adaptation refers to how an organization adjusts to actual and potential climate-related events and their impacts.
+Major impacts of climate change include an increase in extreme weather events and long-term shifts in climate patterns. As a consequence, crop yields and biogeographic suitability have been negatively affected in recent decades.
+In agriculture, crops can be damaged and harvests lost due to increased volatility, intensity, and duration of extreme weather events. Warmer winters related to climate change affect fruits and vegetables that need a period of colder weather to produce viable harvests. Land degradation exacerbated by global warming can also lead to increased frequency and severity of flooding, drought, pest prevalence, diseases, heat stress, dry spells, wind, sea-level rise, wave action, and permafrost thaw.
+Aquaculture and fishing operations are likely to be affected by water temperature increases, oxygen deficits, sea-level rise, decreased pH levels, and changes in productivity patterns. Higher ocean temperatures also mean continued losses of marine habitats and species. Aquaculture and inland fishing activities are also affected by changes in precipitation and water management, increased stress on freshwater resources, and the frequency and intensity of extreme weather events. In tropical and less developed regions, small-scale fishers are particularly vulnerable to climate change-related impacts.
+An organization’s failure to adapt to climate change-related impacts can lead to disruptions in operations, increased occupational health and safety impacts, loss of livelihood, and food insecurity. These disruptions can affect an organization's workers, suppliers, customers, as well as smallholder farmers, fishers, Indigenous Peoples, and local communities. Disruptions in food production mean that between 34 and 600 million more people could suffer from hunger by 2080, depending on how climate change-related scenarios unfold [53] (see also topic 13.9 Food security).
+Organizations can respond to climate change impacts by implementing adaptation measures that build resilience, including technological solutions. For example, in agriculture, low or no-till farming can reduce soil erosion, leading to improved soil and water quality. Another important adaptation strategy for the sectors is the diversification in production through a wider genetic base with improvements in the tolerance of heat and drought. Mitigating food loss (see also topic 13.9 Food security) is another measure that contributes to less land and fewer natural resources being needed to produce the same output, thereby reducing GHG emissions.
+Preserving indigenous and local knowledge of biodiversity can also be a contributing factor in enhancing adaptation to climate change. Indigenous and local knowledge often focuses on preserving ecosystems and offers adaptive strategies to cope with unfavorable conditions in local areas.
+#### Reporting on climate adaptation
+If the organization has determined climate adaptation to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.3.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.2.1 |
 | Topic Standard disclosures |  |  |
-| GRI 305: Emissions 2016 | Disclosure 305-7 Nitrogen oxides (NO ), sulfur oxides (SO ), and other significant X X air emissions | 11.3.2 |
-| GRI 416: Customer Health and Safety 2016 | Disclosure 416-1 Assessment of the health and safety impacts of product and service categories Additional sector recommendations • Describe actions taken to improve product quality to reduce air emissions | 11.3.3 |
+| GRI 102: Climate Change 2025 | Disclosure 102-2 Climate change adaptation plan | 13.2.2 |
+|  | Disclosure 102-3 Just transition | 13.2.3 |
 
-### References and resources
-
-GRI 305: Emissions 2016 and GRI 416: Customer Health and Safety 2016 list authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on air emissions by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.4 Biodiversity
-
+#### References and resources
+GRI 102: Climate Change 2025 lists authoritative intergovernmental instruments, additional references, and resources relevant to reporting on this topic.
+The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on climate adaptation by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.3 Biodiversity
 Biodiversity is the variability among living organisms. It includes diversity within species, between species and of ecosystems. Biodiversity not only has intrinsic value, but is also vital to human health, food security, economic prosperity, and mitigation of climate change and adaptation to its impacts. This topic covers impacts on biodiversity, including genetic diversity, animal and plant species, and ecosystems.
-
-Oil and gas activities typically require large-scale developments that have impacts on biodiversity and ecosystem services. These impacts can limit the availability and accessibility of natural resources or degrade their quality. Impacts on biodiversity and ecosystem services may also affect the well-being and livelihoods of local communities and Indigenous Peoples (see also topic 11.15 Local communities and topic 11.17 Rights of Indigenous Peoples).
-
-Direct drivers of biodiversity loss influence biodiversity and ecosystem processes, leading to impacts such as ecosystem degradation, habitat fragmentation, and animal mortality. Oil and gas activities can contribute to the direct drivers of biodiversity loss through land and sea use change, which results in soil erosion and sedimentation of waterways, exploitation of natural resources, climate change, pollution, and the introduction of invasive alien species.
-
-Impacts can result from onshore and offshore activities, including land clearance; seismic testing and well drilling; construction of facilities, pipelines and roads; transportation; water discharge; disposal of drilling waste; and spills and leaks. Threats to biodiversity are expected to increase as easily accessible oil and gas resources are depleted and oil and gas activities expand into more remote areas. Impacts on biodiversity can be more significant when oil and gas activities occur in or near ecologically sensitive areas and may extend well beyond the geographic boundaries and the lifetime of sites (see also topic 11.7 Closure and rehabilitation).
-
-The sector’s activities can also contribute to cumulative impacts on biodiversity. For example, the expansion of onshore oil and gas activities, along with the installation of new access routes, leads to land clearance, causing habitat fragmentation and ecosystem conversion. This can increase the area’s use or attract other sectors to operate in the same area, further intensifying impacts.
-
-Changes to land use to accommodate the sector’s activities can exacerbate the effects of climate change if they result in the removal of carbon sinks. In turn, climate change is likely to alter species’ distribution, functioning, and interactions, reducing ecosystems’ capacity to adapt. Impacts can worsen with increasing temperatures (see also topic 11.1 Climate change).
-
-To limit and manage impacts on biodiversity, oil and gas organizations can use the mitigation hierarchy tool to inform their actions that balance or outweigh negative impacts. The mitigation hierarchy follows a sequence of avoidance, minimization, restoration and rehabilitation, and offsetting. Actions to avoid negative impacts are prioritized, as is minimizing those impacts when avoidance is not possible. Restoration and rehabilitation measures should be implemented when negative impacts cannot be avoided or minimized. Offsetting measures may be applied to residual negative impacts after all other measures have been applied [118].
-
-### Reporting on biodiversity
-
-If the organization has determined biodiversity to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+Biodiversity is essential for food production and provides a wide range of ecosystem services, but it generally declines as agriculture, aquaculture, or fishing activities intensify.
+Direct drivers of biodiversity loss influence biodiversity and ecosystem processes, leading to impacts such as ecosystem degradation, habitat fragmentation, and animal mortality, which can ultimately result in species loss or extinction. Agriculture, aquaculture, and fishing activities contribute to the direct drivers of biodiversity loss through land and sea use change, mainly in the form of natural ecosystem conversion, causing impacts such as deforestation, soil erosion, and waterway sedimentation (see also topic 13.4 Natural ecosystem conversion). Other direct drivers linked to the sectors include resource exploitation through the extraction of species, pollution, and contribution to climate change (see also topic 13.1 Emissions).
+Biodiversity can be negatively affected by monoculture. Growing the same crops or rearing the same animal species year after year may increase production, but it also decreases agrobiodiversity on farms and plantations. Impacts on biodiversity can also extend beyond farms and plantations. In crop production, continuous monocropping can result in a buildup of pests and diseases, usually requiring higher volumes of pesticides, which can be toxic to non-target species, including pollinators. About 40% of invertebrate pollinator species face extinction, particularly bees and butterflies [71].
+Animal production can be a major source of surplus nitrogen and phosphorus pollution, leading to eutrophication in adjacent lakes and rivers, rendering them uninhabitable for aquatic organisms (see also topic 13.7 Water and effluents). Aquaculture activities have similar impacts due to a buildup of fish excrement in waterbodies. These impacts can negatively affect the availability of fishery resources and food for local communities.
+Aquaculture can also result in negative impacts on local biodiversity through escapes from aquaculture farms, which can compete with the area’s native species. Poor feeding practices can result in excess or insufficient feed for fish, adding to disease outbreaks and aquatic pollution. The presence of extra feed can attract wild fish and predators to the water column.
+Fishing is one of the most significant causes of declining marine biodiversity. This is largely due to overfishing, bycatch, and illegal, unreported, and unregulated (IUU) fishing. From 1974 to 2017, the proportion of the world’s fish stocks classified as overfished increased to 34.2%, with only about two-thirds of global fish stocks deemed as biologically sustainable [65] [68].
+Overfishing can change the composition of species, which in turn can lead to changes in predator-prey relationships and cause shifts in trophic structures. Overfishing can be more difficult to prevent in international waters, where efforts to manage stock sustainably are further complicated when fish move across country borders.
+Fishmeal and fish oil are rich in protein and are typically used as fish and animal feed ingredients. Fishing products used for feed can be derived from forage fish or fishing by-products, including trimmings and offcuts. Overfishing forage fish stocks used for feed increases pressure on the wild trophic structures. In aquaculture, further pressure on fish stocks can also be driven by using juvenile seeds captured in the wild.
+Certain fishing practices, for example, bottom trawling in ecologically sensitive areas, can damage the seabed’s physical structure, affecting bottom plants, corals, sponges, fish, and other aquatic organisms. This practice can profoundly change how natural benthic ecosystems function or lead to their destruction. Seabed damage can also result in carbon dioxide (CO2) emissions.
+A phenomenon known as ‘ghost fishing’ can threaten both target and non-target species, potentially killing endangered and protected species and damaging underwater habitats. This phenomenon occurs when fishing gear is lost or discarded and can continue to trap species indiscriminately. Lost or discarded fishing gear also contributes to marine plastic pollution (see also topic 13.8 Waste).
+About 80% of terrestrial biodiversity is found in Indigenous Peoples’ lands and forests [76]. Respecting Indigenous Peoples’ rights to land and natural resources can also make a profound contribution to biodiversity conservation (see topics 13.14 Rights of Indigenous Peoples and 13.13 Land and resource rights).
+#### Reporting on biodiversity
+If the organization has determined biodiversity to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.4.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations The following additional sector recommendation is for organizations in the aquaculture sector: • Describe the approach to preventing and managing escapes of farmed aquatic organisms. | 13.3.1 |
 | Topic Standard disclosures |  |  |
-| GRI 101: Biodiversity 2024 | Disclosure 101-1 Policies to halt and reverse biodiversity loss Additional sector recommendations • Report whether the organization’s policies or commitments to halt and reverse biodiversity loss apply to future operations and to operations beyond ecologically sensitive areas. | 11.4.2 |
-|  | Disclosure 101-2 Management of biodiversity impacts | 11.4.3 |
-|  | Disclosure 101-4 Identification of biodiversity impacts | 11.4.4 |
-|  | Disclosure 101-5 Locations with biodiversity impacts | 11.4.5 |
-|  | Disclosure 101-6 Direct drivers of biodiversity loss | 11.4.6 |
-|  | Disclosure 101-7 Changes to the state of biodiversity | 11.4.7 |
-|  | Disclosure 101-8 Ecosystem services | 11.4.8 |
+| GRI 101: Biodiversity 2024 | Disclosure 101-1 Policies to halt and reverse biodiversity loss | 13.3.2 |
+|  | Disclosure 101-2 Management of biodiversity impacts | 13.3.3 |
+|  | Disclosure 101-3 Access and benefit-sharing | 13.3.4 |
+|  | Disclosure 101-4 Identification of biodiversity impacts | 13.3.5 |
+|  | Disclosure 101-5 Locations with biodiversity impacts | 13.3.6 |
+|  | Disclosure 101-6 Direct drivers of biodiversity loss | 13.3.7 |
+|  | Disclosure 101-7 Changes to the state of biodiversity | 13.3.8 |
+|  | Disclosure 101-8 Ecosystem services | 13.3.9 |
+| Additional sector disclosures |  |  |
+| Aquaculture production: The following additional sector disclosures are for organizations in the aquaculture sector: • For each species of aquatic organisms produced, report: - species' scientific name; - volume in metric tons; - farming methods; - production site. • For juvenile seed stocks captured in the wild that are used as input to aquaculture production, report: - species' scientific name; - volume in metric tons; - fishing methods; - locations of origin; - stock status, including the stock status assessments or systems used.7 • Report the use of fishing products in feed, including the following: - species' scientific name; - whether the whole fish or fish waste (trimmings, offcuts, and offal) is used; - locations of origin; - stock status, including the stock status assessments or systems used. |  | 13.3.10 |
+|  |  |  |
+| Aquatic organisms caught or harvested: The following additional sector disclosure is for organizations in the fishing sector:8 • For each species of aquatic organisms harvested, including non-target species, report: - species' scientific name; - volume in metric tons; - fishing methods; - locations of origin; - stock status, including the stock status assessments or systems used.9 |  | 13.3.11 |
 
-### References and resources
-
+#### References and resources
 GRI 101: Biodiversity 2024 lists authoritative intergovernmental instruments, additional references, and resources relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on biodiversity by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.5 Waste
-
-Waste refers to anything that a holder discards, intends to discard, or is required to discard. When inadequately managed, waste can have negative impacts on the environment and human health, which can extend beyond the locations where waste is generated and discarded. This topic covers impacts from waste, including as a result of construction and rehabilitation activities.
-
-Oil and gas activities typically generate high volumes of waste, including hazardous waste. The largest waste streams derive from the extraction or processing of oil and gas and can consist of drilling muds and cuttings, scale, and sludges, which in turn, can contain chemical additives, hydrocarbons, metals, naturally occurring radioactive material (NORM) and salts. These waste streams may contaminate surface water, groundwater, seawater with chemicals or heavy metals, and negatively impact plant and animal species as well as human health. Impacts can depend on an organization’s approach to waste management, regulation, and on availability of recovery and disposal facilities in the proximity of activities.
-
-Waste streams that cannot be reduced, or diverted from disposal, are typically stored, treated or disposed through various methods. When disposed of in underground injection wells, drilling waste can trigger seismicity or lead to groundwater contamination. In some offshore operations, drilling fluids might also be discharged into waterways or the ocean, depending on regulation and the availability of alternative outlets. If waste is disposed of on land or if hazardous substances from waste storage facilities leach into the ground, other impacts can include contamination of land, loss of land productivity, and erosion. In remote areas with limited recovery and disposal methods, waste impacts can be more severe or harder to monitor.
-
-In oil sands mining, the largest waste stream is tailings, a hazardous waste stream produced during the process of separating oil from sand (see topic 11.8 Asset integrity and critical incident management). Some tailings ponds have been found to leach chemicals, causing health risks for local communities and wildlife.
-
-When operations end, closure and rehabilitation activities usually involve the final disposal of hazardous chemicals and managing substantial quantities of materials from disused structures or equipment (see topic 11.7 Closure and rehabilitation). Other typical wastes from oil and gas activities include waste oils, construction waste, and domestic and office waste.
-
-Box 3. Use of materials The type and quantity of materials used by an organization in the oil and gas sector can signify its dependence on natural resources and its impacts on their availability. Related environmental impacts depend on the organization’s approach to sourcing, use, and disposal of these materials.
-
-Oil and gas extraction, development, production, and processing activities represent a large proportion of the sector’s use of materials. Concrete, cement, steel and other metals are necessary to construct offshore platforms and onshore facilities, as well as for the equipment and infrastructure needed to extract, process and transport oil and gas (e.g., valves, tubing and pipelines). Large volumes of chemicals are used during drilling and well completion.
-
-The oil and gas sector has opportunities for efficient use of materials. These include using its significant purchasing power to create demand for more responsibly produced materials or implementing circularity measures that aim at reusing or recycling materials from disused structures, such as steel and concrete.
-
-The use of materials is addressed in GRI 301: Materials 2016.
-
-### Reporting on waste
-
-If the organization has determined waste to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on biodiversity by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+7 The organization can use any stock status assessments or systems that are relevant to the location of origin and species. 8 Requirement 101-6-b-i in GRI 101: Biodiversity 2024 requires information on wild species harvested at the organization's sites with the most significant
+impacts on biodiversity where its activities lead or could lead to the exploitation of natural resources. This information can support the reporting for additional sector disclosure 13.3.11. 9 The organization can use any stock status assessments or systems that are relevant to the location of origin and species.
+### Topic 13.4 Natural ecosystem conversion
+Natural ecosystem conversion refers to the human-induced change of a natural ecosystem to another use or a profound change in a natural ecosystem’s species composition, structure, or function. This topic covers impacts related to natural ecosystem conversion, including land clearance, severe degradation, or the introduction of management practices that lead to substantial and sustained change in natural ecosystems’ former species composition, structure, or function.
+Natural ecosystems offer important ecosystem services, including absorbing and storing vast quantities of carbon dioxide (CO2). When natural ecosystems are converted, stored carbon can be released into the atmosphere, contributing to greenhouse gas (GHG) emissions and climate change. Estimates show that the loss of primary tropical forests in 2019 resulted in the release of more than 2 billion tons of CO2 [86] (see topics 13.1 Emissions and 13.2 Climate adaptation). Conversion of natural ecosystems can also lead to the loss of biodiversity, acceleration of soil erosion, and increased runoff and water pollution (see also topics 13.3 Biodiversity, 13.5 Soil health, and 13.7 Water and effluents).
+In agriculture and aquaculture sectors, natural ecosystem conversion can occur when terrestrial and aquatic ecosystems are used for animal breeding, grazing, crop production, aquaculture production, and ancillary activities. This can occur rapidly, with a substantial change taking place in a short time, or gradually, with incremental changes over a long time.
+Conversion of terrestrial ecosystems can include the conversion of forests, grasslands, woodlands, or savannas. Deforestation occurs when primary and secondary forests are cleared, often by burning. Deforestation in tropical rainforests can have severe impacts because they provide habitats for many of the world's species.
+Aquaculture operations can result in clearing mangroves, salt marshes, and wetlands or profound and sustained changes to the coastal, lake, and river ecosystems to make them fit for aquatic farming sites. Aquaculture also relies heavily on crops, such as soy, for fish feed, which can contribute to the conversion of terrestrial ecosystems. Feed ingredients need to be traceable to identify and prevent the potential negative impacts associated with conversion (see topic 13.23 Supply chain traceability).
+The rate of deforestation and other forms of conversion in the agriculture sector has been increasing to give way to plantations and pastures [91]. Deforestation and other forms of conversion occur in the supply chains of beef, soy, palm oil, cocoa, coffee, rubber, and other products. To be deemed deforestation- or conversion-free, products must be assessed as not causing or contributing to natural ecosystem conversion, including deforestation, after an
+appropriate cut-off date.10
+People can be displaced due to physical changes to the landscapes surrounding their communities or degradation and depletion of natural resources or other ecosystem services that the community relies on (see also topics 13.12 Local communities and 13.13 Land and resource rights). Loss of natural ecosystems and resources can also cause food insecurity. For Indigenous Peoples, natural ecosystem conversion can result in the loss of cultural and spiritual heritage and livelihoods and affect the rights to self-determination and self-governance (see also topic 13.14 Rights of Indigenous Peoples).
+10 A cut-off date is defined by the Accountability Framework as ‘the date after which deforestation or conversion renders a given area or production unit
+non-compliant with no-deforestation or no-conversion commitments, respectively’ [92].
+#### Reporting on natural ecosystem conversion
+If the organization has determined natural ecosystem conversion to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.5.1 |
-| Topic Standard disclosures |  |  |
-| GRI 306: Waste 2020 | Disclosure 306-1 Waste generation and significant waste-related impacts | 11.5.2 |
-|  | Disclosure 306-2 Management of significant waste-related impacts | 11.5.3 |
-|  | Disclosure 306-3 Waste generated Additional sector recommendations • When reporting the composition of the waste generated, include a breakdown of the following waste streams, if applicable: - Drilling waste (muds and cuttings) - Scale and sludges - Tailings | 11.5.4 |
-|  | Disclosure 306-4 Waste diverted from disposal Additional sector recommendations • When reporting the composition of the waste diverted from disposal, include a breakdown of the following waste streams, if applicable: - Drilling waste (muds and cuttings) - Scale and sludges - Tailings | 11.5.5 |
-|  | Disclosure 306-5 Waste directed to disposal Additional sector recommendations • When reporting the composition of the waste directed to disposal, include a breakdown of the following waste streams, if applicable: - Drilling waste (muds and cuttings) - Scale and sludges - Tailings | 11.5.6 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe policies or commitments to reduce or eliminate natural ecosystem conversion, including target1 1 and cut-off1 2 dates, for the following: - the organization’s own production; - sourcing of terrestrial animal and fish feed; - products sourced by the organization for aggregation, processing, or trade. • Describe how the organization ensures that its suppliers comply with its natural ecosystem conversion policies or commitments, including through sourcing policies and contracts. • Report the organization’s participation in multi-stakeholder, landscape,13 or sectoral initiatives intended to reduce or eliminate natural ecosystem conversion. • Describe the tools and systems used to monitor natural ecosystem conversion in the organization’s activities, supply chain, and sourcing locations. | 13.4.1 |
+| Additional sector disclosures |  |  |
+| Deforestation- and conversion-free production: Report the percentage of production volume from land owned, leased, or managed by the organization determined to be deforestation- or conversion-free, by product, and describe the assessment methods used.14 |  | 13.4.2 |
+| Deforestation- and conversion-free sourcing: For products sourced by the organization, report the following by product: • the percentage of sourced volume determined to be deforestation- or conversion-free, and describe the assessment methods used; • the percentage of sourced volume for which origins are not known to the point where it can be determined whether it is deforestation- or conversion-free, and describe actions taken to improve traceability. |  | 13.4.3 |
+| Natural ecosystems converted by the organization: Report the size in hectares, location, and type1 5 of natural ecosystems converted since the cut-off date on land owned, leased, or managed by the organization.16 |  | 13.4.4 |
+| Natural ecosystems converted by suppliers: Report the size in hectares, location, and type of natural ecosystems converted since the cut-off date by suppliers or in sourcing locations.17 |  | 13.4.5 |
 
-### References and resources
+11 A target date is defined by the Accountability Framework as ‘the date by which [the organization] intends to have fully implemented its commitment
+or policy’ [92]. 12 Cut-off dates may differ between commodities and regions. Appropriate cut-off dates can be selected based on sector-wide or regional cut-off dates,
+or those specified in certification programs, legislation, voluntary initiatives, or based on the availability of monitoring data. More guidance on identifying appropriate cut-off dates can be found in Accountability Framework Operational Guidance on Cutoff Dates [93].
+#### References and resources
+GRI 101: Biodiversity 2024 lists authoritative intergovernmental instruments, additional references, and resources relevant to reporting on this topic.
+The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on natural ecosystem conversion by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+13 Landscapes refer to natural and/or human-modified ecosystems, often with a characteristic configuration of topography, vegetation, land use, and
+settlements. Landscape initiatives refer to how organizations in the production and sourcing of agricultural products need to work beyond their own supply chains to address sustainability issues and support positive outcomes for the people and sourcing locations. These definitions are based on Food and Agriculture Organization, Landscape approaches: key concepts [84] and Proforest, Landscape initiatives [88]. 14 Assessment methods can include monitoring, certification, sourcing from low-risk jurisdictions with no or negligible recent conversion, or sourcing
+from verified suppliers. 15 The organization can report ecosystem types using the biomes or ecosystem functional groups in the IUCN Global Ecosystem Typology.
+Alternatively, the organization can report according to another global classification, national classification, or register. if the organization cannot use ecosystem classifications, it can use land use classifications (e.g., Globio land use categories) instead. 16 Requirement 101-6-a-i in GRI 101: Biodiversity 2024 requires information on natural ecosystems converted at the organization's sites with the most
+significant impacts on biodiversity where its activities lead or could lead to land and sea use change. This information can support the reporting for additional sector disclosure 13.4.4. 17 Requirement 101-6-e in GRI 101: Biodiversity 2024 requires information on natural ecosystems converted for products and services in its supply chain
+with the most significant impacts on biodiversity where its activities lead or could lead to land and sea use change. This information can support the reporting for additional sector disclosure 13.4.5.
+### Topic 13.5 Soil health
+Soil health is the capacity of soil to function as a living ecosystem and to sustain plant and animal productivity, promote plant and animal health, and maintain or enhance water and air quality. This topic covers impacts on soil health, including soil erosion, soil loss, and reduction in soil fertility.
+Recent estimates suggest that 80% of agricultural land is affected by moderate to severe erosion [97]. Although soil erosion occurs naturally, agricultural activities can significantly accelerate this process by removing vegetation cover, tillage, soil compaction, irrigation, and overgrazing by livestock.
+In agriculture, original vegetation cover is removed to make land available for crop production or animal grazing. Agricultural crops rarely hold onto the topsoil as well as the original vegetation cover, increasing soil erosion and potentially reducing soil fertility. Estimates show that half of the topsoil globally has been lost in the past 150 years [102]. Grazing livestock can also cause impacts on soil structure through excessive defoliation, defecation, and trampling.
+Soil erosion can also be accelerated by tillage. Soil erosion in agricultural fields exceeds soil formation at rates estimated between 10 to 20 times higher when there is no tillage and over 100 times higher when conventional tillage is used [101]. The increased erosion is because conventional tillage inverts and breaks up the soil, destroys the soil structure, and buries crop residues. Tilled soils have less capacity to support loads applied to the ground and are consequently more sensitive to compaction caused by agricultural machinery, which can lead to impacts on soil biodiversity. Minimum till or no-till methods, which reduce tillage area and tillage depth, crop protection, and other soil management practices, can help to reduce soil erosion.
+Fertilizers, both organic and inorganic, as well as pesticides, have an impact on soil health (see also topic 13.6 Pesticides use). Excessive use of inorganic fertilizers can increase soil acidity levels and alter soil fertility. Pesticides can affect soil communities by influencing the performance of soil biota or modifying it. This can compromise the abundance and composition of the entire soil food web.
+The main ingredients of fertilizers commonly used in agriculture are nitrogen, phosphorus, and potassium. The presence of phosphorus in agricultural runoff can accelerate eutrophication. Alterations to the global nitrogen cycle can lead to the rise of nitrous oxide levels in the atmosphere. Excessive use of nitrogen fertilizers in agriculture has been a major source of nitrate pollution in groundwater and surface water affecting access to clean water for local communities.
+#### Reporting on soil health
+If the organization has determined soil health to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
-GRI 306: Waste 2020 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the soil management plan, including: - a link to this plan if publicly available; - the main threats to soil health identified and a description of the soil management practices used; - the approach to input optimization, including the use of fertilizers. | 13.5.1 |
 
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on waste by the oil and gas sector are listed in the Bibliography.
+#### References and resources
+The authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on soil health by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.6 Pesticides use
+Pesticides are chemical or biological substances intended to regulate plant growth or control, repel, or destroy any pest. This topic covers an organization’s approach and impacts related to pesticides use, including the impact of their toxicity on non-target organisms.
+Pesticides include herbicides, insecticides, fungicides, nematicides, and rodenticides and can be used in crop production to control weeds and other pests. Pesticides can decrease the spread of diseases and pests, increase production yields, and potentially limit the need to convert more land.
+Conversely, if not handled properly pesticides can induce adverse health effects in humans by interfering with reproduction, immune, and nervous systems. Pesticides can also have negative impacts on biodiversity because of their toxicological effects. For example, pesticides that target insects or weeds can be toxic to birds, fish, and nontarget plants and insects. These impacts can threaten ecosystem services, such as pollination, and adversely impact food security and people’s livelihoods (see also topic 13.3 Biodiversity).
+Each pesticide has different properties and toxicological effects. The World Health Organization (WHO) classifies the toxicity hazard levels for pesticides as either extremely hazardous, highly hazardous, moderately hazardous, slightly hazardous, or unlikely to present an acute hazard. Toxicity depends on the pesticide’s function and other factors, such as its use and disposal. The regulation of pesticides is not always consistent across the world. Some pesticides, usually those classified as extremely and highly hazardous, are unregistered or banned in some countries but may remain available in others.
+Workers and other people in the immediate area have the potential to be most affected during or right after pesticides are applied. Pesticides can also stay in soil and water for years and have long-term negative impacts on local communities and the local environment (see also topic 13.8 Waste). Women and children can be particularly vulnerable to negative health effects caused by exposure to pesticides (see topic 13.12 Local communities and also topic 13.19 Occupational health and safety). Exposure to pesticide residue is also possible through food and water (see also topic 13.7 Water and effluents and topic 13.10 Food safety).
+The Food and Agriculture Organization (FAO) estimates that in developing countries, 80% of the increase in food production needed to keep pace with population growth is projected to come from greater crop yields. This could trigger a further intensification of pesticide use to generate higher yields. The intensive use of pesticides sometimes leads to resistance and outbreaks of secondary pests.
+Integrated pest management in agriculture seeking to optimize pest control and mitigate negative impacts is a widely recognized approach that considers biological, chemical, physical, and crop-specific pest control practices. When pest control through the application of chemicals cannot be avoided, organizations are expected to manage pesticide use to minimize negative impacts and the application of extremely and highly hazardous pesticides [105].
+18 Pest is defined by the Food and Agriculture Organization and the World Health Organization as any species, strain or biotype of plant, animal or
+pathogenic agent injurious to plants and plant products, materials or environments and includes vectors of parasites or pathogens of human and animal disease and animals causing public health nuisance [97].
+#### Reporting on pesticides use
+If the organization has determined pesticides use to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
-## Topic 11.6 Water and effluents
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the pest management plan of the organization, including the rationale for the selection and application of pesticides and any other practices of pest control. • Describe actions taken to prevent, mitigate and/or remediate negative impacts associated with the use of extremely and highly hazardous pesticides. • Describe the actions, initiatives, or plans to switch to less hazardous pesticides and actions taken to optimize pest control practices. • Describe the training provided to workers on pest management and the application of pesticides. | 13.6.1 |
+| Additional sector disclosures |  |  |
+| Pesticides used by toxicity hazard levels: Report the volume and intensity of pesticides used by the following toxicity hazard levels:19 • Extremely hazardous; • Highly hazardous; • Moderately hazardous; • Slightly hazardous; • Unlikely to present an acute hazard. |  | 13.6.2 |
 
+#### References and resources
+The authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on pesticides use by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+19 The criteria for toxicity hazard levels and a list of pesticides classified by hazard level can be found in the World Health Organization Recommended
+Classification of Pesticides by Hazard [116].
+### Topic 13.7 Water and effluents
 Recognized as a human right, access to fresh water is essential for human life and well-being. The amount of water withdrawn and consumed by an organization and the quality of its discharges can have impacts on ecosystems and people. This topic covers impacts related to the withdrawal and consumption of water and the quality of water discharged.
-
-Oil and gas activities can reduce water availability for local communities and other sectors that also rely on the resource. They can have impacts on the quality of surface water, groundwater and seawater, which can translate into long-term impacts on ecosystems and biodiversity (topic 11.4), cause health and development problems for humans, and impair food security.
-
-Extraction and processing are the oil and gas sector activities that use the largest volumes of water. The quantity of water required for these activities vary according to the oil and gas extraction method, local geology, and the degree of processing required. Some extraction or processing methods, including hydraulic fracturing and oil sands mining are particularly water intensive. The amount of water withdrawn for certain activities also varies according to an organization’s ability to substitute the use of freshwater, the quality of water required, recycling infrastructure and the characteristics of local water resources.
-
-Oil and gas organizations may also need to manage large quantities of produced water or process wastewater, which typically contain hydrocarbons, chemicals, or other hazardous substances. To minimize water impacts, produced water and process wastewater may be reinjected for well stimulation or reused in other processes. If not, they may be discharged to surface water, groundwater, seawater, or a third party; dispersed over land; or stored in evaporation ponds. When discharged, the impacts to water vary according to the sensitivity of the receiving waterbody and the quality of the water discharged.
-
-Contamination can also result from the injection of drilling fluids into wells and flowback from hydraulic fracturing. This can cause underground contaminants to seep and pollute groundwater resources. Inefficient treatment of water discharges, oil spills from transportation accidents, ruptured pipelines or seepage, or failure of an oil sands tailings dam can also have similar impacts on water quality (see topic 11.8 Asset integrity and critical incident management).
-
-The oil and gas sector’s impacts on water additionally depend on the quantity of local water resources; where water is scarce, the sector has a greater impact. A large proportion of the world’s oil and gas resources are found in areas that are arid or experience water stress. In such areas, the sector’s activities are likely to increase competition for water in demand for other uses – such as for household use and fishing, aquaculture, or agricultural activities. This may exacerbate tensions between, as well as within, sectors or local communities. Droughts, floods, and other extreme weather events related to climate change will likely pose more frequent challenges related to water availability and quality in the future.
-
-### Reporting on water and effluents
-
-If the organization has determined water and effluents to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+Water is a critical input for crop and animal production, as well as aquaculture. The agriculture sector accounts for an estimated 70% of total water withdrawn globally [120]. In crop production, withdrawn water is primarily used to irrigate land, apply pesticides and fertilizers, and control crop cooling and frost.
+Water has critical importance to agricultural productivity. On average, irrigated land is twice as productive per unit as non-irrigated land. Irrigation can be achieved through different methods, including surface irrigation or subsurface irrigation. Water can be withdrawn from groundwater or surface water, such as lakes and reservoirs, or come in the form of treated wastewater or desalinated water. Intensive water withdrawal can decrease aquifer levels, which reduces the long-term sustainability of water resources and increases access costs for all users (see also topic 13.12 Local communities).
+In animal production, water is used for animal hydration and cleaning. It is also used for the washing and sanitization of milking and slaughter equipment used to process animal products. Effluents containing waste from terrestrial animals, fertilizers, and pesticides can contribute to the pollution of surface and groundwater.
+Aquaculture water use is associated with raising aquatic organisms in water and can require significant amount of surface water. Aquaculture production occurs in ponds, artificial channels, and, to a lesser extent, closed-recirculation tanks. Because aquaculture operations take place in controlled environments, much of the water withdrawn can be returned to the source after use.
+Nutrient buildup from discharges in water bodies near fish farms is a typical water impact from aquaculture production. This issue is exacerbated in high-density farms when fish feces discharged into water potentially deplete oxygen levels and create algal blooms that lead to eutrophication. The eutrophication and acidification of water results in negative impacts on biodiversity. Water quality affects habitat and food sources for animals. Contaminated water can also adversely affect people’s access to clean water, compromising their health and livelihoods.
+In fishing operations, wastewater can be discharged to the sea from fishing vessels. This includes water used to store fish aboard the vessel, which can contain fish waste from gutting and bleeding, as well as materials and coating from the hold and onboard refrigeration systems. Wastewater could also come from cleaning holds and machinery containing detergents, disinfectants and oily mixtures. Discharges can cause oxygen depletion in sea water and pollution in coastal areas.
+20 The International Convention for the Prevention of Pollution from Ships (MARPOL) contains provisions on discharges of wastewater from vessels
+[117].
+#### Reporting on water and effluents
+If the organization has determined water and effluents to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.6.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.7.1 |
 | Topic Standard disclosures |  |  |
-| GRI 303: Water and Effluents 2018 | Disclosure 303-1 Interactions with water as a shared resource | 11.6.2 |
-|  | Disclosure 303-2 Management of water discharge-related impacts | 11.6.3 |
-|  | Disclosure 303-3 Water withdrawal | 11.6.4 |
-|  | Disclosure 303-4 Water discharge Additional sector recommendations • Report volume in megaliters of produced water and process wastewater discharged. • Report the concentration (mg/L) of hydrocarbons discharged in produced water and process wastewater. | 11.6.5 |
-|  | Disclosure 303-5 Water consumption | 11.6.6 |
+| GRI 303: Water and Effluents 2018 | Disclosure 303-1 Interactions with water as a shared resource | 13.7.2 |
+|  | Disclosure 303-2 Management of water discharge-related impacts | 13.7.3 |
+|  | Disclosure 303-3 Water withdrawal | 13.7.4 |
+|  | Disclosure 303-4 Water discharge | 13.7.5 |
+|  | Disclosure 303-5 Water consumption | 13.7.6 |
 
-### References and resources
-
+#### References and resources
 GRI 303: Water and Effluents 2018 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on water and effluents by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.7 Closure and rehabilitation
-
-At the end of commercial use, organizations are expected to close assets and facilities and rehabilitate operational sites. Impacts can occur during and after closure. This topic covers an organization’s approach to closure and rehabilitation, including how the organization considers the impacts on the environment, local communities, and workers.
-
-Oil and gas facilities can continue to generate environmental impacts after closure, including soil and water contamination, changes to landforms, and disturbance of biodiversity and wildlife. Closure can also lead to lasting impacts on local communities. Failure to close facilities and rehabilitate sites effectively can render land unusable for other productive purposes and can result in health and safety hazards due to contamination or to the presence of hazardous materials.
-
-Closure and rehabilitation of oil and gas fields can include removal and final disposal of hazardous substances and chemicals; capping or plugging abandoned wells; dismantling structures and reusing, recycling or disposing materials. It can also include the management of waste; surface water and groundwater quality issues resulting from spills and leaks; and restoration of lands to a condition or economic value equivalent to the pre-development state. Closing oil sands mining sites also involves managing tailings ponds (see also topic 11.8 Asset integrity and critical incident management).
-
-Several international conventions (see references [168], [169] and [170] in the Bibliography) require decommissioning and removing all offshore structures at the end of field life. However, these requirements may be subject to different interpretations across countries, where national regulations or regional conventions can take precedence over international conventions. As a result, organizations in the oil and gas sector may lack clear rules for filing decommissioning plans with local governments and taking action on them once offshore structures become disused.
-
-Decommissioning and dismantling offshore structures can be costly and complex due to their size, weight, and location. There may be additional complexities and environmental considerations when, for example, structures that should be removed become part of benthic4 communities and habitats. In some cases, decommissioning can occur in situ and structures may be left in place. When this happens, impacts can include marine pollution from corrosion, ecosystem changes, damage to fishing equipment, and navigational hazards to shipping.
-
-The closure and rehabilitation phase may offer additional employment opportunities to local communities. However, once this phase is completed, workers may be retrenched and local communities may face economic downturn and social disruption if they have come to depend on the oil and gas sector’s activities for employment as well as for income, taxes and other payments to governments, community development, and other benefits.
-
-To anticipate potential impacts, planning for closure often requires planning in the early phases of a project. Impacts from closure can be exacerbated if there is insufficient notice or lack of adequate planning for economic revitalization, social protection, and labor transition. Without clearly assigned responsible parties or allocated funds, closed oil and gas facilities can leave a legacy of environmental issues and financial burdens for communities and governments. The need to reduce GHG emissions and to transition to a low-carbon economy (see topic 11.1 Climate change) is expected to lead to more frequent closures. These are less likely to be counterbalanced by openings, as has been the case in the past. Collaboration between local and national governments and organizations, as well as with workers and unions, is necessary to mitigate significant impacts and ensure a just transition.
-
-Technological solutions that would allow repurposing or extending the life of assets after production ceases (e.g., using pipelines for CO storage or transport of low-carbon fuels) are being tested, but have yet to be proven effective and economically viable.
-
-4 Benthic is defined by the Merriam-Webster as 'of, relating to, or occurring at the bottom of a body of water, or, of, relating to, or occurring in the depths of the ocean' [171].
-
-### Reporting on closure and rehabilitation
-
-If the organization has determined closure and rehabilitation to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+The additional references used in developing this topic, as well as resources that may be helpful for reporting on water and effluents by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.8 Waste
+Waste refers to anything that a holder discards, intends to discard, or is required to discard. When inadequately managed, waste can have negative impacts on the environment and human health, which can extend beyond the locations where waste is generated and discarded. This topic covers impacts from waste and the management of waste.
+Waste from organizations in the agriculture, aquaculture, and fishing sectors includes organic waste, such as crop waste, animal manure, fish feces, animal carcasses; and inorganic waste, such as plastics. It can also include hazardous waste, such as pesticides containers, and materials from animal health products.
+Some organic by-products have the potential to be used as a biomass energy source, feed or fertilizers, contributing to circularity measures. For example, trimmings and offcuts from aquaculture and fishing operations can be turned into fishmeal and oil, while manure produced by animals is an organic fertilizer that can improve soil health. However, if incinerated without energy recovery or directed to landfills, by-products turn into waste and cause negative environmental impacts, including greenhouse gas (GHG) emissions and water pollution (see also topic 13.1 Emissions, topic 13.7 Water and effluents). In addition, organic waste from terrestrial and aquatic animals may contain microorganisms and parasite eggs. These pathogens can spread in receiving environments and cause ill health in humans.
+In aquaculture operations, fish feed and feces can settle at the bottom of ponds or in inactive zones of raceways as liquid or solid organic waste. Fish feces may also reach and pollute waterbodies. Pollution and waste impacts from fish feces and settleable solids can be minimized through water management (see also topic 13.7 Water and effluents).
+Aquaculture activities generate considerable amounts of plastic waste. Plastics are widely used for equipment, disposable gloves, and for packaging various inputs, such as feed sacks and wrapped consumables. Plastic can also be used in pond liners, harvest nets, pipework, buoys, ropes, incubation jars, and containers. In fishing, various marine tools, such as floats, fishing nets and lines, strapping bands, wire ropes, and sails, also consist of plastics.
+Discarded or abandoned plastic waste can contaminate the surrounding environments and enter the ocean and other waterbodies. Abandoned, lost, or otherwise discarded fishing gear contributes to waste and overfishing (see also topic 13.3 Biodiversity). Fish and aquatic animals sometimes mistake plastic waste for food and get trapped in items such as ropes, nets, and bags. The management of waste generated onboard fishing vessels, including plastics, paper products, food waste, and chemicals, is regulated by international maritime standards (see references [125], [126] and [127]).
+Incorrectly disposed waste from agriculture, aquaculture and fishing activities can have lasting impacts on receiving environments, causing long-term contamination of soil and water. Contamination of agricultural land and natural resources causes negative impacts on the health and safety of local communities and can impact the safety of food produced (see also topic 13.10 Food safety, topic 13.12 Local communities, and topic 13.14 Rights of Indigenous Peoples).
+#### Reporting on waste
+If the organization has determined waste to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.7.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.8.1 |
 | Topic Standard disclosures |  |  |
-| GRI 402: Labor/Management Relations 2016 | Disclosure 402-1 Minimum notice periods regarding operational changes Additional sector recommendations • Describe the approach to engaging workers in advance of significant operational changes. | 11.7.2 |
-| GRI 404: Training and Education 2016 | Disclosure 404-2 Programs for upgrading employee skills and transition assistance programs | 11.7.3 |
+| GRI 306: Waste 2020 | Disclosure 306-1 Waste generation and significant waste-related impacts | 13.8.2 |
+|  | Disclosure 306-2 Management of significant waste-related impacts | 13.8.3 |
+|  | Disclosure 306-3 Waste generated Additional sector recommendations The following additional sector recommendations are for organizations in the fishing sector: • Report a breakdown of the total weight of waste generated on vessels to which the International Convention for the Prevention of Pollution from Ships (MARPOL) is applicable by MARPOL categories in metric tons.21 • Describe the recovery and disposal operations used to manage each MARPOL category of waste. | 13.8.4 |
+|  | Disclosure 306-4 Waste diverted from disposal | 13.8.5 |
+|  | Disclosure 306-5 Waste directed to disposal | 13.8.6 |
+
+#### References and resources
+GRI 306: Waste 2020 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
+The additional references used in developing this topic, as well as resources that may be helpful for reporting on waste by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+21 A list of ‘garbage types’ or categories can be found in MARPOL Annex V [127]. Further information on these categories can be found in the 2017
+Guidelines for the Implementation of MARPOL Annex V [125].
+### Topic 13.9 Food security
+Food security means that people have physical and economic access to sufficient, safe, and nutritious food that is acceptable within a given culture and meets people’s dietary needs and food preferences for an active and healthy life. Adequate food is a human right and is crucial to the enjoyment of all rights. This topic covers impacts on the dimensions of food security.
+Food insecurity is a prevalent global issue. In 2018, more than 820 million people faced hunger, and as populations grow, global food needs will increase [147]. Many people cannot afford food or are forced to consume insufficient or low-quality food. Since 2014, undernourishment and food insecurity have consistently increased, putting global goals to end hunger at risk [146].
+Agriculture, aquaculture, and fishing organizations have impacts on food supply and affordability. Quantity, quality, and accessibility of food also depend on farming and fishing practices.
+Globally, land used for agriculture is estimated at 38% of the total land surface [142]. Some regions are already constrained, limiting further land use expansion for food production (see also topic 13.4 Natural ecosystem conversion). Almost half of the world’s calorie supply is derived from essential crops, such as maize, rice, and wheat. Competing demands for land, cultivation costs, and low margins may affect the supply and affordability of these crops. Climate change and adverse weather events can also cause impacts on yields, potentially increasing food losses (see also topic 13.2 Climate adaptation).
+#### Box 1. Food loss
+In agriculture, aquaculture, and fishing, products originally intended as food for human consumption that end up as waste are categorized as food loss. The Food and Agriculture Organization (FAO) estimates that 13.8% of food, from harvest to retail, was lost globally in 2016 [145].
+Inefficiencies can cause food loss at different stages of the supply chain. At the farm level, they can be due to inadequate harvesting time, climatic conditions, handling practices, post-harvest activities, and challenges related to selling products. Food loss is accompanied by the loss of resources – including water, land, energy, labor, and capital – and contributes to greenhouse gas (GHG) emissions.
+Measures to prevent food loss include adequate storage temperatures and conditions, sound infrastructure, and efficient transportation. Primary processing conditions and packaging can play a role in preserving agriculture, aquaculture, and fishing products.
+Achieving food security is likely to involve trade-offs in terms of how land and products are used. For example, utilizing human-edible products for other uses means they are not available as food.
+Intensive crop and animal production can result in increased availability of food. However, intensive production can also be associated with negative impacts on the environment and yields in the longer-term. Many agricultural practices deplete soil nutrients more quickly than can be formed, undermining the sustainability dimension of food security (see also topic 13.5 Soil health). Regenerative and organic practices, such as rotating crops or planting at optimal times, are considered to have the potential to contribute to greater soil health and productivity, and resilience of food production.
+22 Food security has multiple dimensions: food availability, access, use, stability, and sustainability. An additional dimension of agency is understood
+as the capacity of individuals or groups to make decisions about the food they eat and how that food is produced [151].
+#### Reporting on food security
+If the organization has determined food security to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
+
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the effectiveness of actions and programs on food security at local, regional, national, or global levels. • Report partnerships which the organization is part of that address food security, including engagement with governments. • Describe policies or commitments to address food loss in the supply chain. | 13.9.1 |
 | Additional sector disclosures |  |  |
-| Closure and rehabilitation of sites: List the operational sites that: • have closure and rehabilitation plans in place; • have been closed; • are in the process of being closed. |  | 11.7.4 |
-| Decommissioned structures in place: List the decommissioned structures left in place and describe the rationale for leaving them in place. |  | 11.7.5 |
-| Financial provisions for closure and rehabilitation: Report the total monetary value of financial provisions for closure and rehabilitation made by the organization, including post-closure monitoring and aftercare for operational sites. |  | 11.7.6 |
+| Food loss: Report the total weight of food loss in metric tons and the food loss percentage, by the organization’s main products or product category, and describe the methodology used for this calculation.23 |  | 13.9.2 |
 
-### References and resources
-
-GRI 402: Labor/Management Relations 2016 and GRI 404: Training and Education 2016 list authoritative intergovernmental instruments relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on closure and rehabilitation by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.8 Asset integrity and critical incident management
-
-Asset integrity and critical incident management deal with the prevention and control of incidents that can lead to fatalities, injuries or ill health, environmental impacts, and damage to local communities and infrastructure. This topic covers impacts from such incidents and an organization’s approach to managing them.
-
-Critical incidents in the oil and gas sector can have catastrophic consequences for workers, local communities (see topic 11.9 Occupational health and safety and topic 11.15 Local communities), the environment and cause damage to organizations’ assets. In addition to fatalities and injuries, these incidents can cause air, soil, and water contamination. These impacts have the potential to disrupt other economic activities that depend on these natural resources, such as fishing and agriculture, affecting livelihoods, and compromising food safety and security. They can also lead to ecosystem and habitat degradation and animal mortality.
-
-Critical incidents related to the oil and gas sector include loss of control or containment of hydrocarbons, well blowout, explosions, fires, unplanned plant disruption and shutdown, and tailings dam failures from operations related to oil sands. Oil and gas spills and leaks, for example due to undetected failures in equipment or which occur during distribution of oil and gas by marine, road, or rail transport or pipelines may pollute the soil and water as well as harm species (see also topic 11.6 Water and effluents and topic 11.4 Biodiversity). Events or incidents involving methane and other GHG emissions also contribute to climate change (see topic 11.1 Climate change).
-
-Organizations in the oil and gas sector can prevent critical incidents with an effective process safety management system. Process safety refers to the systematic application of good design, construction, and operating principles to ensure the safe containment of hazardous materials; it also addresses the sources or factors that lead to potential incidents. A process safety management system can also limit impacts associated with critical incidents related to extreme weather events, which are likely to increase in frequency and intensity due to the effects of climate change.
-
-Box 4. Oil sands tailings Oil sands mining typically uses large amounts of water to separate bitumen from sand. This generates tailings, which contain large quantities of hazardous waste, including hydrocarbons and heavy metals. On average, 1.5 barrels of tailings get stored for each barrel of bitumen produced.
-
-Tailings facilities for oil sands mining present considerable asset integrity risks. Available technology to treat oil sand tailings currently fails to manage this waste effectively. As a result, tailings continue to accumulate in ponds, which cover increasingly vast areas of land. Poor design or management of tailing ponds can cause leaks or dam failures, polluting the surrounding surface water, groundwater, or cause critical incidents that may have severe impacts on the local environment and communities.
-
-### Reporting on asset integrity and critical incident management
-
-If the organization has determined asset integrity and critical incident management to be a material topic, this subsection lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+#### References and resources
+The authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on food security by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+23 Guidance on calculating the food loss percentage can be found in the Food Loss and Waste Accounting and Reporting Standard [158] and the SDG
+12.3.1: Global Food Loss Index [157].
+### Topic 13.10 Food safety
+Food safety concerns the handling of food and feed products in a way that prevents food contamination and foodborne illness. This topic addresses an organization’s efforts to prevent contamination and ensure food safety.
+According to the World Health Organization (WHO), an estimated 600 million people worldwide fall ill after eating contaminated food each year, resulting in about 420,000 deaths annually [163]. Besides threatening public health and well-being, food safety can affect local communities, which in turn may lead to the loss of economic activity on local and global scales (see also topic 13.12 Local communities).
+Environmental contamination is a key driver of food safety impacts. The main sources of contamination from agriculture, aquaculture, and fishing activities include the pollution of water, soil, or air used by crops or animals. Contamination can also be caused by the inadequate management of crops or animals during their growth, harvest, catch, or products’ primary processing, transportation, and storage.
+Harmful bacteria, such as salmonella, listeriosis, or campylobacter, viruses and parasites can contaminate food and cause ill health in humans. Similarly, food contamination can result from antimicrobials and pesticides residues, heavy metals, and microplastics (see also topic 13.6 Pesticides use and 13.11 Animal health and welfare).
+Globally, antimicrobials, such as chemical substances and antibiotics, are widely used in terrestrial and aquatic animal production. High volumes of antimicrobials can contribute to the development of antimicrobial-resistant bacteria, particularly in intensive animal production settings. The WHO identifies antimicrobial resistance as one of the biggest threats to global health and human development [162]. Addressing antimicrobial resistance requires adequate animal health and welfare standards, including the prudent use of antibiotics for animals.
+Because food and feed products from one world region can supply another region, impacts on food safety can evolve from local into global issues, such as outbreaks of foodborne illnesses spread beyond country borders. To allow for recalls over food safety issues, products need to be traceable through the supply chain (see topic 13.23 Supply chain traceability).
+#### Reporting on food safety
+If the organization has determined food safety to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.8.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.10.1 |
 | Topic Standard disclosures |  |  |
-| GRI 306: Effluents and Waste 2016 | Disclosure 306-3 Significant spills5 Additional sector recommendations • For each significant spill, report the cause of the spill and the volume of spill recovered. | 11.8.2 |
+| GRI 416: Customer Health and Safety 2016 | Disclosure 416-1 Assessment of the health and safety impacts of product and service categories | 13.10.2 |
+|  | Disclosure 416-2 Incidents of non-compliance concerning the health and safety impacts of products and services | 13.10.3 |
 | Additional sector disclosures |  |  |
-| Process safety events: Report the total number of Tier 1 and Tier 2 process safety events, and a breakdown of this total by business activity (e.g., exploration, development, production, closure and rehabilitation, refining, processing, transportation, storage).6 |  | 11.8.3 |
-| Tailings facilities: The following additional sector disclosures are for organizations with oil sands mining operations: • List the organization’s tailings facilities. • For each tailings facility: - describe the tailings facility; - report whether the facility is active, inactive, or closed; - report the date and main findings of the most recent risk assessment. • Describe actions taken to: - manage impacts from tailings facilities, including during closure and post-closure; - prevent catastrophic failures of tailings facilities.7 |  | 11.8.4 |
+| Food safety certification: Report the percentage of production volume 24 from sites certified to internationally recognized food safety standards, and list these standards.25 |  | 13.10.4 |
+| Food safety recalls: Report the number of recalls issued for food safety reasons and the total volume of products recalled. |  | 13.10.5 |
 
-### References and resources
-
-GRI 306: Effluents and Waste 2016 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on asset integrity and critical incident management by the oil and gas sector are listed in the Bibliography.
-
-5 The effluents-related content of the GRI Standard GRI 306: Effluents and Waste 2016 has been superseded by GRI Standard GRI 303: Water and Effluents 2018, and the waste-related content has been superseded by GRI 306: Waste 2020. The spills-related content in GRI 306: Effluents and Waste 2016 remains in effect. 6 Definitions for Tier 1 and Tier 2 process safety events can be found in the API Recommended Practice 754, Process Safety Performance Indicators for the Refining and Petrochemical Industries [179]. API RP 754 focuses on refining and petrochemical operations but can be applied more widely. 7 Definitions for tailings facility and catastrophic failure can be found in the Global Industry Standard on Tailings Management (GISTM) [186].
-
-## Topic 11.9 Occupational health and safety
-
-Healthy and safe work conditions are recognized as a human right. Occupational health and safety involves the prevention of physical and mental harm to workers and promotion of workers’ health. This topic covers impacts related to workers’ health and safety.
-
-Many work-related hazards are associated with activities undertaken in the oil and gas sector, such as working with heavy machinery and exposure to or handling of explosive, flammable, poisonous, or harmful substances. Despite efforts to eliminate work-related hazards and improve workers’ health and well-being, work-related injuries and ill health, including fatalities, are still prevalent in the sector.
-
-Hazards associated with the activities of the oil and gas sector have the potential to result in high-consequence workrelated injuries. Transportation incidents, which can occur when workers and equipment are transported to and from wells, offshore rigs and other facilities, are the most common source of fatalities and injuries in the sector. Other major hazards include fire and explosions, which can originate from flammable gases or liquids during oil and gas production and transportation, and electrical hazards associated with high-voltage systems used in exploration and production facilities or equipment. Falling structures, faulty handling of heavy machinery, or malfunctioning electrical, hydraulic, or mechanical installations can result in incidents categorized as ‘struck-by’, ‘caught-in’, or ‘caughtbetween’. Workers may also be at risk of injuries from slips, trips, and falls when accessing high platforms and equipment.
-
-Hazards associated with the oil and gas sector that have the potential to result in ill health can be biological, chemical, ergonomic, or physical in origin. Commonly reported chemical hazards include respirable crystalline silica, which is released during hydraulic fracturing, for example, and can cause silicosis and lung cancer. Hydrogen sulfide released from oil and gas wells and harmful hydrocarbon gases and vapors are other commonly reported hazards. The sector’s activities also involve working in confined spaces, which may contain a high concentration of gases, such as carbon monoxide, methane, and nitrogen, that can lead to poisoning or asphyxiation. Physical and ergonomic hazards in the sector include extreme temperatures, harmful levels of radiation, and harmful levels of machinery noise or vibration, which can cause hearing impairment or loss and musculoskeletal disorders. Biological hazards prevalent in the sector include communicable diseases present in the local community or diseases due to poor hygiene and poor quality of food or water.
-
-Hazards related to common employment practices (topic 11.10) in the oil and gas sector can increase the risk of fatigue, strain, or stress and impact physical, psychological, and social health. These practices include fly-in fly-out (FIFO) work arrangements, working and living in different locations, rotational work, long shifts, long travel times, living in the workplace, interrupted rest, irregular working hours, and solitary work. Workers may also experience psychological reactions, such as post-traumatic stress disorder following a major incident. In addition, workplaces characterized by gender imbalance can contribute to increased stress, discrimination, or sexual harassment (see also topic 11.11 Non-discrimination and equal opportunity).
-
-The oil and gas sector makes extensive use of suppliers, some of which may undertake activities considered among the most dangerous. Occupational health and safety management systems may not cover suppliers’ workers in the same way employees are covered. Suppliers’ workers operating on the premises of organizations in the sector may be less familiar with the workplace and the organization’s health and safety practices or less committed to those practices. Other workers in the organization’s supply chain may be subject to lower occupational health and safety standards.
-
-### Reporting on occupational health and safety
-
-If the organization has determined occupational health and safety to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+#### References and resources
+GRI 416: Customer Health and Safety 2016 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
+The additional references used in developing this topic, as well as resources that may be helpful for reporting on food safety by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+24 Production volume refers to the total volume of products of the organization, including products sourced by the organization from suppliers. 25 This disclosure covers certification programs, assurance schemes, or verification schemes which provide a written assurance that a product is in
+conformity with certain requirements.
+### Topic 13.11 Animal health and welfare
+Animal health and welfare refers to an animal's physical and mental state in relation to the conditions in which it lives and dies. The ‘Five Freedoms’ of animal welfare are freedom from hunger and thirst; freedom from discomfort; freedom from pain, injury, and disease; freedom to express normal behavior; and freedom from fear and distress. This topic covers impacts on animal health and the five freedoms of animal welfare.
+Globally, over 60 billion terrestrial animals are reared each year, a figure set to double by 2050 due to increases in animal protein consumption. Aquaculture farms produce 52 million tons of aquatic animals, representing half of all seafood consumed by humans worldwide [171]. Animal health and welfare is crucial because it concerns productivity, the safety of animal-derived products, and the humane treatment of animals.
+Animal health management focuses on controlling potential impacts on health and preventing disease. This can include the use of antibiotics, anti-inflammatory, and hormone treatments. Overuse or misuse of antibiotics can contribute to antimicrobial resistance. Undesired residues of chemical substances in animal products can negatively impact food safety, creating public health risks (see topic 13.10 Food safety). Inadequate animal health and welfare practices can also increase the spread of zoonotic diseases, such as salmonellosis, swine flu, and bird flu, which can occur through the movement and trade of terrestrial and aquatic animals and animal products without proper biosecurity controls.
+The conditions that animals are kept in can cause negative impacts on animal health and welfare. For example, terrestrial animals can be confined to small spaces, cages, or crates, preventing their movement and inhibiting normal behavior. Highly confined spaces can also lead animals to be left untreated for disease or injuries.
+On-farm husbandry practices such as dehorning, hot-iron branding, castration, tail docking, and debeaking are associated with pain and distress. Similarly, slaughter practices can be a major source of suffering and fear. Therefore, many countries require pre-slaughter stunning to render an animal unconscious.
+In aquaculture and fishing, commonly used slaughter methods include asphyxiation, carbon dioxide stunning, and ice chilling (see references [173] and [174]). According to the World Organisation for Animal Health (OIE), these methods fail to meet the standards set out in the Aquatic Animal Health Code.
+Water quality, stock density, and rearing environment in aquaculture operations have major impacts on aquatic organisms’ health and welfare. Sea lice and diseases are among major health concerns for farmed fish and can reduce survival. Substances used to treat pests, such as lice, are usually administered via fish feed and water. When treatment is not managed properly, these substances can negatively impact non-target species, such as crustaceans, resulting in biodiversity loss (see topic 13.3 Biodiversity).
+Genetic modification performed on terrestrial and aquatic animals to increase growth and productivity may also be a source of negative impacts on animal health and welfare.
+#### Reporting on animal health and welfare
+If the organization has determined animal health and welfare to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.9.1 |
-| Topic Standard disclosures |  |  |
-| GRI 403: Occupational Health and Safety 2018 | Disclosure 403-1 Occupational health and safety management system | 11.9.2 |
-|  | Disclosure 403-2 Hazard identification, risk assessment, and incident investigation | 11.9.3 |
-|  | Disclosure 403-3 Occupational health services | 11.9.4 |
-|  | Disclosure 403-4 Worker participation, consultation, and communication on occupational health and safety | 11.9.5 |
-|  | Disclosure 403-5 Worker training on occupational health and safety | 11.9.6 |
-|  | Disclosure 403-6 Promotion of worker health | 11.9.7 |
-|  | Disclosure 403-7 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships | 11.9.8 |
-|  | Disclosure 403-8 Workers covered by an occupational health and safety management system | 11.9.9 |
-|  | Disclosure 403-9 Work-related injuries | 11.9.10 |
-|  | Disclosure 403-10 Work-related ill health | 11.9.11 |
-
-### References and resources
-
-GRI 403: Occupational Health and Safety 2018 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on occupational health and safety by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.10 Employment practices
-
-Employment practices refer to an organization’s approach to job creation, terms of employment and working conditions for its workers. This topic also covers the employment and working conditions in an organization’s supply chain.
-
-The oil and gas sector generates employment opportunities across the value chain. This can have positive socioeconomic impacts on communities, countries, and regions. While the sector usually offers well-paid opportunities for skilled workers, employment practices in the sector are also associated with negative impacts. Examples include impacts related to disparities in working conditions for contract workers, ineffective labormanagement consultations, and job insecurity.
-
-Many jobs in the oil and gas sector have complex shift patterns, involving long shifts and night shifts, to ensure continuity of operations around the clock. This can cause high levels of fatigue and augment risks related to health and safety (see topic 11.9 Occupational health and safety) if organizations do not provide for sufficient rest time. Organizations in the oil and gas sector may also use fly-in fly-out (FIFO) work arrangements, in which workers are flown to operational sites for several weeks at a time and often required to work extended shifts. Workers on marine vessels can also be at risk of remaining at sea for extended periods of time. Irregular work shifts and schedules, time spent away from families, and potentially limited communication facilities can further impact workers’ physical, psychological, and/or social health.
-
-Various activities in the oil and gas sector are outsourced to suppliers. This is common during peak periods, such as during construction or maintenance works, or for specific activities, such as catering, drilling, security, and transportation. Outsourcing activities and using workers employed by suppliers could allow organizations in the oil and gas sector to reduce their labor costs or to bypass collective agreements that are in place for employees (see also topic 11.13 Freedom of association and collective bargaining).
-
-Compared to employees, workers employed by suppliers commonly have less favorable employment conditions, lower remuneration, less training, higher accident rates, and less job security. They often lack social protection and access to grievance mechanisms. Workers beyond the first tiers of business relationships in organizations’ supply chains may also be subject to low standards for working conditions, exposing organizations in the oil and gas sector to human rights violations through their business relationships (see also topic 11.12 Forced labor and modern slavery).
-
-Employment terms can vary between local workers, migrant workers, and contract workers. Remuneration for these groups of workers may be unequal, while benefits, such as bonuses, housing allowances, and private insurance plans, may only be offered to some migrant workers. Lack of relevant skills, knowledge, or accessible training programs can also restrict local communities from accessing employment opportunities created by the oil and gas sector (see also topic 11.14 Economic impacts).
-
-Job security is also a concern in the oil and gas sector. Closure (topic 11.7) or oil price drops can occur suddenly, leading to job losses and increasing pressure on remaining workers. Low job security is further compounded by automation and changing business models, such as changes triggered by the transition to a low-carbon economy. Organizations in the sector can support workers by planning for a just transition, including implementing timely measures that aim to develop their skills and improve their employability in other sectors.
-
-### Reporting on employment practices
-
-If the organization has determined employment practices to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
-
-| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
-|---|---|---|
-| Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.10.1 |
-| Topic Standard disclosures |  |  |
-| GRI 401: Employment 2016 | Disclosure 401-1 New employee hires and employee turnover | 11.10.2 |
-|  | Disclosure 401-2 Benefits provided to full-time employees that are not provided to temporary or part-time employees | 11.10.3 |
-|  | Disclosure 401-3 Parental leave | 11.10.4 |
-| GRI 402: Labor/Management Relations 2016 | Disclosure 402-1 Minimum notice periods regarding operational changes | 11.10.5 |
-| GRI 404: Training and Education 2016 | Disclosure 404-1 Average hours of training per year per employee | 11.10.6 |
-|  | Disclosure 404-2 Programs for upgrading employee skills and transition assistance programs | 11.10.7 |
-| GRI 414: Supplier Social Assessment 2016 | Disclosure 414-1 New suppliers that were screened using social criteria | 11.10.8 |
-|  | Disclosure 414-2 Negative social impacts in the supply chain and actions taken | 11.10.9 |
-
-### References and resources
-
-GRI 401: Employment 2016, GRI 402: Labor/Management Relations 2016, GRI 404: Training and Education 2016, and GRI 414: Supplier Social Assessment 2016 list authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on employment practices by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.11 Non-discrimination and equal opportunity
-
-Freedom from discrimination is a human right and a fundamental right at work. Discrimination can impose unequal burdens on individuals or deny fair opportunities on the basis of individual merit. This topic covers impacts from discrimination and practices related to diversity, inclusion, and equal opportunity.
-
-The conditions, locations, necessary skills, and types of work associated with the oil and gas sector can be a barrier for entry, hinder employee diversity, and result in discrimination. Discriminatory practices can impede access to jobs and career development, as well as lead to inequalities in treatment, remuneration, and benefits.
-
-Documented cases of discrimination in the oil and gas sector concern race, color, sex, gender, disability, religion, national extraction, and worker status. For example, jobseekers from local communities may be excluded from the hiring process because of a recruitment system bias that favors a dominant ethnic group or utilizes migrant workers. Compared to some migrant workers, local workers may receive significantly lower pay for equal work. The sector's widespread use of contract workers, often with differing terms of employment, can also be conducive to discrimination.
-
-The oil and gas sector is characterized by a significant gender imbalance. In many countries, the percentage of women working in this sector is significantly lower than the percentage of women working overall nationwide. Women are also significantly underrepresented in senior management positions. One cause of this imbalance may be that fewer women graduate with degrees pertinent to the sector, such as in science, technology, engineering, and mathematics. Other barriers for women and primary caregivers include fly-in fly-out (FIFO) work arrangements, long hours, and limited parental leave. Social or cultural customs, beliefs, and biases can also limit women’s access to jobs in this sector or prevent them from taking on specific roles. In addition, some resource-rich countries have laws that prevent women from working in hazardous or arduous occupations.
-
-Understanding how specific groups may be subject to discrimination across different locations where organizations in the oil and gas sector operate can help organizations effectively address discriminatory practices. Other measures, such as providing specific training to workers on preventing discrimination can help address impacts related to discrimination and create a respectful workplace.
-
-### Reporting on non-discrimination and equal opportunity
-
-If the organization has determined non-discrimination and equal opportunity to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
-
-| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
-|---|---|---|
-| Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.11.1 |
-| Topic Standard disclosures |  |  |
-| GRI 202: Market Presence 2016 | Disclosure 202-2 Proportion of senior management hired from the local community | 11.11.2 |
-| GRI 401: Employment 2016 | Disclosure 401-3 Parental leave | 11.11.3 |
-| GRI 404: Training and Education 2016 | Disclosure 404-1 Average hours of training per year per employee | 11.11.4 |
-| GRI 405: Diversity and Equal Opportunity 2016 | Disclosure 405-1 Diversity of governance bodies and employees | 11.11.5 |
-|  | Disclosure 405-2 Ratio of basic salary and remuneration | 11.11.6 |
-| GRI 406: Non- discrimination 2016 | Disclosure 406-1 Incidents of discrimination and corrective actions taken | 11.11.7 |
-
-### References and resources
-
-GRI 202: Market Presence 2016, GRI 401: Employment 2016, GRI 404: Training and Education 2016, GRI 405: Diversity and Equal Opportunity 2016, and GRI 406: Non-discrimination 2016 list authoritative intergovernmental instruments relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on non-discrimination and equal opportunity by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.12 Forced labor and modern slavery
-
-Forced labor is defined as all work or service which is exacted from any person under the menace of penalty and for which a person has not offered themselves voluntarily. Freedom from forced labor is a human right and a fundamental right at work. This topic covers an organization’s approach to identifying and addressing forced labor and modern slavery.
-
-As part of a global effort, several governments have issued legislation requiring public reporting on addressing traditional and emerging practices of forced labor, including modern slavery. Such legislation applies to many organizations in the oil and gas sector.
-
-The large number of suppliers that organizations in the oil and gas sector interact with may include those operating in countries with low rates of enforcement of human rights and those lacking the capacity to prevent and mitigate negative human rights impacts within their own supply chains. Through their supply chains, oil and gas organizations may therefore be involved with violations of human rights and other instances of exploitation. Oil and gas organizations may also be involved with incidences of forced labor and modern slavery as a result of their joint ventures and other business relationships, including those with state-owned enterprises in countries where international human rights violations are documented. Conducting due diligence within the large and complex supply chains that commonly exist in the sector may also pose difficulties for detecting and addressing incidents of forced labor and modern slavery.
-
-Documented cases have shown forced labor and modern slavery in the supply of services to oil fields and offshore platforms, such as in catering, cleaning, construction, maintenance, and waste management, as well as in marine and land transportation activities. For example, a higher risk of human rights violations may be found aboard ships registered in countries other than the country of the ship’s beneficial owner. In such cases, layers of management and the use of external crewing companies can obscure accountability for ensuring respect of human rights. In other situations, inadequate arrangements by the employer to cover flight costs or facilitate border-crossing requirements at the end of a contract period have left ship workers stranded onboard and vulnerable to exploitation. Offshore oil and gas workers can also be at higher risk of forced labor due to the isolation of extraction sites, making it challenging for organizations in the sector to reinforce measures countering exploitation. Migrant workers can also face higher risks of modern slavery when dealing with third-party employment agencies, such as those who have been found to overcharge workers for visas and flights or to demand recruitment costs be paid by employees rather than employers.
-
-Box 5. Impacts on children’s rights The risk of child labor in the oil and gas sector arises mainly through an organization’s business relationships and complex supply chains. Child labor may occur in activities that service the oil and gas sector or its workers (e.g., child labor in hospitality services or in specific sector activities, such as the manufacturing). Suppliers may operate in countries with minimum working ages that are below the minimum age set by the International Labour Organization.
-
-Other impacts on children’s rights and well-being can result from the proximity of an oil or gas project to local communities (topic 11.15). These impacts can include sexual violence, environmental impacts, or impacts resulting from land use and resettlement. Parents’ working conditions, including irregular working hours, long shifts, and fly-in fly-out (FIFO) arrangements, can also have impacts on children (see also topic 11.10 Employment practices).
-
-Child labor is addressed in GRI 408: Child Labor 2016.
-
-### Reporting on forced labor and modern slavery
-
-If the organization has determined forced labor and modern slavery to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
-
-| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
-|---|---|---|
-| Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.12.1 |
-| Topic Standard disclosures |  |  |
-| GRI 409: Forced or Compulsory Labor 2016 | Disclosure 409-1 Operations and suppliers at significant risk for incidents of forced or compulsory labor | 11.12.2 |
-| GRI 414: Supplier Social Assessment 2016 | Disclosure 414-1 New suppliers that were screened using social criteria | 11.12.3 |
-
-### References and resources
-
-GRI 409: Forced or Compulsory Labor 2016 and GRI 414: Supplier Social Assessment 2016 list authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on forced labor and modern slavery by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.13 Freedom of association and collective bargaining
-
-Freedom of association and collective bargaining are human rights and fundamental rights at work. They include the rights of employers and workers to form, join, and run their own organizations without prior authorization or interference, and to collectively negotiate working conditions and terms of employment. This topic covers an organization’s approach and impacts related to freedom of association and collective bargaining.
-
-Workers’ rights to organize and to take collective action are critical for supporting and improving working conditions in the oil and gas sector, including conditions relating to occupational health and safety (topic 11.9), wages, and job security. These rights can also enable public debate about the sector’s governance and practices as well as aid in reducing social inequality.
-
-Many jobs associated with the oil and gas sector have traditionally been represented by trade unions and covered by collective bargaining agreements. However, some oil and gas resources are located in countries where these rights are restricted. Workers in such locations face risks when seeking to join trade unions and engage in collective bargaining. Even in countries where unions are legal, existing restrictions might prevent effective worker representation, and workers who join unions may face intimidation or unfair treatment. In cases where freedom of association and collective bargaining are restricted, organizations in the oil and gas sector may employ alternative means of worker representation and engagement.
-
-Documented cases of interference with freedom of association and collective bargaining in the sector include detention of managers and other employees, invasion of privacy, not adhering to collective agreements, and preventing trade union access to workplaces to assist workers. Other documented cases include refusal to bargain in good faith with workers’ chosen trade unions, unfair dismissal of trade union members and leaders, and unilateral cancellation of collective bargaining agreements.
-
-Widely used in the oil and gas sector, contract workers are often excluded from the scope of collective bargaining agreements. As a result, contract workers commonly have less favorable employment conditions and lower remuneration compared to employees (see also topic 11.10 Employment practices).
-
-Box 6. Freedom of association and civic space Freedom of association and peaceful assembly are human rights. These rights give workers, through their trade unions, and citizens, through independent civil society, the freedom to speak about the oil and gas sector’s policies and organizations’ practices without interference.
-
-Restrictions imposed on civic space, which is the environment that enables civil society to contribute to decisions that affect individual lives, can limit citizens’ ability to engage in public debate about the sector’s policies and organizations’ practices.
-
-### Reporting on freedom of association and collective bargaining
-
-If the organization has determined freedom of association and collective bargaining to be a material topic, this subsection lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
-
-| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
-|---|---|---|
-| Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.13.1 |
-| Topic Standard disclosures |  |  |
-| GRI 407: Freedom of Association and Collective Bargaining 2016 | Disclosure 407-1 Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk | 11.13.2 |
-
-### References and resources
-
-GRI 407: Freedom of Association and Collective Bargaining 2016 lists authoritative intergovernmental instruments relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on freedom of association and collective bargaining by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.14 Economic impacts
-
-An organization’s impacts on the economy refers to how the value it generates affects economic systems. For example, as a result of its procurement practices and employment of workers. Infrastructure investments and services supported by an organization can also have impacts on a community’s well-being and long-term development. This topic covers economic impacts at local, national, and global levels.
-
-Oil and gas activities can be an important source of investment and income for local communities, countries, and regions. Impacts can vary according to the scale of operations and the importance of the activity in the economic context. In some resource-rich countries, revenues from the oil and gas sector are a significant source of income. However, mismanagement of these revenues can also be harmful to economic performance and lead to macroeconomic instability and distortions (see topic 11.21 Payments to governments and topic 11.20 Anti-corruption). Economies dependent on oil and gas can also be vulnerable to commodity price and production fluctuations.
-
-The oil and gas sector can have positive impacts by providing revenues, derived from paying taxes and royalties, and by investing in infrastructure, such as power utilities that improve access to energy or public services. The sector can also have positive impacts through local employment and local procurement. Skills development of local communities through education and training can help increase access to jobs in the sector. Local employment, in turn, can lead to increased purchasing power and positive impacts on local businesses. Local procurement of products and services can also help supplier development.
-
-The extent to which local communities stand to benefit from the presence of oil and gas activities depends on the existing development and industrialization levels of the communities, the communities’ capacity to offer qualified workers for the new employment opportunities, and the commitment of organizations in the oil and gas sector to train local workers. The net employment impacts also depend on how employment by the oil and gas sector affects existing employment in other sectors and organizations’ employment practices (topic 11.10). For example, a fly-in flyout (FIFO) work arrangement can offset pressures associated with influxes of people to small communities while still supplying the necessary workers (see also topic 11.15 Local communities). However, this arrangement reduces the employment opportunities available to local communities, detracting from the potential economic benefits.
-
-The introduction of new oil and gas activities can generate negative impacts on local communities, such as economic disparity, with vulnerable groups often being disproportionately affected (see also topic 11.17 Rights of Indigenous Peoples). Small local suppliers that depend on larger oil and gas organizations for their income generation may face challenges in cases of extended payment delays or pressures to deliver services and products at decreased rates. An influx of external workers can increase pressure on housing, infrastructure, and public services. Local communities may also have to deal with environmental legacy costs or ineffective rehabilitation after closure (see also topic 11.8 Asset integrity and critical incident management and topic 11.7 Closure and rehabilitation).
-
-The transition to a low-carbon economy is expected to lead to decreased activity in the oil and gas sector (see topic 11.1 Climate change), making communities and countries that depend on the sector for revenues or employment more vulnerable to the resulting economic downturn. In these cases, collaboration between local and national governments and organizations in the sector is essential to ensure a just transition.
-
-### Reporting on economic impacts
-
-If the organization has determined economic impacts to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
-
-| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
-|---|---|---|
-| Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the community development programs in place that are intended to enhance positive impacts for local communities, including the approach to providing employment, procurement, and training opportunities. | 11.14.1 |
-| Topic Standard disclosures |  |  |
-| GRI 201: Economic Performance 2016 | Disclosure 201-1 Direct economic value generated and distributed Additional sector recommendations • Report direct economic value generated and distributed (EVG&D) by project. | 11.14.2 |
-| GRI 202: Market Presence 2016 | Disclosure 202-2 Proportion of senior management hired from the local community | 11.14.3 |
-| GRI 203: Indirect Economic Impacts 2016 | Disclosure 203-1 Infrastructure investments and services supported | 11.14.4 |
-|  | Disclosure 203-2 Significant indirect economic impacts | 11.14.5 |
-| GRI 204: Procurement Practices 2016 | Disclosure 204-1 Proportion of spending on local suppliers | 11.14.6 |
-
-### References and resources
-
-GRI 201: Economic Performance 2016 and GRI 202: Market Presence 2016 list authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on economic impacts by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.15 Local communities
-
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe policies regarding processing of animal products, animal transportation, handling, housing and confinement, and slaughter, by species. • Describe the approach to animal health planning and involvement of veterinarians, including the approach to using anesthetic, antibiotic, anti- inflammatory, hormone, and growth-promotion treatments, by species. • Describe commitments for responsible and prudent use of antibiotics2 6 (e.g., avoiding prophylactic use) and describe how compliance with these commitments is evaluated. • Describe the results of assessments and audits of animal health and welfare, by species. | 13.11.1 |
+| Additional sector disclosures |  |  |
+| Animal health and welfare certification: Report the percentage of production volume 27 from sites of the organization certified to third-party animal health and welfare standards, and list these standards. |  | 13.11.2 |
+| Survival of aquatic animals: The following additional sector disclosure is for organizations in the aquaculture sector: Report the survival percentage of farmed aquatic animals and the main causes of mortality. |  | 13.11.3 |
+
+#### References and resources
+The authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on animal health and welfare by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+26 Guidance on what constitutes responsible and prudent use for terrestrial animals can be found in Chapter 6.10 Responsible and prudent use of
+antimicrobial agents in veterinary medicine in the Terrestrial Animal Health Code 2021 [168]. Guidance on what constitutes responsible and prudent use for aquatic animals can be found in Chapter 6.2 Principles for responsible and prudent use of antimicrobial agents in aquatic animals in the Aquatic Animal Health Code 2021 [167]. 27 Production volume refers to the total volume of products of the organization, including products sourced by the organization from suppliers.
+### Topic 13.12 Local communities
 Local communities comprise individuals living or working in areas that are affected or that could be affected by an organization’s activities. An organization is expected to conduct community engagement to understand the vulnerabilities and priorities of local communities and how they may be affected by the organization’s activities. This topic covers socioeconomic, cultural, health, and human rights impacts on local communities.
-
-Organizations in the oil and gas sector can have positive economic impacts on local communities through employment and local procurement, taxes, or other payments to local governments, as well as through community development programs and investments in infrastructure or public services (see also topic 11.14 Economic impacts, topic 11.10 Employment practices, and topic 11.21 Payments to governments).
-
-Activities of the oil and gas sector can also lead to negative impacts on local communities. Negative impacts can result from, for example, land use requirements for the sector’s activities, an influx of people seeking employment and economic opportunities, environmental degradation, exposure to hazardous substances, and use of natural resources. When operating in areas of pre-existing conflict or where negative impacts from oil and gas activities are not addressed, conflicts can arise or become exacerbated (see also topic 11.18 Conflict and security). Vulnerable groups, including women and Indigenous Peoples, may be disproportionally affected by these impacts.
-
-The oil and gas sector’s land use can compete with other land use demands, such as for farming, fishing, or recreation. In addition, it can disrupt traditional livelihoods and increase the risk of impoverishment. It can eventually lead to displacement, which results in additional impacts such as restrictions on access to essential services, and impacts on human rights (see topic 11.16 Land and resource rights). The activities of the sector can also result in damage to cultural heritage sites, potentially leading to loss of tradition, culture, or cultural identity, especially among Indigenous Peoples (see also topic 11.17 Rights of Indigenous Peoples).
-
-The influx of workers from the surrounding areas or as a result of use of fly-in fly-out (FIFO) arrangements, particularly during the construction, maintenance, and closure and rehabilitation phases of oil and gas projects might lead to greater economic inequality within the local community. A large-scale influx of workers can place local services and resources under pressure, induce inflation, and introduce new communicable diseases. Higher housing costs may lead to an increase in homelessness, especially among vulnerable groups. There may be an increase in activities that compromise social order, such as substance abuse, gambling, and prostitution, especially affecting vulnerable groups. The influx of predominantly male workers can change the gender balance of local communities. This can impact women in particular, as it can lead to a rise in sexual violence and trafficking. Documented cases have also shown domestic and gender-based violence, both on operational sites and in local communities.
-
-Oil and gas activities can generate air, soil, and water pollution; increased levels of traffic, noise, light, and odors; waste streams and leaks; and dust. Activities may also cause incidents such as explosions, fires, spills, and tailings dam or pipeline failures (see also topic 11.8 Asset integrity and critical incident management). Documented cases have also shown that seismic activity induced by hydraulic fracturing can affect local communities.
-
-Effective local community engagement, grievance mechanisms, and other remediation processes can help organizations in the oil and gas sector prevent and mitigate the impacts of their activities. In their absence, the concerns of the community might not be understood or addressed, which can create negative impacts or exacerbate existing problems, such as gender inequality. Establishing or participating in grievance mechanisms and other remediation processes that are tailored to the specific needs of local communities can also help organizations address actual or potential negative impacts.
-
-### Reporting on local communities
-
-If the organization has determined local communities to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+Agriculture, aquaculture, and fishing organizations can have positive impacts on local communities through employment and other economic impacts, but their use of land and natural resources can also create negative impacts on communities.
+Local communities can experience economic and environmental impacts from the extensive use of groundwater and surface water in agriculture operations. The depletion of water sources can create a need for deepening wells and require more energy to pump water to the surface for irrigating crops and domestic purposes (see also topic 13.7 Water and effluents).
+Land use by organizations in the agriculture, aquaculture, and fishing sectors can restrict communities’ access to land and natural resources and, in some cases, lead to displacement. In the case of displacement, communities may be resettled to other areas, which are not always equivalent in soil quality, suitability for agriculture, access to services, or cultural and social significance. Compensation, if provided, may not always be adequate to make up for the resulting impacts on cultural, economic, or leisure activities (see topic 13.13 Land and resource rights).
+Inadequate management or disposal of hazardous substances used in agriculture and aquaculture, such as pesticides, can impact the environment, food safety, and health of communities living in proximity to operations. Cases of acute pesticide poisoning (APP) account for significant mortality worldwide, especially in developing countries [189] (see also topic 13.6 Pesticides use). Gases released from manure and organic waste contribute to air pollution, and odors can also cause disturbances to local communities (see also topic 13.1 Emissions and topic 13.8 Waste).
+Although agriculture, aquaculture, and fishing organizations are often major employers and income providers in rural areas, many rural communities still suffer from poverty and food insecurity. Lack of sufficient income and the negative impacts on land, water, and biodiversity can cause migration to other more viable areas. This can cause labor shortages and socioeconomic disruption in these areas (see also topic 13.22 Economic inclusion).
+Vulnerable groups such as women, children, Indigenous Peoples, nomadic communities, and migrant workers and their families can be disproportionately affected by agriculture, aquaculture, and fishing operations. Such groups often lack influence and can be underrepresented in consultation and decision-making processes, increasing the potential for negative impacts, including on their human rights.
+Engagement and consultation with local communities, including vulnerable groups, can help to prevent negative impacts (see also topic 13.13 Land and resource rights). Where groups do not have the right to free, prior, and informed consent, they can be involved in participatory approaches to understand the effects of operations on their lives, rights, and well-being. Organizations are also expected to establish or participate in effective operational-level grievance mechanisms which enable local communities to raise concerns and seek remedy.
+28 Grievance mechanisms that the organization has established or participated in are reported in Disclosure 2-25 Processes to remediate negative
+impacts in GRI 2: General Disclosures 2021. See Guidance to Disclosure 2-25 for more information on grievance mechanisms and expectations for organizations to provide for or cooperate in remediation.
+#### Reporting on local communities
+If the organization has determined local communities to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the approach to identifying stakeholders within local communities and to engaging with them. • List the vulnerable groups that the organization has identified within local communities. • List any collective or individual rights that the organization has identified that are of particular concern for local communities.8 • Describe the approach to engaging with vulnerable groups, including: - how it seeks to ensure meaningful engagement; - how it seeks to ensure safe and equitable gender participation. | 11.15.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.12.1 |
 | Topic Standard disclosures |  |  |
-| GRI 413: Local Communities 2016 | Disclosure 413-1 Operations with local community engagement, impact assessments, and development programs | 11.15.2 |
-|  | Disclosure 413-2 Operations with significant actual and potential negative impacts on local communities Additional sector recommendations • Describe impacts on the health of local communities as a result of exposure to pollution caused by operations or use of hazardous substances. | 11.15.3 |
-| Additional sector disclosures |  |  |
-| Grievances from local communities: Report the number and type of grievances from local communities identified, including: • percentage of the grievances that were addressed and resolved; • percentage of the grievances that were resolved through remediation. |  | 11.15.4 |
+| GRI 413: Local Communities 2016 | Disclosure 413-1 Operations with local community engagement, impact assessments, and development programs | 13.12.2 |
+|  | Disclosure 413-2 Operations with significant actual and potential negative impacts on local communities | 13.12.3 |
 
-### References and resources
-
+#### References and resources
 GRI 413: Local Communities 2016 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on local communities by the oil and gas sector are listed in the Bibliography.
-
-8 These additional sector recommendations are based on the guidance to clause 1.1 in GRI 413: Local Communities 2016.
-
-## Topic 11.16 Land and resource rights
-
-Land and resource rights encompass the rights to use, manage and control land, fisheries, forests, and other natural resources. An organization’s impacts on the availability and accessibility of these can affect local communities and other users. This topic covers impacts from an organization’s use of land and natural resources on human rights and tenure rights, including from resettlement of local communities.
-
-Oil and gas activities require access to land for prospecting, exploration, extraction, construction, waste storage and disposal, processing, transportation, and distribution of products. This can sometimes lead to displacement of other land users, restricted access to resources, and involuntary resettlement of local communities. Impacts from land use vary according to methods of extraction, resource location, the processing required, and transportation methods. For example, onshore oil and gas pipelines can have a large footprint due to their length and safety buffer zones.
-
-Unclear rules regarding tenure rights to access, use, and control land, often lead to disputes, economic and social tensions, and conflict. Insufficient consultation with, and inadequate compensation to affected communities can also exacerbate tensions and conflict. For example, the relationship between mineral rights and land rights might be unclear; formal statutory tenure rules might overlap or conflict with traditional customary rules; legitimate rights may not be recognized or enforced; or people may lack formal documentation of their rights to land.
-
-Involuntary resettlement of local communities can involve physical displacement (e.g., relocation or shelter loss) and economic displacement (e.g., loss or access to assets), having impacts on people’s livelihoods and human rights. In such cases, organizations in the oil and gas sector may provide local communities with monetary compensation or land that is equivalent to the lost assets. However, determining the value of local communities’ access to the natural environment is complex. It includes consideration of income-generating activities, human health, and non-material aspects of quality of life, such as the loss of cultural or recreational opportunities. The amount of compensation provided may therefore not be equivalent to the loss borne. In some cases, customary titleholders to the land may not be compensated at all or only for crops that they were cultivating on the land but not for the land itself.
-
-Community members resisting resettlement may also face threats and intimidation, violent, repressive, or lifethreatening removal from lands (see also topic 11.18 Conflict and security).
-
-Addressing impacts on land and resource rights typically requires extensive and meaningful engagement between organizations in the oil and gas sector and local communities, including vulnerable groups. In cases of ineffective community consultation or in the absence of free, prior, and informed consent (FPIC), impacts on resettling communities or existing problems within a community can be exacerbated by an inadequate resettlement process or lack of transparency (see also topic 11.15 Local communities and topic 11.17 Rights of Indigenous Peoples). Community consultations may also fail to include all affected members. Women, for example, are often excluded from decision-making processes related to the development a new project.
-
-### Reporting on land and resource rights
-
-If the organization has determined land and resource rights to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on local communities by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.13 Land and resource rights
+Land and resource rights encompass the rights to use, manage and control land, fisheries, forests, and other natural resources. An organization’s impacts on the availability and accessibility of these can affect local communities and other users. This topic covers impacts on human rights and tenure rights that result from an organization’s use of land and natural resources.
+Acquiring legal rights to land and natural resources is often a complex process. In addition, forms of land and resource tenure vary and can include public, private, communal, collective, indigenous, and customary tenure. Lack of recognition of customary claim to lands, fisheries, forests, and other natural resources – whether or not they are formally titled or legally registered – is a common cause of land and natural resource conflicts and negative impacts on human rights. Human rights, including people’s civil, political, economic, social, and cultural rights, can all be affected by the sectors’ use of land, fisheries, and forests [193].
+Agriculture, aquaculture, and fishing organizations can be granted land and fishing concessions over territories and fishing resources. Informal tenure in some countries reaches from 80 to 90% of total land, and those living on this land might lack legal protection [204]. Organizations may infringe on land and resource rights if they fail to undertake prior consultation and an assessment of the impacts with rightsholders. Fencing, landscape engineering, roads, and drainage works that block or divert routes may also restrict people’s rights.
+Rightsholders whose rights are most commonly affected by resource rights conflicts include farmers and fishers and their organizations, forest users, pastoralists, Indigenous Peoples, and local communities (see also topic 13.14 Rights of Indigenous Peoples and topic 13.12 Local communities).
+#### Box 2. Human rights and land rights defenders
+Conflict situations can expose those who defend the rights related to land and natural resources to risks. More and more land rights defenders, smallholder farmers, indigenous community leaders, media, and civil society representatives active on these issues have become victims of violence and persecution. United Nations bodies, including special rapporteurs on human rights defenders, the right to food, and Indigenous Peoples, have reported physical attacks and reprisals against defenders who oppose land appropriation and denounce forced evictions, environmental pollution and other violations [200].
+Fish captured in the wild is usually a common property resource. Therefore, fishing communities are important stakeholders concerned with the use of fishery resources and the entire ecosystem. This includes access to ports, waters, high seas, and catch quotas.
+Fishery resources rights can be granted to organizations without due consideration for local fishers. Commercial fishing vessels accessing fishing zones reserved for or used by small-scale fishers and fishing in coastal areas can change fishery resources by disrupting fish breeding habitats.
+Agriculture, aquaculture, and fishing organizations are expected to identify legitimate rightsholders through their own assessments and ensure independent verification of assessment results. Organizations can contribute to securing land tenure and access to natural resources for rightsholders by requiring their suppliers to respect such rights.
+29 Special rapporteurs are mandate-holders for special procedures of the United Nations Human Rights Council. They are independent human rights
+experts with mandates to report and advise on human rights from a thematic or country-specific perspective. See reference [199] in the Bibliography.
+#### Reporting on land and resource rights
+If the organization has determined land and resource rights to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the approach to engaging with affected vulnerable groups, including: - how the organization seeks to ensure engagement is meaningful; - how the organization seeks to ensure safe and equitable gender participation. • Describe the approach to providing remediation to local communities or individuals subject to involuntary resettlement, such as the process for establishing compensation for loss of assets or other assistance to improve or restore standards of living or livelihoods. | 11.16.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe commitments to respect land and natural resource rights (including customary, collective, and informal tenure rights) 30 and report the extent to which the commitments apply to the organization’s activities and to its business relationships. • Describe how the commitments to respect land and natural resource rights are implemented with suppliers. • Describe the approach to protecting human rights and land rights defenders from reprisals (i.e., non-retaliation for raising complaints or concerns). | 13.13.1 |
 | Additional sector disclosures |  |  |
-| Involuntary resettlement: List the locations of operations that caused or contributed to involuntary resettlement or where such resettlement is ongoing. For each location, describe how peoples’ livelihoods and human rights were affected and restored. |  | 11.16.2 |
+| Operations where land and natural resource rights may be affected: List the locations of operations, where land and natural resource rights (including customary, collective, and informal tenure rights) may be affected by the organization’s operations. |  | 13.13.2 |
+| Violations of land and natural resource rights: Report the number, size in hectares, and location of operations where violations of land and natural resource rights (including customary, collective, and informal tenure rights) occurred and the groups of rightsholders affected. |  | 13.13.3 |
 
-### References and resources
-
-The authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on land and resource rights by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.17 Rights of Indigenous Peoples
-
+#### References and resources
+The authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on land and resource rights by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+30 The Voluntary guidelines on the responsible governance of tenure of land, fisheries and forests in the context of national food security outlines
+guiding principles, rights and responsibilities for responsible tenure governance. In article 3.2, it specifies that ‘non-state actors including business enterprises have a responsibility to respect human rights and legitimate tenure rights’ and outlines the associated expectations [193].
+### Topic 13.14 Rights of Indigenous Peoples
 Indigenous Peoples are at higher risk of experiencing negative impacts more severely as a result of an organization’s activities. Indigenous Peoples have both collective and individual rights, as set out in the United Nations Declaration on the Rights of Indigenous Peoples and other authoritative international human rights instruments. This topic covers impacts on the rights of Indigenous Peoples.
-
-The presence of the oil and gas sector in proximity to indigenous communities can present economic opportunities and benefits for Indigenous Peoples through employment, training, and community development programs (see also topic 11.14 Economic impacts). However, it can also disrupt Indigenous Peoples’ cultural, spiritual, and economic ties to their lands or natural environments, compromise their rights and well-being, and cause displacement (see also topic 11.16 Land and resource rights). It can also have an impact on the availability of and access to water, which is a key concern for many indigenous communities.
-
-The collective and individual rights of Indigenous Peoples are recognized in authoritative international instruments. Indigenous Peoples also often have a special legal status in national legislation and can be customary or legal owners of lands to which organizations in the oil and gas sector are granted use rights by governments. Before initiating development or other activities that could have potential impacts on lands or resources that Indigenous Peoples use or own, organizations are expected to seek free, prior, and informed consent (FPIC) from Indigenous Peoples. This right is recognized in the United Nations Declaration on the Rights of Indigenous Peoples and allows Indigenous Peoples to give or withhold consent to a project that may affect them or their territories and to negotiate project conditions [314]. However, some national governments may not recognize or enforce indigenous land rights or Indigenous Peoples’ rights to consent. Documented cases show an absence of good faith consultations and undue pressure on Indigenous Peoples to accept projects, with opposition to such projects sometimes leading to violence or death (see also topic 11.18 Conflict and security). Organizations in the sector and Indigenous Peoples regularly have disputes and conflicts over land ownership and rights.
-
-An influx of workers from other areas can result in discrimination toward Indigenous Peoples regarding access to jobs and opportunities. It can further undermine their social cohesion, well-being, and safety. Impacts that may affect indigenous women more severely than men include risks of prostitution, forced labor, violence, and increased exposure to communicable diseases (see also topic 11.15 Local communities).
-
-The contribution of the oil and gas sector to climate change can also exacerbate negative impacts on Indigenous Peoples, given their unique relationship with and, at times, dependence on the natural environment.
-
-### Reporting on rights of Indigenous Peoples
-
-If the organization has determined rights of Indigenous Peoples to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+Indigenous Peoples find deep cultural and spiritual value in their lands and territories, and often rely on natural resources for subsistence. These natural resources and cultural sites are located on land that indigenous communities customarily own, occupy, or use. Customary rights – a cornerstone of the rights of Indigenous Peoples under international law – are frequently not recognized in practice, which can lead to these rights being violated (see topic 13.13. Land and resource rights).
+The agriculture sector is a significant driver of land acquisitions to expand food production. Large-scale land acquisitions, including through foreign investment, can be facilitated to increase the size of farms and plantations and generate revenues through export. This often happens in regions where Indigenous Peoples have long derived their livelihoods from what ecosystems offer.
+The use of natural resources by the agriculture, aquaculture, and fishing sectors can have acute impacts on Indigenous Peoples. These impacts can threaten traditional hunting, fishing, and farming activities. Indigenous knowledge and culture may also be lost when disrupted.
+Indigenous farming practices are intertwined with indigenous cultures and are deeply linked to particular places. Natural ecosystem conversion and water use for agricultural and aquacultural activities can affect traditional farming. The environmental impacts from waste can lead to pollution and contamination of indigenous land and natural resources.
+Indigenous fishing communities rely on fish as their main food source, which is a central part of their traditional practices so their livelihoods, food security, and culture can be undermined due to the negative impacts on fishery resources. The degradation of local aquatic and coastal ecosystems, overfishing, and stock depletion, can reduce the availability and accessibility of these fishery resources. At the same time, the increased competition with commercial fishing operations or the introduction of non-local species can also negatively impact fishery resources.
+Because of the close relationship with the environment and dependence on natural resources, Indigenous Peoples are particularly affected by climate change. Climate change can further exacerbate the vulnerability of indigenous communities due to impacts on the availability of traditional food sources and decreased crop yields, jeopardizing traditional lifestyles (see also topic 13.2 Climate adaptation and topic 13.3 Biodiversity).
+The fundamental rights to self-determination and non-discrimination mandate respect for Indigenous Peoples’ collective and individual rights. Before initiating development or other activities that could have impacts on lands or resources that Indigenous Peoples use or own, organizations are expected to seek free, prior, and informed consent (FPIC). The relocation of Indigenous Peoples cannot occur without FPIC, and an agreement on just and fair compensation must be in place before relocation occurs and, where possible, with the option of return [210].
+When disputes take place, indigenous communities often lack legal and technical support, as well as access to remedy. This can lead to unfair compensation for lost access to resources, income insecurity, marginalization of indigenous communities, discrimination, displacement, loss of livelihood, and other negative impacts on human rights. In addition, indigenous women may be more severely exposed to negative impacts because of gender discrimination (see topic 13.15 Non-discrimination and equal opportunity).
+#### Reporting on rights of Indigenous Peoples
+If the organization has determined rights of Indigenous Peoples to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the community development programs that are intended to enhance positive impacts for Indigenous Peoples, including the approach to providing employment, procurement, and training opportunities. • Describe the approach of engaging with Indigenous Peoples, including: - how the organization seeks to ensure engagement is meaningful; - how the organization seeks to ensure indigenous women can participate safely and equitably. | 11.17.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the approach to engaging with Indigenous Peoples, including: - how the organization seeks to ensure meaningful engagement; - how the organization seeks to ensure indigenous women can participate safely and equitably. | 13.14.1 |
 | Topic Standard disclosures |  |  |
-| GRI 411: Rights of Indigenous Peoples 2016 | Disclosure 411-1 Incidents of violations involving rights of indigenous peoples Additional sector recommendations • Describe the identified incidents of violations involving the rights of Indigenous Peoples. | 11.17.2 |
+| GRI 411: Rights of Indigenous Peoples 2016 | Disclosure 411-1 Incidents of violations involving rights of Indigenous Peoples Additional sector recommendations • Describe the identified incidents of violations involving the rights of Indigenous Peoples. | 13.14.2 |
 | Additional sector disclosures |  |  |
-| Operations where Indigenous Peoples may be affected: List the locations of operations where Indigenous Peoples are present or affected by activities of the organization. |  | 11.17.3 |
-| Free, prior, and informed consent: Report if the organization has been involved in a process of seeking free, prior and informed consent (FPIC) from Indigenous Peoples for any of the organization’s activities, including, in each case: • whether the process has been mutually accepted by the organization and the affected Indigenous Peoples; • whether an agreement has been reached, and if so, if the agreement is publicly available. |  | 11.17.4 |
+| Operations where Indigenous Peoples may be affected: List the locations of operations where Indigenous Peoples are present or affected by activities of the organization. |  | 13.14.3 |
+| Free, prior, and informed consent: Report if the organization has been involved in a process of seeking free, prior, and informed consent (FPIC) 31 from Indigenous Peoples for any of the organization’s activities, including, in each case: • whether the process has been mutually accepted by the organization and the affected Indigenous Peoples; • how the organization ensured that the constituent elements of FPIC have been implemented as part of the process;32 • whether an agreement has been reached and, if so, whether the agreement is publicly available. |  | 13.14.4 |
 
-### References and resources
-
+#### References and resources
 GRI 411: Rights of Indigenous Peoples 2016 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on rights of Indigenous Peoples by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.18 Conflict and security
-
-An organization’s activities may trigger conflict or, in cases of existing conflict, intensify it. The use of security personnel to manage conflict can play an essential role in allowing an organization to operate safely and productively but also has the potential to impact on people’s human rights. This topic covers the organization's security practices and its approach to operating in areas of conflict.
-
-Many organizations in the oil and gas sector operate in locations and situations of conflict including, for example, countries characterized by political and social instability.
-
-Conflict can also be caused by the presence of oil and gas activities. It can be triggered by negative environmental impacts; inadequate engagement of stakeholders and Indigenous Peoples in decision-making processes; uneven distribution of economic benefits or provision of benefits deemed disproportionate to impacts created; and disputes over the use of land and natural resources (see also topic 11.16 Land and resource rights). The perceived mismanagement of funds at the expense of local interests can also trigger conflict (see also topic 11.20 Anticorruption). Such conflict can heighten the need to use security personnel, thereby increasing the potential for violations of human rights.
-
-Security personnel engaged by organizations in the oil and gas sector or public security directed by the host government may be present to protect organizations’ assets or ensure workers’ safety and security. Actions taken by security personnel against local community members, including during protest activities against development of oil and gas resources or to protect land and resources, can violate human rights, such as the rights to freedom of association and freedom of speech, as well as lead to violence, injuries, or deaths.
-
-When oil and gas activities are endorsed by the government but remain disagreeable to local communities, the presence of public security forces can increase tensions between communities, government, and organizations in the sector. This can in turn exacerbate local power imbalances and, potentially, use of force.
-
-In cases where public or other third-party security forces, such as paramilitary groups, are active, organizations in the oil and gas sector still have a responsibility to take steps to ensure security practices are consistent with the protection of human rights. This involves assessing security-related risks, identifying situations in which impacts on human rights are likely to occur, and working with security providers to ensure human rights are respected.
-
-Organizations in the oil and gas sector may also contribute more broadly to the safety and security of local communities, for example, by facilitating communication between communities and public security forces or supporting efforts to address other sources of conflict.
-
-### Reporting on conflict and security
-
-If the organization has determined conflict and security to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+The additional intergovernmental instruments and references used in developing this topic, as well as resources that may be helpful for reporting on the rights of Indigenous Peoples by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+31 The normative framework for free, prior and informed consent consists of a series of international legal instruments including the United Nations
+Declaration on the Rights of Indigenous Peoples [210], the International Labour Organization Convention 169 (ILO 169) [208], and the Convention on Biological Diversity (CBD) [209]. 32Free, prior and informed consent cannot be achieved if one of the constituent elements is missing [210]. The constituent elements are further
+described in ‘Free, prior and informed consent: a human rights-based approach -Study of the Expert Mechanism on the Rights of Indigenous Peoples’ [224].
+### Topic 13.15 Non-discrimination and equal opportunity
+Freedom from discrimination is a human right and a fundamental right at work. Discrimination can impose unequal burdens on individuals or deny fair opportunities on the basis of individual merit. This topic covers impacts from discrimination and an organization’s practices related to equal opportunity.
+Many agriculture, aquaculture, and fishing sector workers are self-employed or informally employed. Casual and seasonal employment is also widespread. Non-standard forms of employment common in the sectors can be a factor increasing the likelihood of discriminatory treatment of workers. Workers can often face discrimination in terms of labor protection and might not enjoy equal rights or treatment for work of equal value, including lower job security, wages, benefits, and paid leave.
+The agriculture, aquaculture, and fishing sectors commonly use migrant labor, including temporary migrant labor. Because of their migrant status, migrant workers may be subject to discriminatory treatment regarding remuneration, access to occupational health services, and employment protection. In fishing, vessel crews are typically subject to discriminatory pay based on nationality. Undocumented migrant workers can be even more vulnerable to discrimination and labor abuses (see also topic 13.16 Forced or compulsory labor and topic 13.20 Employment practices).
+People living off traditional farming and fishing, including smallholder farmers, landless workers, and communities, can experience discriminatory treatment. For example, they may face inequality in accessing land or employment, thus lacking opportunities to provide for themselves. This can exacerbate the likelihood of negative impacts on their human rights and render them more vulnerable to labor exploitation (see topic 13.12 Local communities).
+Characteristics among indigenous workers that may deviate from social practices of the majority, including languages and clothing, can also lead to employment discrimination in the sectors. Indigenous women can face discrimination on the grounds of both ethnicity and gender.
+Women working in agriculture, aquaculture, and fishing often experience gender discrimination through poorer working conditions, unequal opportunities, and lower wages than those of men. Women are more frequently involved in lower-paid or less secure forms of employment. In fishing, women play crucial roles throughout the value chain, working for commercial and small-scale fisheries, however, they are typically less involved in offshore and longdistance fishing, which usually pays more.
+Women are also often less involved in cooperatives and farmer organizations, limiting their access to processing facilities, improved technologies, and agricultural inputs. The result can be lower earnings due to smaller yields despite working long hours.
+Discrimination against women in the agriculture, aquaculture, and fishing sectors can also include gender-based violence and harassment. It is less likely that women performing seasonal work or informal work report sexual violence and other abuses they experience, and women in such work arrangements may have less possibility to seek remedy.
+#### Box 3. Women’s rights
+The majority of economically active women in low-income countries work in agriculture [229]. In many countries, women do not have the same rights as men, or even if they do legally, the rights may go unrecognized. These include rights to buy, sell, or inherit land; to open a savings account or borrow money; to sign a contract; and to sell their produce.
+Traditional gender roles can restrict women’s freedom of movement and prevent them from bringing their produce to market or leaving their villages without the permission of male relatives. Social conventions and gender norms often regard women’s work activities and output as part of their traditional caretaking role rather than participation in the market economy, thus underestimating their economic contribution. Women in these situations do not enjoy the right to the same decent standard of living as men.
+Women can also be denied their rights when it comes to maternity protection. Benefits such as maternity leave and childcare allowance might be inaccessible for women in the agriculture, aquaculture, and fishing sectors.
+#### Reporting on non-discrimination and equal opportunity
+If the organization has determined non-discrimination and equal opportunity to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • List the locations of operations in areas of conflict. • Describe the approach to ensuring respect for human rights by public and private security providers. | 11.18.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.15.1 |
 | Topic Standard disclosures |  |  |
-| GRI 410: Security Practices 2016 | Disclosure 410-1 Security personnel trained in human rights policies or procedures | 11.18.2 |
-
-### References and resources
-
-GRI 410: Security Practices 2016 lists references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on conflict and security by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.19 Anti-competitive behavior
-
-Anti-competitive behavior refers to actions by an organization that can result in collusion with potential competitors, abuse of dominant market position or exclusion of potential competitors, thereby limiting the effects of market competition. This can include fixing prices or coordinating bids, creating market or output restrictions, imposing geographic quotas, and allocating customers, suppliers, geographic areas, or product lines. This topic covers impacts as a result of anti-competitive behavior.
-
-The oil and gas sector faces high barriers to entry due to the sizable investments needed. Consequently, established organizations in the sector are often large and can dominate national or local markets. Mergers and acquisitions can intensify this concentration. Some segments of the sector depend on extensive infrastructure investments, such as investments in pipelines and liquefied natural gas (LNG) terminals, usually operated by a single organization or a small number of them.
-
-The global market for oil and gas is large and well-integrated, making it secure against collusion or market dominance from individual producers. However, specific segments of the oil and gas sector can be subject to anticompetitive behavior. Instances of cartels, monopolistic practices, and related abuse of such positions have been documented in some jurisdictions in which oil and gas organizations are active. Agreements between producers and energy distributors, as well as mergers between organizations in the sector, can diminish competition by affecting output volume, and can create monopolies over transportation, distribution and supply to consumers. Collusion can also take place when submitting bids for the rights to extract oil and gas. Organizations may coordinate their bids in connivance with competitors so as to obtain lower prices, depriving resource owners of fair compensation.
-
-Anti-competitive behavior can result in higher prices for oil, gas and raw materials derived from oil and gas extraction. Given the key role of oil and gas in the world economy, even a small increase in price can have sizeable negative impacts.
-
-### Reporting on anti-competitive behavior
-
-If the organization has determined anti-competitive behavior to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
-
-| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
-|---|---|---|
-| Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.19.1 |
-| Topic Standard disclosures |  |  |
-| GRI 206: Anti- competitive Behavior 2016 | Disclosure 206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices | 11.19.2 |
-
-### References and resources
-
-GRI 206: Anti-competitive Behavior 2016 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on anti-competitive behavior by the oil and gas sector are listed in the Bibliography.
-
-## Topic 11.20 Anti-corruption
-
-Anti-corruption refers to how an organization manages the potential of being involved with corruption. Corruption is practices such as bribery, facilitation payments, fraud, extortion, collusion, money laundering, or the offer or receipt of an inducement to do something dishonest or illegal. This topic covers impacts related to corruption and an organization’s approach related to contract and ownership transparency.
-
-Corruption in the oil and gas sector can occur throughout the value chain and has been linked to various negative impacts, such as misallocation of resources revenues, damage to the environment, abuse of democracy and human rights, and political instability. Corruption can lead to diversion of public revenues to private beneficiaries, at the expense of, for example, investments in infrastructure or services. This can be particularly critical in countries with high poverty levels, leading to increased inequalities and conflicts over oil and gas resources (see topic 11.18 Conflict and security).
-
-The oil and gas sector faces higher risks of corruption in comparison with other sectors. Characteristics of the sector that contribute to the potential for corruption include frequent interaction between oil and gas organizations and politically exposed persons,9 such as government officials for licenses and other regulatory approvals. Other relevant sector characteristics include the complex financial transactions and the international reach of the sector.
-
-State-owned enterprises (SOEs) face specific challenges in relation to corruption because they may have less effective internal controls and be subject to partial independent oversight. In addition to driving profit, SOEs may also pursue broader objectives such as community development. However, without adequate oversight, measures for community development may be abused for corrupt purposes. Organizations in the oil and gas sector partnering with SOEs in joint ventures may face additional risks related to corruption as a result of this business relationship.
-
-Cases of corruption during bidding processes for exploration and production licenses have been documented in the oil and gas sector. Organizations in the sector have used corrupt practices to obtain confidential information, influence decision-making, and avoid environmental or other requirements. Such cases may result in licenses being awarded to less qualified organizations, jeopardize public investments, or negatively impact the environment and local communities. Opaque licensing procedures may also obstruct public scrutiny of oil and gas investments and transactions that could result in reduced public revenue.
-
-In other cases, corrupt practices have aimed to block or shape policies and regulations or to influence their enforcement. This might include regulations concerning land and resource rights, taxes and other government levies, or environmental protection.
-
-Across the value chain, a lack of transparency in procurement procedures in the oil and gas sector can also create a risk of corruption or fraud. Examples of this can include paying bribes to get regulations or quality requirements waived, receiving kickbacks for securing contracts at inflated prices, or profiting from inflated prices charged by an entity established as a front organization.
-
-To combat corruption and prevent the negative impacts that stem from it, organizations in the oil and gas sector are expected by the marketplace, international norms, and stakeholders to demonstrate their adherence to integrity, governance, and responsible business practices.
-
-9 Politically exposed person is defined by the Financial Action Taskforce as 'an individual who is or has been entrusted with a prominent public function' [367].
-
-Box 7. Transparency about contracts and ownership structures Publication of government contracts is a growing practice. It is endorsed by organizations such as the United Nations, the International Monetary Fund (IMF), the International Finance Corporation (IFC), the International Bar Association, and the Organisation for Economic Co-operation and Development (OECD).
-
-Contracts governing the extraction of oil and gas resources are commonly devised by organizations in the sector and governments on behalf of citizens or local communities without public oversight. Fair terms for sharing risks and rewarding benefits, including those related to a just transition, are particularly relevant because of the long-term time horizons and widespread impacts of projects. Contract transparency helps local communities hold governments and organizations accountable for their negotiated terms and obligations. It also reduces information asymmetries between governments and oil and gas organizations and helps level the playing field in negotiations.
-
-Lack of transparency about ownership structures can make it difficult to determine who benefits from financial transactions in the oil and gas sector. Beneficial ownership transparency has been identified as a significant opportunity to deter conflicts of interest, corruption, and tax avoidance and evasion.
-
-See references [365] and [369] in the Bibliography.
-
-### Reporting on anti-corruption
-
-If the organization has determined anti-corruption to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
-
-| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
-|---|---|---|
-| Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe how potential impacts of corruption or risks of corruption are managed in the organization’s supply chain. • Describe the whistleblowing and other mechanisms in place for individuals to raise concerns about corruption. | 11.20.1 |
-| Topic Standard disclosures |  |  |
-| GRI 205: Anti- corruption 2016 | Disclosure 205-1 Operations assessed for risks related to corruption | 11.20.2 |
-|  | Disclosure 205-2 Communication and training about anti-corruption policies and procedures | 11.20.3 |
-|  | Disclosure 205-3 Confirmed incidents of corruption and actions taken | 11.20.4 |
+| GRI 405: Diversity and Equal Opportunity 2016 | Disclosure 405-1 Diversity of governance bodies and employees | 13.15.2 |
+|  | Disclosure 405-2 Ratio of basic salary and remuneration of women to men Additional sector recommendations • Report the ratio of the basic salary and remuneration of women to men for workers who are not employees and whose work is controlled by the organization. | 13.15.3 |
+| GRI 406: Non- discrimination 2016 | Disclosure 406-1 Incidents of discrimination and corrective actions taken | 13.15.4 |
 | Additional sector disclosures |  |  |
-| Contract transparency: Describe the approach to contract transparency, including: • whether contracts and licenses are made publicly and, if so, where they are published; • if contracts or licenses are not publicly available, the reason for this and actions taken to make them public in the future.10 |  | 11.20.5 |
-| Beneficial ownership: List the organization’s beneficial owners and explain how the organization identifies the beneficial owners of business partners, including joint ventures and suppliers.11 |  | 11.20.6 |
+| Employment and compensation based on nationality and migrant status: Describe any differences in employment terms and approach to compensation based on workers’ nationality or migrant status, by location of operations. |  | 13.15.5 |
 
-### References and resources
-
-GRI 205: Anti-corruption 2016 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on anti-corruption by the oil and gas sector are listed in the Bibliography.
-
-10 This additional sector disclosure is based on Requirement 2.4. Contracts in the EITI Standard 2019. Definitions for contracts and licenses can be found in the EITI Standard 2019 [366]. 11 This additional sector disclosure is based on Requirement 2.5. Beneficial ownership c., d., and f. in the EITI Standard 2019 [366].
-
-## Topic 11.21 Payments to governments
-
-Lack of transparency about payments to governments can contribute to inefficient management of public funds, illicit financial flows, and corruption. This topic covers impacts from an organization's practices related to payments to governments and the organization’s approach to transparency of such payments.
-
-Organizations in the oil and gas sector deal with a large number of complex financial transactions and make a variety of payments to governments. These include commodity trading revenues, exploration and production licensing fees, taxes and royalties, signature, discovery and production bonuses.
-
-Transparency of payments to governments can help distinguish the economic importance of the oil and gas sector to countries, enable public debate, and inform government decision-making. It can also provide insights into the terms of contracts, increase government accountability, and strengthen revenue collection and management. Insufficient transparency of these payments, on the other hand, can impede detection of misallocation of revenues and corruption.
-
-Taxes, royalties, and other payments from organizations in the oil and gas sector are an important source of investment and revenue for local communities, countries, and regions (see topic 11.14 Economic impacts). However, aggressive tax practices or tax non-compliance can lead to diminished tax revenues in countries where the organizations operate. This can be particularly damaging for developing countries that may lack or have high needs for public revenue. The sector also receives substantial subsidies from governments in many countries, which are of great interest to stakeholders, such as investors or civil society.
-
-When disclosing information on payments to governments, organizations in the oil and gas sector often report aggregate payments at an organizational level. However, this can provide limited insight into payments made in each country or related to a project. Reporting country-level and project-level payments enables comparison of the payments made to those stipulated in fiscal, legal, and contractual terms, as well as to assess the financial contribution of oil and gas activities to host countries and communities. It can also enable governments to address tax avoidance and evasion, correct information asymmetry and level the playing field for governments when negotiating contracts.
-
-Box 8. State-owned enterprises A state-owned enterprise (SOE) is, according to the Extractives Industries Transparency Initiative (EITI), ‘a wholly or majority government-owned company that is engaged in extractive activities on behalf of the government’ (see reference [386] in the Bibliography). SOEs often have special status, which can involve financial advantages and preferential treatment.
-
-SOEs often sell shares of the produced resource to buyers, including commodity trading companies. This first trade12 is an important revenue stream for countries and can involve a high volume of financial transactions. However, data on these transactions is often scarce or inaccessible. The first trade can be subject to trade mispricing in the form of under-invoicing of exports or over-invoicing of imports to obtain financial gain. Other risks may result from selecting buyers and allocation of sales contracts (which can involve bribery and conflicts of interest) and moving income to a state treasury, potentially causing misallocation of revenues or generating public mistrust of revenue management (see also topic 11.20 Anti-corruption).
-
-Transparency in the operations and objectives of SOEs is crucial for monitoring their performance and maximizing their economic and social contributions.
-
-12 First trade is defined by the Extractive Industries Transparency Initiative as 'the sale of the state’s share of production by government and state owned enterprises' [384].
-
-### Reporting on payments to governments
-
-If the organization has determined payments to governments to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+#### References and resources
+GRI 405: Diversity and Equal Opportunity 2016 and GRI 406: Non-discrimination 2016 list authoritative intergovernmental instruments relevant to reporting on this topic.
+The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on non-discrimination and equal opportunity by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.16 Forced or compulsory labor
+Forced or compulsory labor is work or service which is exacted from any person under the menace of penalty and for which a person has not offered themselves voluntarily. Freedom from forced labor is a human right and a fundamental right at work.
+The International Laboure Organization (ILO) has identified the agriculture, aquaculture, and fishing sectors as highly susceptible to forced or compulsory labor. Workers face non-payment or late payment of wages, restrictions on freedom of movement, violence, threats, human trafficking, and other forms of modern slavery. Instances of forced labor have been documented in the supply chains of most products in the sectors (see references [251], [256] and [257]).
+Agriculture, aquaculture, and fishing workers are unlikely to be unionized, often earn less, and have fewer skills than workers in other sectors. The sectors are labor-intensive and have a high demand for workers, often filled by employment agencies. National labor laws do not always provide labor protection to smallholder farmers, smallscale fishers, or seasonal and casual workers (see topic 13.20 Employment practices).
+Work is often undertaken in remote or low-income rural areas. This can exacerbate the likelihood of abusive labor practices and cause workers to become indebted to their employers due to fees owed for job access or accommodation. In some cases, employers may use debt bondage to prevent workers from leaving.
+Migrant workers in the sectors are more likely to work under conditions of coercion. They may not have valid work permits or be unaware of their legal status and even have their passports or identification documents taken away. Undocumented migrant workers can also be forced or coerced into illegal farming or fishing operations, carrying higher risks for their health and safety.
+Migrant fishing workers are a particularly vulnerable group. They often come from lower-income countries and can be trafficked or unaware of having crossed multiple borders, putting their human rights and even their lives at risk.
+In fishing operations, the continued pressure to deliver higher product volumes while keeping labor costs low can contribute to instances of abusive labor practices. Eliminating forced labor aboard fishing vessels and enforcing workers’ rights can require additional effort because fishing vessels regularly operate offshore or under the flag of a country far removed from the fishing location. International standards largely rely on flag states to enforce labor laws on board fishing vessels.
+Identifying and preventing forced labor also requires understanding supply chains, where traceability plays a key role (see topic 13.23 Supply chain traceability).
+#### Reporting on forced or compulsory labor
+If the organization has determined forced or compulsory labor to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 11.21.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.16.1 |
 | Topic Standard disclosures |  |  |
-| GRI 201: Economic Performance 2016 | Disclosure 201-1 Direct economic value generated and distributed | 11.21.2 |
-|  | Disclosure 201-4 Financial assistance received from government Additional sector recommendations For state-owned organizations (SOE): • Report the financial relationship between the government and the SOE.13 | 11.21.3 |
-| GRI 207: Tax 2019 | Disclosure 207-1 Approach to tax | 11.21.4 |
-|  | Disclosure 207-2 Tax governance, control, and risk management | 11.21.5 |
-|  | Disclosure 207-3 Stakeholder engagement and management of concerns related to tax | 11.21.6 |
-|  | Disclosure 207-4 Country-by-country reporting Additional sector recommendations • Report a breakdown of the payments to governments levied at the project-level, by project and the following revenue streams, if applicable: - The host government’s production entitlement; - National state-owned company production; - Royalties; - Dividends; - Bonuses (e.g., signature, discovery, and production bonuses); - License fees, rental fees, entry fees; and other considerations for licenses or concessions; - Any other significant payments and material benefits to government.14 • Report the value of any thresholds15 that have been applied and any other contextual information necessary to understand how the project-level payments to governments reported have been compiled. | 11.21.7 |
+| GRI 409: Forced or Compulsory Labor 2016 | Disclosure 409-1 Operations and suppliers at significant risk for incidents of forced or compulsory labor | 13.16.2 |
+
+#### References and resources
+GRI 409: Forced or Compulsory Labor 2016 lists authoritative intergovernmental instruments relevant to reporting on this topic.
+The additional intergovernmental instruments and references used in developing this topic, as well as resources that may be helpful for reporting on forced or compulsory labor by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.17 Child labor
+Child labor is defined as work that deprives children of their childhood, their potential, and their dignity, and that is harmful to their development, including by interfering with their education. It is a violation of human rights and can lead to lifelong negative impacts. Abolition of child labor is a fundamental principle and right at work.
+The agriculture, aquaculture, and fishing sectors have the highest share of child labor compared to all other sectors and instances of child labor have been documented in the supply chains of many products in the sectors (see references [266] and [272]).
+More than 70% of all children in child labor are engaged in agriculture, aquaculture, and fishing. This is even higher among those aged five to 11 [266]. In some contexts, children's participation in non-hazardous agriculture, aquaculture, and fishing work can contribute to a child’s skill-building and personal development. However, work defined as child labor is not associated with positive impacts and is considered inappropriate for a child based on hazards, hours, conditions of work, and interference with schooling. In some parts of the world, child labor may be socially acceptable, contributing to the propagation of the practice.
+Children working in agriculture, aquaculture, and fishing may perform tasks suited only for adult workers. These tasks are likely to have negative impacts on their health or development. For example, children can be tasked with applying pesticides in the agriculture sector. Exposure to pesticides can be particularly hazardous for children, as their bodies are more vulnerable to toxins, leading to increased risks of childhood cancers and impaired cognitive processes.
+Children are often designated to take care of animals. Because animal production activities are intensive, involving cleaning animals and their housing, collecting water, feeding, and milking, children can drop out of schooling, unable to combine it with this type of work.
+In fishing, children work throughout the supply chain, performing tasks such as catching, processing, and selling fish and other aquatic products. Fishing communities may have few sources of income, and child labor is frequently used to supplement income or in subsistence activities. Long hours and nightshifts in these sectors can also subject children to hazardous working conditions (see topic 13.19 Occupational Health and Safety).
+Large parts of the agriculture, aquaculture, and fishing sectors involve informal work, increasing the likelihood of child labor. Seasonal work presents additional risks and raises the likelihood of school absence. Missing school for work negatively affects children’s right to education.
+Less than one-third of children undertaking work receive payment. In many cases this is because children are working in family-run operations. Children also typically earn less than adults and, in some cases, they are also more productive, which employers may find advantageous.
+The International Labour Organization (ILO) identifies forced child labor and hazardous child labor as the worst forms of child labor [259]. A quarter of children in child labor fall victim to forced labor (see topic 13.16 Forced or compulsory labor). This can happen when, for example, labor brokers recruit and force children to travel far from home. In cases of debt bondage to an employer, parents might have their children work alongside them.
+Young workers are also recognized as a vulnerable group under child labor standards and are subject to protection from hazardous work, which they may be exposed to in the sectors.
+#### Box 4. Young workers
+Young workers above the applicable minimum working age and younger than 18 years are subject to specific protections regarding the types of work they can perform. Young persons are still in cognitive and physical development and therefore considered more vulnerable to negative impacts at work than adults.
+According to the ILO, the work performed by young workers needs to be consistent with their physical and mental development. Young workers in agriculture, aquaculture, and fishing may be exposed to hazardous working conditions, occupational injuries, and disease. Restrictions also apply to work hours to reduce their vulnerability.
+33 The United States Department of Labor has documented cases of child labor in the production of bananas in Belize, Brazil, Ecuador, Nicaragua, and
+the Philippines; beans in Mexico and Paraguay; citrus fruit in Belize and Turkey; cocoa in Brazil, Cameroon, Ghana, Guinea, and Sierra Leone; coffee in Brazil, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Guinea, Honduras, Kenya, Mexico, Nicaragua, Panama, Sierra Leone, Tanzania, Uganda, and Vietnam; and rice in Brazil, Dominican Republic, Kenya, the Philippines, Uganda, and Vietnam. They have also documented cases of child labor in the production of beef in Brazil, and cattle in Chad, Costa Rica, El Salvador, Ethiopia, Lesotho, Mauritania, Namibia, Uganda, and Zambia. Child labor in aquaculture has been documented in cases involving fish in Brazil, Cambodia, Kenya, Paraguay, Peru, Philippines, Uganda, Vietnam, and Yemen; shellfish in El Salvador and Nicaragua; and shrimp in Bangladesh and Cambodia [272].
+#### Reporting on child labor
+If the organization has determined child labor to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
+
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.17.1 |
+| Topic Standard disclosures |  |  |
+| GRI 408: Child Labor 2016 | Disclosure 408-1 Operations and suppliers at significant risk for incidents of child labor | 13.17.2 |
+
+#### References and resources
+GRI 408: Child Labor 2016 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
+The additional intergovernmental instruments and references used in developing this topic, as well as resources that may be helpful for reporting on child labor by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.18 Freedom of association and collective bargaining
+Freedom of association and collective bargaining are human rights and fundamental rights at work. They include the rights of employers and workers to form, join, and run their own organizations without prior authorization or interference, and to collectively negotiate working conditions and terms of employment. This topic covers an organization’s approach and impacts related to freedom of association and collective bargaining.
+The rights to freedom of association and collective bargaining of many workers in the agriculture, aquaculture, and fishing sectors remain at risk. Workers are still denied their rights to organize and bargain collectively in many countries, preventing them from effectively protecting their interests.
+Low-income workers, workers in informal employment, migrant, seasonal, and casual workers face barriers to exercising the right to freedom of association and collective bargaining. This is amplified by the asymmetric balance of power between employers and workers. Lack of access to freedom of association and collective bargaining can exacerbate impacts on workers who already face increased work-related vulnerabilities and isolation (see topic 13.15 Non-discrimination and equal opportunity).
+While it is more common for workers in large commercial agriculture, aquaculture, and fishing operations to be represented by trade unions and covered by collective bargaining agreements, only a small percentage are organized. Organizations preventing unionization of workers in the sectors is a recurring issue. Trade unions’ members have also experienced intimidation and violence (see references [281], [286] and [287]).
+Seasonal workers might find it hard to join unions due to their short-term employment. Trade unions have reported restrictions on temporary workers or workers employed by suppliers to access the same rights as other employees effectively. In some cases, organizations purposely hire workers on short-term contracts or outsource jobs so that workers are not able to join trade unions. Migrant workers can be more vulnerable in this regard, as they can be explicitly banned from joining national unions of countries where they work.
+According to the International Labour Organization (ILO), all workers – including self‐employed persons, smallholder farmers, small-scale fishers, and those working in the informal economy – should enjoy the right to freedom of association and collective bargaining.
+#### Reporting on freedom of association and collective bargaining
+If the organization has determined freedom of association and collective bargaining to be a material topic, this section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
+
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.18.1 |
+| Topic Standard disclosures |  |  |
+| GRI 407: Freedom of Association and Collective Bargaining 2016 | Disclosure 407-1 Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk | 13.18.2 |
+
+#### References and resources
+GRI 407: Freedom of Association and Collective Bargaining 2016 lists authoritative intergovernmental instruments relevant to reporting on this topic.
+The additional intergovernmental instruments and references used in developing this topic, as well as resources that may be helpful for reporting on freedom of association and collective bargaining by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.19 Occupational health and safety
+Healthy and safe work conditions are recognized as a human right. Occupational health and safety involves the prevention of physical and mental harm to workers and promotion of workers’ health. This topic covers impacts related to workers’ health and safety.
+Agriculture, aquaculture, and fishing are listed among the most hazardous sectors, with high numbers of work-related injuries and ill health each year (see references [304] and [309]). Work-related hazards associated with agriculture, aquaculture, and fishing include:
+handling dangerous machinery, tools, vessels, and vehicles;
+- exposure to excessive noise and vibration, causing hearing and other sensory problems;
+- slips, trips, falls from heights, falls overboard, and drowning;
+- working with animals considerably heavier than the worker, lifting heavy weights, and other work giving rise to musculoskeletal disorders;
+working near people or animals, increasing the risk of exposure to infectious diseases;
+- attacks by wild animals;
+- exposure to dust and potentially harmful organic substances and chemicals;
+- exposure to extreme temperatures and severe weather.
+Because workers in agriculture, aquaculture, and fishing sectors often live where they work, occupational health and safety impacts can also be associated with workers’ living conditions. Adequate working and living conditions provide access to potable drinking water, quantity and quality of food, hygiene, sanitation, and appropriate accommodation. Workers are entitled to safe, hygienic, and socially acceptable access to sanitation, a lack thereof can increase the risk of contracting infectious diseases.
+Workers may work long hours and many consecutive days in the agriculture sector, especially when harvesting crops. They can be exposed to pesticides and other chemical substances used. Children living with workers on farms and plantations can also be exposed to hazardous substances (see also topic 13.6 Pesticides use and topic 13.17 Child labor).
+Fishing is associated with many risks, such as ill health, work-related injuries, and death. Fishing far offshore is considered one of the most dangerous occupations. Vessel disasters and falls overboard pose the greatest safety risks and are the sector’s leading causes of fatalities. Vessel safety risks are linked to weather, lack of weather warning systems, power loss, engine failure, or inadequate maintenance levels. At-sea crew transfers between fishing vessels and support vessels can pose additional safety risks, especially in rough seas.
+Most fishing vessels fall outside of size parameters regulated by international maritime safety standards. Small-scale fishers operate millions of fishing vessels that vary in degree of sophistication. Frequently, these vessels prove unsuitable for the conditions in which they may be used, such as carrying considerable amounts of fish or sailing far offshore.
+Vessel safety standards address risks related to general safety, such as fire safety, lighting, ventilation, personal safety, vessel stability, and survival at sea. Vessel safety training serves to prevent vessel disasters and ensure compliance with the safety standards. Insurance schemes can further provide income security for fishers and, in case of death or injury, to their families.
+Primary fish processing, such as catching, sorting, and storing fish, often requires handling dangerous tools, such as knives and hooks. When fish are manually beheaded, gutted, skinned, or filleted, it is common for workers to experience cuts or severe lacerations. Fish and other aquatic animals' bites, stings, and tail kicks can also lead to injuries. In the case of ill health or injury offshore, professional medical care or even an urgent medical evacuation might be unavailable.
+Fishing can involve long hours at sea, far offshore. The daily and weekly rest requirements determined by crewing levels can also affect fishing crews' health and safety. Because workers can reside aboard fishing vessels for long periods, poor living conditions can also disrupt their rest periods. Fishers may also experience difficulty taking shore leave or getting off their vessels at foreign ports.
+Fishers may be abandoned by vessel owners without the prospect of payment or repatriation (see topic 13.20 Employment practices). There have been documented cases showing some abandonment lasting for many months. Abandonment can have health and safety impacts, including lack of medical care and regular food provision and harm to mental health caused by keeping people in a state of high uncertainty.
+Due to a lack of safety norms enforcement and inspection, illegal fishing operations and operations in contested waters can negatively impact the health and safety of workers. Addressing illegal, unreported, and unregulated (IUU) fishing in supply chains can help eliminate factors leading to compromised health and safety standards (see also topic 13.23 Supply chain traceability).
+The often isolated and transboundary movement of vessels means consistent access for labor inspection, and occupational health and safety policy enforcement remains difficult.
+#### Reporting on occupational health and safety
+If the organization has determined occupational health and safety to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
+
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations The following additional sector recommendation is for organizations in the fishing sector: • Describe policies on maximum working hours and minimum hours of rest for workers on fishing vessels and the approach to limiting worker fatigue.34 | 13.19.1 |
+| Topic Standard disclosures |  |  |
+| GRI 403: Occupational Health and Safety 2018 | Disclosure 403-1 Occupational health and safety management system | 13.19.2 |
+|  | Disclosure 403-2 Hazard identification, risk assessment, and incident investigation | 13.19.3 |
+|  | Disclosure 403-3 Occupational health services Additional sector recommendations The following additional sector recommendation is for organizations in the fishing sector: • Describe any occupational health services’ functions that specifically address the occupational health and safety risks for workers aboard fishing vessels, including workers operating in high seas, and explain how the organization facilitates workers’ access to these services. | 13.19.4 |
+|  | Disclosure 403-4 Worker participation, consultation, and communication on occupational health and safety | 13.19.5 |
+|  | Disclosure 403-5 Worker training on occupational health and safety | 13.19.6 |
+|  | Disclosure 403-6 Promotion of worker health | 13.19.7 |
+|  | Disclosure 403-7 Prevention and mitigation of occupational health and safety impacts directly linked by business relationships | 13.19.8 |
+|  | Disclosure 403-8 Workers covered by an occupational health and safety management system | 13.19.9 |
+|  | Disclosure 403-9 Work-related injuries | 13.19.10 |
+|  | Disclosure 403-10 Work-related ill health | 13.19.11 |
+
+#### References and resources
+GRI 403: Occupational Health and Safety 2018 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
+The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on occupational health and safety by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+34 The minimum hours of rest are set out in the International Labour Organization (ILO) Convention 188, ‘Work in Fishing Convention’ [388].
+### Topic 13.20 Employment practices
+Employment practices refer to an organization’s approach to job creation, terms of employment and working conditions for its workers. This topic also covers the employment and working conditions in an organization’s supply chain.
+An employment relationship is a legal relationship between a worker and an organization that confers rights and obligations to both parties. Informal employment is widespread in the agriculture, aquaculture, and fishing sectors, with work performed not being registered. Globally, 94% of workers in the agricultural sector are in informal employment [336].
+Informal workers do not have a secure employment contract and may be left without legal protection and employment benefits; their working time and other terms of employment are not clearly defined. Informal work also frequently goes undeclared, violating labor law and undermining tax collection.
+Where a formal employment relationship exists, a lack of transparency can still surround daily hours, pay rates, and working conditions. For example, workers can face unjustified or nontransparent deductions from their pay. Employers might withhold a portion of pay to cover various costs, such as recruitment fees, food supplies and water, accommodation, taking leave to rest, or transferring payments to workers’ families. In-kind payments, bonuses and piece rates are common forms of compensation. This can enhance productivity but may result in a lack of certainty around total earnings and limit a worker’s buying power.
+Employment arrangements in these sectors and related supply chains can be complex and involve many actors. Agriculture, aquaculture, and fishing organizations may rely on workers engaged directly, through employment agencies, or by suppliers. Employers may classify workers they engage as self-employed or engage workers through a third party to avoid a direct employment relationship. Such situations are referred to as disguised employment and can lead to workers being denied their due benefits. Similar negative impacts occur when workers are employed via temporary or daily contracts on an ongoing basis.
+While employment agencies fulfill the sectors’ demands, documented cases show that fundamental principles and rights at work are regularly violated where there is no due diligence on how these agencies operate. Workers can face unjustified recruitment fees, unlawful employment conditions, and restrictions on terminating their engagement. Unethical employment and recruitment practices in the sectors can also increase worker vulnerability and lead to exploitation. Fair or ethical recruitment means hiring workers lawfully and in a fair, transparent manner that respects their dignity and human rights (see references [329], [342] and [343]). Ethical recruitment is characterized by:
+Migrant workers often fill the need for labor in agriculture, aquaculture, and fishing. Migrant status, language, and communication barriers commonly leave migrant workers disadvantaged in terms of remuneration, housing, and social and medical protection (see topic 13.15 Non-discrimination and equal opportunity).
+#### Box 5. Migrant workers
+Migrant workers can be particularly vulnerable to unethical labor practices and abuse. They are more likely to face pay discrimination and less favorable employment terms because they depend on employers or employment agencies for jobs and work permits.
+Migrant workers can be made to pay a fee to access jobs in the agriculture, aquaculture, and fishing sectors and to hand over identity documents, which prevents them from leaving employers. Such practices make migrant workers fall victim to bonded or forced or compulsory labor, labor exploitation, and human trafficking (see also topic 13.16 Forced or compulsory labor).
+International labor standards expect workers in the agriculture, aquaculture, and fishing sectors to have decent conditions of work, including accommodations, food, transportation to and from the workplace, and accident insurance, where applicable. For fishers, international labor and maritime standards specify the right to repatriation in case of abandonment.
+#### Reporting on employment practices
+If the organization has determined employment practices to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
+
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe policies or commitments regarding recruitment of workers, including: - whether the organization has an ethical recruitment policy and, if so, a link to this policy if publicly available; - whether these policies and commitments cover the approach to recruitment fees; - whether these policies and commitments prohibit the withholding of identity documents, such as passports; - whether under these policies workers are provided with written contracts in a language understood by the worker; - whether these policies and commitments apply to employment agencies used to recruit workers; - how instances of non-compliance with these policies and commitments are identified and addressed. • Describe the approach to worker compensation, including: - whether it is based on bonuses and piece rates, and any deductions or withholdings from compensation; - the approach to in-kind payments, including the percentage of remuneration paid in kind at significant locations of operation. • Describe the approach to actions taken to determine and address situations where work undertaken within the supply chain does not take place within appropriate institutional and legal frameworks, including:35 - situations where persons working for suppliers are not provided the social and labor protection that they are entitled to receive by national labor law; - situations where working conditions in the organization’s supply chain do not meet international labor standards or national labor law; - situations of disguised employment relationships where workers in the organization’s supply chain are falsely considered to be self-employed or where there is no legally recognized employer; - situations where work undertaken in the organization’s supply chain is not subject to legally recognized contracts. | 13.20.1 |
+
+#### References and resources
+GRI 401: Employment 2016 lists authoritative intergovernmental instruments relevant to reporting on this topic.
+The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on employment practices by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+35 These additional sector recommendations are based on clause 1.2 in GRI 401: Employment 2016.
+### Topic 13.21 Living income and living wage
+Living income and living wage refer to such level of income or wage which is sufficient to afford a decent standard of living for all household members, including nutritious food, clean water, housing, education, healthcare, and other essential needs, such as provision for unexpected events. This topic covers the organization’s approach to worker compensation in the context of whether it provides for living income or living wage.
+As recognized by the Universal Declaration of Human Rights, all workers have a right to just and favorable remuneration that ensures an existence worthy of human dignity for themselves and their families. The lack of a decent standard of living can lead to poverty, malnutrition, and limited access to basic services. Providing living income or living wage helps reduce inequality and in-work poverty.
+Workers in agriculture, aquaculture, and fishing are more than four times more likely to be in poverty than those in other sectors [356]. Ensuring living income or living wage for workers includes paying self-employed farmers and fishers a fair price for their products or providing such remuneration for a standard workweek to waged workers that is sufficient to afford a decent standard of living.
+A legally set minimum wage can sometimes be used as a proxy for a living wage. However, a living wage is calculated based on requirements for a decent standard of living and can be higher than the minimum wage. In many countries, wage workers in the agriculture, aquaculture, and fishing sectors fall outside of national minimum wage regulations or are subject to sector-specific minimum wage rates that are lower than those applied to other categories of workers. A high spread of informal employment in these sectors also poses a major barrier to the enforcement of wage norms.
+Workers in agriculture, aquaculture, and fishing can be compensated in various ways, such as in-kind payment of a share of their catch or harvest, or bonuses and piece rates, making them more vulnerable to under-compensation (see topic 13.20 Employment practices). While international labor standards do not set a specific threshold, the International Labour Organization (ILO) has questioned whether a high proportion of wages, such as more than 50%, being paid in-kind is appropriate given its potential to diminish workers’ financial income [351].
+Many fishers and farmers are categorized as self-employed workers because they do not receive wages but are compensated according to their production. Protections for this type of worker might not exist, so their incomes may depend on the individuals’ negotiating power, production levels, and prices. However, prices may be subject to volatile or unfavorable market forces and can be set without accounting for possible production losses due to weather events, plant and animal diseases, or other unforeseen circumstances that reduce production.
+Lack of living income or living wage can lead to negative impacts on the environment and people. For example, a lack of living income can also be conducive to illegal clearing of forests or illicit farming or fishing activities in an attempt to earn more. Farmers and fishers can also be pressed to cut production costs by lowering their workers’ wages or relying on poor labor practices such as exploitation, illegal migrant labor, or child labor. Lack of living income also limits the ability of producers to invest in more efficient or sustainable production methods, which can further impact their access to markets, income, and livelihoods (see topic 13.22 Economic inclusion).
+#### Reporting on living income and living wage
+If the organization has determined living income and living wage to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
+
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe commitments related to providing a living income or paying a living wage. • Describe the methodology used for defining living income or living wage at significant locations of operation and report whether this has involved consultation with and participation of local stakeholders, including trade unions and employer organizations. • Describe how sourcing, pricing, and remuneration policies take living income or living wage into account, including how living income is considered when setting product prices. • Describe the tools and systems used to monitor wages paid by suppliers. | 13.21.1 |
 | Additional sector disclosures |  |  |
-| State oil and gas purchases: For oil and gas purchased from the state, or from third parties appointed by the state to sell on their behalf, report: • volumes and types of oil and gas purchased; • full names of the buying entity and the recipient of the payment; • payments made for the purchase.16 |  | 11.21.8 |
+| Wage and payment terms in collective bargaining agreements: Report the percentage of employees and workers who are not employees and whose work is controlled covered by collective bargaining agreements that have terms related to wage levels and frequency of wage payments at significant locations of operation. |  | 13.21.2 |
+| Living wage: Report the percentage of employees and workers who are not employees and whose work is controlled paid above living wage, with a breakdown by gender. |  | 13.21.3 |
 
-### References and resources
-
-GRI 201: Economic Performance 2016 and GRI 207: Tax 2019 list authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
-
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on payments to governments by the oil and gas sector are listed in the Bibliography.
-
-13 This additional sector recommendation is based on Requirement 2.6 State participation in the EITI Standard 2019 [387]. 14 This additional sector recommendation is based on Requirement 4.1 Comprehensive disclosure of taxes and revenues and Requirement 4.7. Level of disaggregation in the EITI Standard 2019. A definition for project can be found in the EITI Standard 2019 [387]. 15 The EITI Standard 2019 specifies that in countries implementing the EITI, the multi-stakeholder group for the country agree which payments and revenues are material, including appropriate thresholds [387]. The organization can use the relevant threshold set by the EITI multi-stakeholder group. If there is no relevant threshold set, the organization can use a threshold equivalent to that established for the European Union, which specifies that ‘Payments, whether a single payment or a series of related payments, below EUR 100,000 within the reporting period can be excluded’ [380]. 16 This additional sector disclosure is based on Requirement 4.2 Sale of the state’s share of production or other revenues collected in kind in the EITI Standard 2019 [387] and EITI Reporting Guidelines for companies buying oil, gas and minerals from governments [385].
-
-## Topic 11.22 Public policy
-
-An organization can participate in public policy development, directly or through an intermediary organization, by means of lobbying or making financial or in-kind contributions to political parties, politicians, or causes. While an organization can encourage the development of public policy that benefits society, participation can also be associated with corruption, bribery, undue influence or an imbalanced representation of the organization’s interests. This topic covers an organization’s approach to public policy advocacy, and the impacts that can result from the influence an organization exerts.
-
-The oil and gas sector can exert significant influence on government policies and is among the sectors with the largest lobbying expenditure. Documented cases have shown that lobbying by the oil and gas sector can obstruct progress toward the Sustainable Development Goals, or lead to policy and regulation inconsistent with the transition to a low-carbon economy. In regions where oil and gas generate significant revenue for governments, organizations in the sector may get better access to, and representation in meetings with, government representatives, which may lead to increased influence over public policy decisions. Organizations in the sector have made donations to political parties whose policies favor corporate agendas or gain special access to politicians.
-
-Advocacy and lobbying by the oil and gas sector have contributed to hindering environmental policies; blocking or amending legislation on environmental and social assessments of projects or fair participation of all stakeholders; overturning restrictions on resource development; acquiring permits for pipelines; and lowering labor standards, corporate taxes, and resource royalties. These activities have also been used to gain or retain government subsidies, which can result in commodity prices that do not reflect the full environmental costs of oil and gas products.
-
-The oil and gas sector has actively advocated against ambitious climate policies as well as for ensuring continued subsidies to the sector, through individual organizations in the sector and industry bodies. These activities have often been targeted against enforcing meaningful carbon pricing, carbon budgets, or other measures to reduce GHG emissions that could leave oil and gas assets and resources stranded. Sometimes, efforts have contradicted publicly stated corporate strategies and positions that support policies addressing climate change. Excessive subsidies for the sector can impede the transition to a low-carbon economy, and consequently hinder sustainable development, in numerous ways, including by reducing or inefficiently allocating available national resources, increasing dependence on fossil fuels, and discouraging investment in renewable energy and energy efficiency (see topic 11.1 Climate change).
-
-### Reporting on public policy
-
-If the organization has determined public policy to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the oil and gas sector.
-
-### Table: Data Table
+#### References and resources
+The authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on living income and living wage by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.22 Economic inclusion
+Economic inclusion concerns an organization’s impacts on access to economic opportunities for local communities and the productive potential of actual and possible suppliers. This topic covers an organization’s approach to economic inclusion of farmers and fishers, and their communities.
+Small-scale producers – farmers and fishers, who grow, harvest, and supply products to organizations – are key suppliers for the agriculture, aquaculture, and fishing sectors. There are 500 million smallholder farmers in the agriculture sector, and in some regions, they produce up to 80% of all agricultural products [364]. Similarly, small fishing vessels represent over 80% of the world’s total fishing fleet (see references [360] and [370]). However, many of these farmers and fishers live in poor and rural areas, where communities face economic and social exclusion due to inadequate infrastructure, lack of technology, limited production capacity, or limited access to markets and finance [368].
+Farmers' and fishers' productivity and resilience can be strengthened by sustained demand, capital provision, skillbuilding, and enhanced access to markets. For example, contract farming – when an organization enters into forwarding agreements to purchase products – can enhance farmers' financial certainty and market access. Organizations may also commit to providing production inputs as part of these agreements, such as seeds and fertilizers. However, contract farming agreements need to be executed in a way to prevent debt or dependency.
+Agriculture, aquaculture, and fishing organizations can also contribute to the capacity of small-scale producers by reducing barriers to market and connecting them to financial services and productive assets. Organizations may also facilitate the formalization and development of business enterprises by farmers and fishers. This includes assistance with registering land titles, business registration, and formal labor relations. Organizations can also encourage cooperatives that provide collective benefits.
+Economic inclusion can also be encouraged when organizations select suppliers by, for example, prioritizing those owned by women or members of other vulnerable groups. Empowering women is a key driver for economic inclusion in rural areas, as women are more likely to be in poverty and face economic constraints at the individual or household levels (see topic 13.15 Non-discrimination and equal opportunity).
+The development of infrastructure that extends beyond the scope of the organization’s operations, such as roads, ports, or canals, can facilitate access to transportation, energy, sanitation, and other services in otherwise unserved areas. Organizations may also contribute to community investments and stimulate economic activity in the local area, providing economic opportunities for those not active in the local economy.
+Empowering farmers and fishers can help them achieve high productivity and contribute to greater food security, responding to current and future needs of sustainable food production (see topic 13.9 Food security).
+#### Reporting on economic inclusion
+If the organization has determined economic inclusion to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
 | STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
 |---|---|---|
 | Management of the topic |  |  |
-| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the organization’s stance on significant issues that are the focus of its participation in public policy development and lobbying; and any differences between these positions and its stated policies, goals, or other public positions. • Report whether the organization is a member of, or contributes to, any representative associations or committees that participate in public policy development and lobbying, including: - the nature of this contribution; - any differences between the organization’s stated policies, goals, or other public positions on significant issues related to climate change, and the positions of the representative associations or committees.17 | 11.22.1 |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe actions taken to support the economic inclusion of farmers and fishers, and their communities (e.g., direct support through investments, partnerships, or training) and the effectiveness of these actions (e.g., increased yields or productivity, number of farmers or fishers reached, percentage of products sourced from small producers). • Describe actions taken to identify and adjust the sourcing practices of the organization that cause or contribute to negative impacts on economic inclusion of farmers and fishers in the supply chain.36 | 13.22.1 |
 | Topic Standard disclosures |  |  |
-| GRI 415: Public Policy 2016 | Disclosure 415-1 Political contributions | 11.22.2 |
+| GRI 201: Economic Performance 2016 | Disclosure 201-1 Direct economic value generated and distributed | 13.22.2 |
+| GRI 203: Indirect Economic Impacts 2016 | Disclosure 203-1 Infrastructure investments and services supported | 13.22.3 |
+|  | Disclosure 203-2 Significant indirect economic impacts | 13.22.4 |
 
-### References and resources
+#### References and resources
+GRI 201: Economic Performance 2016 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
+The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on economic inclusion by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+36 These additional sector recommendations are based on the guidance to clause 1.1 in GRI 204: Procurement Practices 2016.
+### Topic 13.23 Supply chain traceability
+Traceability is the ability to trace the source, origin, or production conditions of raw materials and final products. Traceability provides a way to identify and prevent potential negative impacts linked to an organization’s products. This topic covers an organization’s approach to supply chain traceability.
+Agriculture, aquaculture, and fishing organizations may source their products and procure inputs, such as animal feed, from multiple farms, mills, plantations, waters, or hatcheries. Production conditions can differ highly across countries. The sectors’ supply chains can be complex, crossing international borders and aggregating products from multiple locations. Products can be associated with diverse negative impacts on the economy, environment, and people and involve informal operations, where impacts often go undocumented.
+Traceability mechanisms enable organizations to identify the origins of their products and actors in their supply chain. These mechanisms can help localize and withdraw non-conforming products. For example, traceability allows for urgent product recalls over food safety concerns and outbreaks of disease in animals.
+Feed traceability in animal production and aquaculture is a key concern. The sourcing of animal and fish feed can contribute to negative impacts on biodiversity and natural ecosystems. Aquaculture feed can rely on depleted fish stocks, further driving overfishing (see topic 13.3 Biodiversity). Plant-based feed can be associated with natural ecosystem conversion. For example, almost 80% of the world’s soybean crop is used as animal feed and soybean farming is associated with deforestation in many areas [379] (see topic 13.4 Natural ecosystem conversion).
+In the fishing sector, traceability mechanisms serve to ensure fishery resources' sustainability and the legality of fishing operations. Identifying the source of fishing products requires increased scrutiny because of the transshipment of catch, re-exportation, and numerous processing stages.
+#### Box 6. Illegal, unreported, and unregulated (IUU) fishing
+Some estimates indicate that globally up to 30% of sourced fish comes from IUU fishing, which includes fishing without a license, exceeding fishing quotas, capturing undersized fish or endangered species, and using unauthorized fishing gear [377]. It also includes fishing in restricted or protected marine areas or inshore waters reserved for local fishers and unauthorized transfer of catch from one vessel to another.
+IUU fishing is a threat to marine ecosystems and biodiversity because of its potential impacts on the sustainability of fishing stocks. Traceability mechanisms are a fundamental tool against IUU fishing. Certified fisheries, fisheries improvement projects, or robust monitoring, control, and surveillance (MCS) measures can also provide some level of assurance against IUU fishing.
+Traceability can also facilitate the transparency of value created at each stage of the value chain and how the value is distributed among producers. This information is relevant for establishing purchasing prices for agriculture, aquaculture, and fishing products that provide for living income or living wage to workers, farmers, and fishers (see also topic 13.21 Living income and living wage).
+Tracing the origins of products can be challenging, and traceability across the agriculture, aquaculture, and fishing sectors is unevenly implemented. Organizations that source agriculture, aquaculture, or fishing products might, depending on the product, be able to trace each to its source or a specific geographic area. Suppliers may also have certifications and assurance schemes by third parties that link their products to production sites upholding certain environmental, economic, and social performance standards.
+37 Improvement projects focus on improving production practices and the way impacts on species and ecosystems are managed. Improvement
+projects are often undertaken with the intention of undergoing an assessment as part of a certification process that ensures conformity with certain environmental, economic, and social performance standards in the future.
+#### Reporting on supply chain traceability
+If the organization has determined supply chain traceability to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics Additional sector recommendations • Describe the rationale and methodology for tracing the source, origin, or production conditions of the products sourced by the organization (such as raw materials and production inputs purchased).38 The following additional sector recommendations are for organizations in the fishing sector: • Describe policies, assurance schemes, and risk assessment processes related to illegal, unreported, and unregulated (IUU) fishing. • List initiatives and partnerships intended to help address illegal, unreported, and unregulated (IUU) fishing that the organization participates in. | 13.23.1 |
+| Additional sector disclosures |  |  |
+| Traceability of products sourced: Describe the level of traceability in place for each product sourced, for example, whether the product can be traced to the national, regional, or local level, or a specific point of origin (e.g., farms, hatcheries, and feed mill levels).39 |  | 13.23.2 |
+| Traceability certification: Report the percentage of sourced volume4 0 certified to internationally recognized standards that trace the path of products through the supply chain, by product and list these standards.41 |  | 13.23.3 |
+| Projects for supplier traceability certifications: Describe improvement projects to get suppliers certified to internationally recognized standards that trace the path of products through the supply chain to ensure that all sourced volume is certified. |  | 13.23.4 |
+
+#### References and resources
+The references used in developing this topic, as well as resources that may be helpful for reporting on supply chain traceability by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+38 This additional sector recommendation is based on the guidance to clause 1.1 in GRI 204: Procurement Practices 2016. 39 A description of the organization’s supply chain is reported under Disclosure 2-6 Activities, value chain and other business relationships in GRI 2:
+General Disclosures 2021. 40 Sourced volume refers to the total volume of products sourced by the organization from suppliers. 41 Certifications or standards that trace the path of products through the supply chain are sometimes referred to as chain of custody (CoC). CoC is the
+chronological documentation or document trail that records the sequence of custody, control, transfer, analysis, and disposition of products.
+### Topic 13.24 Public policy
+An organization can participate in public policy development, directly or through an intermediary organization, by means of lobbying or making financial or in-kind contributions to political parties, politicians, or causes. While an organization can encourage public policy development that benefits society, participation can also be associated with corruption, bribery, undue influence, or an imbalanced representation of the organization’s interests. This topic covers an organization’s approach to public policy advocacy and the impacts that can result from an organization's influence.
+Agriculture, aquaculture, and fishing organizations can potentially influence local, national, or international policy concerning environmental regulations, access to natural resources, labor laws, food safety, public health, and animal welfare.
+Advocacy or lobbying by the agriculture, aquaculture, and fishing sectors may target policies that limit the sectors' environmental impact; government price setting and subsidies; or mandatory quotas on products. In agriculture, documented cases show that large agricultural organizations advocated for postponing legal requirements for rotating crops and avoiding penalties for inadequate land use. Agriculture lobby activities can also target approvals of genetically modified organisms (GMOs) and objectives to decrease the use of pesticides, fertilizers, and animal antibiotics. Lobbying can also affect farmers’ access to technology and genetic resources, such as seeds.
+In animal production, lobbying can inhibit public policy development that deals with livestock’s negative impacts on the environment. Livestock products – particularly dairy and beef – are heavily subsidized in many countries due to livestock organizations' influence. Subsidies enabled expressly through lobbying can facilitate the supply of animal products at prices that do not cover the costs to the environment. Lobbying can also prevent stricter standards of animal welfare.
+In fishing, organizations can influence allowable catch and quota regulations, including international trade negotiations and inter-country agreements on fishing quotas. Locally, lobbying can sway attempts to limit catch in order to preserve fishing stocks (see also topic 13.26 Anti-corruption).
+#### Reporting on public policy
+If the organization has determined public policy to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
+
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.24.1 |
+| Topic Standard disclosures |  |  |
+| GRI 415: Public Policy 2016 | Disclosure 415-1 Political contributions | 13.24.2 |
+
+#### References and resources
 GRI 415: Public Policy 2016 lists authoritative intergovernmental instruments relevant to reporting on this topic.
+The additional references used in developing this topic, as well as resources that may be helpful for reporting on public policy by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.25 Anti-competitive behavior
+Anti-competitive behavior refers to actions by an organization that can result in collusion with potential competitors, abuse of dominant market position or exclusion of potential competitors, thereby limiting the effects of market competition. This can include fixing prices or coordinating bids, creating market or output restrictions, imposing geographic quotas, and allocating customers, suppliers, geographic areas, or product lines. This topic covers impacts as a result of anti-competitive behavior.
+Many agriculture, aquaculture, and fishing products are purchased from producers and traded by a limited number of organizations. In situations of limited market options, traders and buyers can exert significant market power.
+Anti-competitive agreements between agriculture, aquaculture, and fishing organizations can lead to purchasing prices for products being set below those in a competitive market and restrictions on the product volumes. Many producers in these sectors are smallholder farmers and small-scale fishers, often working in the informal sector and facing substantial barriers to accessing markets (see also topic 13.22 Economic inclusion). Large organizations that source supplies from small producers can take advantage of information asymmetry and market fragmentation to limit their choices of whom to supply.
+Anti-competitive practices may render small producers in these sectors unable to cover their costs, achieve living income, or pay wages to their workers, resulting in economic exclusion and risk to livelihoods (see topic 13.21 Living income and living wage). Other actions that purposely limit the effects of market competition can also cause small producers to lose their independence and be pressured into becoming subsidiaries of large multinational organizations. In some parts of the sectors, cartels have caused the exclusion of small producers from international markets.
+Large cooperatives, commonly found in the sectors, can affect market competition by requiring farmers and fishers to sell their products exclusively through them. While such arrangements can benefit producers, they can also pose anticompetitive concerns by limiting consumers’ choices in cases where they represent a major share of the sector’s productive capacity.
+#### Reporting on anti-competitive behavior
+If the organization has determined anti-competitive behavior to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
-The additional authoritative instruments and references used in developing this topic, as well as resources that may be helpful for reporting on public policy by the oil and gas sector are listed in the Bibliography.
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.25.1 |
+| Topic Standard disclosures |  |  |
+| GRI 206: Anti- competitive Behavior 2016 | Disclosure 206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices | 13.25.2 |
 
-17 These additional sector recommendations are based on reporting recommendations 1.2.1 and 1.2.2 in GRI 415: Public Policy 2016.
+#### References and resources
+GRI 206: Anti-competitive Behavior 2016 lists authoritative intergovernmental instruments.
+The additional references used in developing this topic, as well as resources that may be helpful for reporting on anticompetitive behavior by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
+### Topic 13.26 Anti-corruption
+Anti-corruption refers to how an organization manages the potential of being involved with corruption. Corruption is practices such as bribery, facilitation payments, fraud, extortion, collusion, money laundering, or the offer or receipt of an inducement to do something dishonest or illegal. This topic covers the potential for corruption to occur and the related impacts.
+Corruption in the agriculture, aquaculture, and fishing sectors can erode the capacity of governments to limit practices, such as deforestation and overfishing. Corruption also increases the likelihood of potential negative impacts on workers and communities and reduces government revenues. Organizations that engage in corruption can have an unfair advantage in competitive markets.
+In the agriculture, aquaculture, and fishing sectors, corruption may be related to the use of land and other natural resources regulated by government agencies. It can, for example, take the form of bribes paid to officials to register land, acquire land information, or obtain permits to establish an operation. This can affect rightsholders and lead to the displacement of communities, particularly in areas without secure land tenure (see also topic 13.13 Land and resource rights).
+Other forms of corruption can also involve the undue benefit from political reforms and land transactions, such as privatizing state-owned land, approving zoning plans, and land expropriation. These practices often ignore legal mechanisms and cause impacts on people and the environment.
+Corruption in the sectors may include inducing officials to ignore illegal farming or fishing operations, leading to the loss of natural ecosystems when land is cleared. Corrupt practices in fishing can facilitate access agreements between organizations and officials managing fishing resources, which potentially result in unsustainable levels of fishing.
+Corrupt practices can also allow for illegal, unreported, and unregulated fishing (IUU) and exceeding quotas, undermining stocks' sustainability. Fishers themselves might be involved in corruption to increase catch quantities. Records of type or volume of catch may be falsified, or authorities may be bribed to ignore or certify false records.
+Operating fishing vessels under a flag of convenience or an unknown flag can also be associated with corruption when intended to bypass countries’ legal restrictions.
+#### Reporting on anti-corruption
+If the organization has determined anti-corruption to be a material topic, this sub-section lists the disclosures identified as relevant for reporting on the topic by the agriculture, aquaculture, and fishing sectors.
+**[Table]**
 
+| STANDARD | DISCLOSURE | SECTOR STANDARD REF. NO. |
+|---|---|---|
+| Management of the topic |  |  |
+| GRI 3: Material Topics 2021 | Disclosure 3-3 Management of material topics | 13.26.1 |
+| Topic Standard disclosures |  |  |
+| GRI 205: Anti- corruption 2016 | Disclosure 205-1 Operations assessed for risks related to corruption | 13.26.2 |
+|  | Disclosure 205-2 Communication and training about anti-corruption policies and procedures | 13.26.3 |
+|  | Disclosure 205-3 Confirmed incidents of corruption and actions taken | 13.26.4 |
+
+#### References and resources
+GRI 205: Anti-corruption 2016 lists authoritative intergovernmental instruments and additional references relevant to reporting on this topic.
+The additional references used in developing this topic, as well as resources that may be helpful for reporting on anticorruption by the agriculture, aquaculture, and fishing sectors are listed in the Bibliography.
 # Glossary
-
 This glossary provides definitions for terms used in this Standard. The organization is required to apply these definitions when using the GRI Standards.
-
-The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards Glossary, definitions that are commonly used and understood apply. anti-competitive behavior action of the organization or employees that can result in collusion with potential competitors, with the purpose of limiting the effects of market competition Examples: allocating customers, suppliers, geographic areas, and product lines; coordinating bids; creating market or output restrictions; fixing prices; imposing geographic quotas baseline starting point used for comparisons Note: In the context of energy reporting, the baseline is the projected energy consumption in the absence of any reduction activity. basic salary fixed, minimum amount paid to an employee for performing his or her duties Note: Basic salary excludes any additional remuneration, such as payments for overtime working or bonuses. benefit direct benefit provided in the form of financial contributions, care paid for by the organization, or the reimbursement of expenses borne by the employee Note: Redundancy payments over and above legal minimums, lay-off pay, extra employment injury benefit, survivors’ benefits, and extra paid holiday entitlements can also be included as a benefit. business partner entity with which the organization has some form of direct and formal engagement for the purpose of meeting its business objectives Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees, joint venture partners, investee companies in which the organization has a shareholding position Note: Business partners do not include subsidiaries and affiliates that the organization controls. business relationships relationships that the organization has with business partners, with entities in its value chain including those beyond the first tier, and with any other entities directly linked to its operations, products, or services Source: United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011; modified Note: Examples of other entities directly linked to the organization’s operations, products, or services are a non-governmental organization with which the organization delivers support to a local community or state security forces that protect the organization’s facilities.
-
-## A
-
-## B
-
-carbon dioxide (CO₂) equivalent the universal unit of measurement to indicate the global warming potential (GWP) of each greenhouse gas (GHG), expressed in terms of the GWP of one unit of carbon dioxide Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011 Note: The CO2 equivalent for a gas is determined by multiplying the metric tons of the gas by the associated GWP. catchment area of land from which all surface runoff and subsurface water flows through a sequence of streams, rivers, aquifers, and lakes into the sea or another outlet at a single river mouth, estuary, or delta Source: Alliance for Water Stewardship (AWS), AWS International Water Stewardship Standard, Version 1.0, 2014; modified Note: Catchments include associated groundwater areas and might include portions of waterbodies (such as lakes or rivers). In different parts of the world, catchments are also referred to as ‘watersheds’ or ‘basins’ (or sub-basins). child person under the age of 15 years, or under the age of completion of compulsory schooling, whichever is higher Note 1: Exceptions can occur in certain countries where economies and educational facilities are insufficiently developed, and a minimum age of 14 years applies. These countries of exception are specified by the International Labour Organization (ILO) in response to a special application by the country concerned and in consultation with representative organizations of employers and workers.
-
-Note 2: The ILO Minimum Age Convention, 1973, (No. 138), refers to both child labor and young workers. circularity measures measures taken to retain the value of products, materials, and resources and redirect them back to use for as long as possible with the lowest carbon and resource footprint possible, such that fewer raw materials and resources are extracted and waste generation is prevented collective bargaining all negotiations that take place between one or more employers or employers' organizations, on the one hand, and one or more workers' organizations (e.g., trade unions), on the other, for determining working conditions and terms of employment or for regulating relations between employers and workers Source: International Labour Organization (ILO), Collective Bargaining Convention, 1981 (No. 154); modified community development program plan that details actions to minimize, mitigate, or compensate for adverse social and/or economic impacts, and/or to identify opportunities or actions to enhance positive impacts of a project on the community conflict of interest situation where an individual is confronted with choosing between the requirements of their function in the organization and their other personal or professional interests or responsibilities corruption ‘abuse of entrusted power for private gain’, which can be instigated by individuals or organizations Source: Transparency International, Business Principles for Countering Bribery, 2011 Note: Corruption includes practices such as bribery, facilitation payments, fraud, extortion, collusion, and money laundering. It also includes an offer or receipt of any gift, loan, fee, reward, or other advantage to or from any person as an inducement to do something that is dishonest, illegal, or a breach of trust in the conduct of the enterprise’s business. This can include cash or in-kind benefits, such as free goods, gifts, and holidays, or special personal services provided for the purpose of an improper advantage, or that can result in moral pressure to receive such an advantage. discrimination act and result of treating persons unequally by imposing unequal burdens or denying benefits instead of treating each person fairly on the basis of individual merit Note: Discrimination can also include harassment, defined as a course of comments or actions that are unwelcome, or should reasonably be known to be unwelcome, to the person towards whom they are addressed. disposal any operation which is not recovery, even where the operation has as a secondary consequence the recovery of energy Source: European Union (EU), Waste Framework Directive, 2008 (Directive 2008/98/EC) Note: Disposal is the end-of-life management of discarded products, materials, and resources in a sink or through a chemical or thermal transformation that makes these products, materials, and resources unavailable for further use. due diligence process to identify, prevent, mitigate, and account for how the organization addresses its actual and potential negative impacts Source: Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational Enterprises, 2011; modified United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011; modified Note: See section 2.3 in GRI 1: Foundation 2021 for more information on ‘due diligence’. effluent treated or untreated wastewater that is discharged Source: Alliance for Water Stewardship (AWS), AWS International Water Stewardship Standard, Version 1.0, 2014 employee individual who is in an employment relationship with the organization according to national law or practice employee turnover employees who leave the organization voluntarily or due to dismissal, retirement, or death in service entry level wage full-time wage in the lowest employment category Note: Intern or apprentice wages are not considered entry level wages. exposure quantity of time spent at or the nature of contact with certain environments that possess various degrees and kinds of hazard, or proximity to a condition that might cause injury or ill health (e.g., chemicals, radiation, high pressure, noise, fire, explosives) financial assistance direct or indirect financial benefits that do not represent a transaction of goods and services, but
-
-## E
-
-## F
-
-which are an incentive or compensation for actions taken, the cost of an asset, or expenses incurred Note: The provider of financial assistance does not expect a direct financial return from the assistance offered. forced or compulsory labor all work and service that is exacted from any person under the menace of any penalty and for which the said person has not offered herself or himself voluntarily Source: International Labour Organization (ILO), Forced Labour Convention, 1930 (No. 29); modified Note 1: The most extreme examples of forced or compulsory labor are slave labor and bonded labor, but debts can also be used as a means of maintaining workers in a state of forced labor.
-
-Note 2: Indicators of forced labor include withholding identity papers, requiring compulsory deposits, and compelling workers, under threat of firing, to work extra hours to which they have not previously agreed. freedom of association right of employers and workers to form, to join and to run their own organizations without prior authorization or interference by the state or any other entity freshwater water with concentration of total dissolved solids equal to or below 1,000 mg/L Source: Environmental management — Water footprint — Principles, requirements and guidelines. Geneva: ISO, 2014; modified United States Geological Survey (USGS), Water Science Glossary of Terms, water.usgs.gov/edu/dictionary.html, accessed on 1 June 2018; modified World Health Organization (WHO), Guidelines for Drinking-water Quality, 2017; modified global warming potential (GWP) factor describing the radiative forcing impact (degree of harm to the atmosphere) of one unit of a given greenhouse gas (GHG) relative to one unit of CO2 Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011 Note: GWP values convert GHG emissions data for non-CO2 gases into units of CO₂ equivalent. governance body formalized group of individuals responsible for the strategic guidance of the organization, the effective monitoring of management, and the accountability of management to the broader organization and its stakeholders greenhouse gas (GHG) gas that contributes to the greenhouse effect by absorbing infrared radiation Note: GHGs are the seven gases covered by the Kyoto Protocol: carbon dioxide (CO2); methane (CH4); nitrous oxide (N2O); hydrofluorocarbons (HFCs); perfluorocarbons (PFCs); sulfur hexafluoride (SF6); and nitrogen trifluoride (NF3). grievance perceived injustice evoking an individual’s or a group’s sense of entitlement, which may be based on law, contract, explicit or implicit promises, customary practice, or general notions of fairness of aggrieved communities Source: United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011 grievance mechanism routinized process through which grievances can be raised and remedy can be sought Source: United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011; modified Note: See Guidance to Disclosure 2-25 in GRI 2: General Disclosures 2021 for more information on ‘grievance mechanism’. groundwater water that is being held in, and that can be recovered from, an underground formation Source: International Organization for Standardization. ISO 14046:2014. Environmental management — Water footprint — Principles, requirements and guidelines. Geneva: ISO, 2014; modified hazardous waste waste that possesses any of the characteristics contained in Annex III of the Basel Convention, or that is considered to be hazardous by national legislation Source: United Nations Environment Programme (UNEP), Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1989 high-consequence work-related injury work-related injury that results in a fatality or in an injury from which the worker cannot, does not, or is not expected to recover fully to pre-injury health status within six months highest governance body governance body with the highest authority in the organization Note: In some jurisdictions, governance systems consist of two tiers, where supervision and management are separated or where local law provides for a supervisory board drawn from non-executives to oversee an executive management board. In such cases, both tiers are included under the definition of highest governance body. human rights rights inherent to all human beings, which include, at a minimum, the rights set out in the United Nations (UN) International Bill of Human Rights and the principles concerning fundamental rights set out in the International Labour Organization (ILO) Declaration on Fundamental Principles and Rights at Work Source: United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011; modified Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information on ‘human rights’. impact effect the organization has or could have on the economy, environment, and people, including on their human rights, which in turn can indicate its contribution (negative or positive) to sustainable development Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term, intended or unintended, and reversible or irreversible.
-
-## G
-
-## H
-
+The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards Glossary, definitions that are commonly used and understood apply.
+anti-competitive behavior action of the organization or employees that can result in collusion with potential competitors, with the purpose of limiting the effects of market competition
+### A
+Examples: allocating customers, suppliers, geographic areas, and product lines; coordinating bids; creating market or output restrictions; fixing prices; imposing geographic quotas
+basic salary fixed, minimum amount paid to an employee for performing his or her duties
+### B
+Note: Basic salary excludes any additional remuneration, such as payments for overtime working or bonuses.
+benefit direct benefit provided in the form of financial contributions, care paid for by the organization, or the reimbursement of expenses borne by the employee
+Note: Redundancy payments over and above legal minimums, lay-off pay, extra employment injury benefit, survivors’ benefits, and extra paid holiday entitlements can also be included as a benefit.
+business partner entity with which the organization has some form of direct and formal engagement for the purpose of meeting its business objectives
+Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified
+Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees, joint venture partners, investee companies in which the organization has a shareholding position
+Note: Business partners do not include subsidiaries and affiliates that the organization controls.
+business relationships relationships that the organization has with business partners, with entities in its value chain including those beyond the first tier, and with any other entities directly linked to its operations, products, or services
+Source: United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011; modified
+Note: Examples of other entities directly linked to the organization’s operations, products, or services are a non-governmental organization with which the organization delivers support to a local community or state security forces that protect the organization’s facilities.
+carbon dioxide (CO₂) equivalent the universal unit of measurement to indicate the global warming potential (GWP) of each greenhouse gas (GHG), expressed in terms of the GWP of one unit of carbon dioxide
+### C
+Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011
+Note: The CO2 equivalent for a gas is determined by multiplying the metric tons of the gas by the associated GWP.
+catchment area of land from which all surface runoff and subsurface water flows through a sequence of streams, rivers, aquifers, and lakes into the sea or another outlet at a single river mouth, estuary, or delta
+Source: Alliance for Water Stewardship (AWS), AWS International Water Stewardship Standard, Version 1.0, 2014; modified
+Note: Catchments include associated groundwater areas and might include portions of waterbodies (such as lakes or rivers). In different parts of the world, catchments are also referred to as ‘watersheds’ or ‘basins’ (or sub-basins).
+child person under the age of 15 years, or under the age of completion of compulsory schooling, whichever is higher
+Note 1: Exceptions can occur in certain countries where economies and educational facilities are insufficiently developed, and a minimum age of 14 years applies. These countries of exception are specified by the International Labour Organization (ILO) in response to a special application by the country concerned and in consultation with representative organizations of employers and workers.
+Note 2: The ILO Minimum Age Convention, 1973, (No. 138), refers to both child labor and young workers.
+circularity measures measures taken to retain the value of products, materials, and resources and redirect them back to use for as long as possible with the lowest carbon and resource footprint possible, such that fewer raw materials and resources are extracted and waste generation is prevented
+close call work-related incident where no injury or ill health occurs, but which has the potential to cause these
+Source: International Organization for Standardization. ISO 45001:2018. Occupational health and safety management systems — Requirements with guidance for use. Geneva: ISO, 2018; modified
+Note: A ‘close call’ might also be referred to as a ‘near-miss’ or ‘near-hit’.
+collective bargaining all negotiations that take place between one or more employers or employers' organizations, on the one hand, and one or more workers' organizations (e.g., trade unions), on the other, for determining working conditions and terms of employment or for regulating relations between employers and workers
+Source: International Labour Organization (ILO), Collective Bargaining Convention, 1981 (No. 154); modified
+corruption ‘abuse of entrusted power for private gain’, which can be instigated by individuals or organizations
+Source: Transparency International, Business Principles for Countering Bribery, 2011
+Note: Corruption includes practices such as bribery, facilitation payments, fraud, extortion, collusion, and money laundering. It also includes an offer or receipt of any gift, loan, fee, reward, or other advantage to or from any person as an inducement to do something that is dishonest, illegal, or a breach of trust in the conduct of the enterprise’s business. This can include cash or in-kind benefits, such as free goods, gifts, and holidays, or special personal services provided for the purpose of an improper advantage, or that can result in moral pressure to receive such an advantage.
+discrimination act and result of treating persons unequally by imposing unequal burdens or denying benefits instead of treating each person fairly on the basis of individual merit
+### D
+Note: Discrimination can also include harassment, defined as a course of comments or actions that are unwelcome, or should reasonably be known to be unwelcome, to the person towards whom they are addressed.
+disposal any operation which is not recovery, even where the operation has as a secondary consequence the recovery of energy
+Source: European Union (EU), Waste Framework Directive, 2008 (Directive 2008/98/EC)
+Note: Disposal is the end-of-life management of discarded products, materials, and resources in a sink or through a chemical or thermal transformation that makes these products, materials, and resources unavailable for further use.
+effluent treated or untreated wastewater that is discharged
+### E
+Source: Alliance for Water Stewardship (AWS), AWS International Water Stewardship Standard, Version 1.0, 2014
+employee individual who is in an employment relationship with the organization according to national law or practice
+exposure quantity of time spent at or the nature of contact with certain environments that possess various degrees and kinds of hazard, or proximity to a condition that might cause injury or ill health (e.g., chemicals, radiation, high pressure, noise, fire, explosives)
+forced or compulsory labor all work and service that is exacted from any person under the menace of any penalty and for which the said person has not offered herself or himself voluntarily
+### F
+Source: International Labour Organization (ILO), Forced Labour Convention, 1930 (No. 29); modified
+Note 1: The most extreme examples of forced or compulsory labor are slave labor and bonded labor, but debts can also be used as a means of maintaining workers in a state of forced labor.
+Note 2: Indicators of forced labor include withholding identity papers, requiring compulsory deposits, and compelling workers, under threat of firing, to work extra hours to which they have not previously agreed.
+freedom of association right of employers and workers to form, to join and to run their own organizations without prior authorization or interference by the state or any other entity
+freshwater water with concentration of total dissolved solids equal to or below 1,000 mg/L
+Source: Environmental management — Water footprint — Principles, requirements and guidelines. Geneva: ISO, 2014; modified United States Geological Survey (USGS), Water Science Glossary of Terms, water.usgs.gov/edu/dictionary.html, accessed on 1 June 2018; modified World Health Organization (WHO), Guidelines for Drinking-water Quality, 2017; modified
+global warming potential (GWP) factor describing the radiative forcing impact (degree of harm to the atmosphere) of one unit of a given greenhouse gas (GHG) relative to one unit of CO2
+### G
+Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011
+Note: GWP values convert GHG emissions data for non-CO2 gases into units of CO₂ equivalent.
+governance body formalized group of individuals responsible for the strategic guidance of the organization, the effective monitoring of management, and the accountability of management to the broader organization and its stakeholders
+greenhouse gas (GHG) gas that contributes to the greenhouse effect by absorbing infrared radiation
+Note: GHGs are the seven gases covered by the Kyoto Protocol: carbon dioxide (CO2); methane (CH4); nitrous oxide (N2O); hydrofluorocarbons (HFCs); perfluorocarbons (PFCs); sulfur hexafluoride (SF6); and nitrogen trifluoride (NF3).
+grievance perceived injustice evoking an individual’s or a group’s sense of entitlement, which may be based on law, contract, explicit or implicit promises, customary practice, or general notions of fairness of aggrieved communities
+Source: United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011
+grievance mechanism routinized process through which grievances can be raised and remedy can be sought
+Source: United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011; modified
+Note: See Guidance to Disclosure 2-25 in GRI 2: General Disclosures 2021 for more information on ‘grievance mechanism’.
+groundwater water that is being held in, and that can be recovered from, an underground formation
+Source: International Organization for Standardization. ISO 14046:2014. Environmental management — Water footprint — Principles, requirements and guidelines. Geneva: ISO, 2014; modified
+hazardous waste waste that possesses any of the characteristics contained in Annex III of the Basel Convention, or that is considered to be hazardous by national legislation
+### H
+Source: United Nations Environment Programme (UNEP), Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1989
+human rights rights inherent to all human beings, which include, at a minimum, the rights set out in the United Nations (UN) International Bill of Human Rights and the principles concerning fundamental
+rights set out in the International Labour Organization (ILO) Declaration on Fundamental Principles and Rights at Work
+Source: United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011; modified
+Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information on ‘human rights’.
+impact effect the organization has or could have on the economy, environment, and people, including on their human rights, which in turn can indicate its contribution (negative or positive) to sustainable development
+### I
+Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term, intended or unintended, and reversible or irreversible.
 Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.
-
-Indigenous Peoples Indigenous Peoples are generally identified as: •
-
-tribal peoples in independent countries whose social, cultural and economic conditions distinguish them from other sections of the national community, and whose status is regulated wholly or partially by their own customs or traditions or by special laws or regulations; peoples in independent countries who are regarded as indigenous on account of their descent from the populations which inhabited the country, or a geographical region to which the country belongs, at the time of conquest or colonization or the establishment of present state boundaries and who, irrespective of their legal status, retain some or all of their own social, economic, cultural and political institutions.
-
-Source: International Labour Organization (ILO), Indigenous and Tribal Peoples Convention, 1989 (No. 169) infrastructure facilities built primarily to provide a public service or good rather than a commercial purpose, and from which the organization does not seek to gain direct economic benefit Examples: hospitals, roads, schools, water supply facilities local community individuals or groups of individuals living or working in areas that are affected or that could be affected by the organization’s activities Note: The local community can range from those living adjacent to the organization’s operations to those living at a distance. local supplier organization or person that provides a product or service to the reporting organization, and that is based in the same geographic market as the reporting organization (that is, no transnational payments are made to a local supplier) Note: The geographic definition of ‘local’ can include the community surrounding operations, a region within a country or a country. material topics topics that represent the organization’s most significant impacts on the economy, environment, and people, including impacts on their human rights Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics 2021 for more information on ‘material topics’. mitigation action(s) taken to reduce the extent of a negative impact Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An Interpretive Guide, 2012; modified Note: The mitigation of an actual negative impact refers to actions taken to reduce the severity of the negative impact that has occurred, with any residual impact needing remediation. The mitigation of a potential negative impact refers to actions taken to reduce the likelihood of the negative impact occurring. occupational health and safety management system set of interrelated or interacting elements to establish an occupational health and safety policy and objectives, and to achieve those objectives Source: International Labour Organization (ILO), Guidelines on Occupational Safety and Health Management Systems, ILO-OSH 2001, 2001 occupational health services services entrusted with essentially preventive functions, and responsible for advising the employer, the workers, and their representatives in the undertaking, on the requirements for establishing and maintaining a safe and healthy work environment, which will facilitate optimal physical and mental health in relation to work and the adaptation of work to the capabilities of workers in the light of their state of physical and mental health Source: International Labour Organization (ILO), Occupational Health Services Convention, 1985 (No. 161)
-
-## - O
-
-Examples: advice on ergonomics, and on individual and collective protective equipment; advice on occupational health, safety, and hygiene; organization of first aid and emergency treatment; promotion of the adaptation of work to the worker; surveillance of factors in the work environment, including any sanitary installations, canteens, and housing provided to workers, or in work practices, which might affect workers’ health; surveillance of workers' health in relation to work parental leave leave granted to men and women employees on the grounds of the birth of a child political contribution financial or in-kind support given directly or indirectly to political parties, their elected representatives, or persons seeking political office Note 1: Financial contributions can include donations, loans, sponsorships, retainers, or the purchase of tickets for fundraising events.
-
-## P
-
-Note 2: In-kind contributions can include advertising, use of facilities, design and printing, donation of equipment, or the provision of board membership, employment or consultancy work for elected politicians or candidates for office. preparation for reuse checking, cleaning, or repairing operations, by which products or components of products that have become waste are prepared to be put to use for the same purpose for which they were conceived Source: European Union (EU), Waste Framework Directive, 2008 (Directive 2008/98/EC); modified produced water water that enters the organization’s boundary as a result of extraction (e.g., crude oil), processing (e.g., sugar cane crushing), or use of any raw material, and has to consequently be managed by the organization Source: CDP, CDP Water Security Reporting Guidance, 2018; modified recovery operation wherein products, components of products, or materials that have become waste are prepared to fulfill a purpose in place of new products, components, or materials that would otherwise have been used for that purpose Source: United Nations Environment Programme (UNEP), Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1989; modified Examples: preparation for reuse, recycling Note: In the context of waste reporting, recovery operations do not include energy recovery. recycling reprocessing of products or components of products that have become waste, to make new materials Sources: United Nations Environment Programme (UNEP), Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1989; modified remedy / remediation means to counteract or make good a negative impact or provision of remedy Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An Interpretive Guide, 2012; modified Examples: apologies, financial or non-financial compensation, prevention of harm through injunctions or guarantees of non-repetition, punitive sanctions (whether criminal or administrative, such as fines), restitution, restoration, rehabilitation remuneration basic salary plus additional amounts paid to a worker Note: Examples of additional amounts paid to a worker can include those based on years of service, bonuses including cash and equity such as stocks and shares, benefit payments, overtime, time owed, and any additional allowances, such as transportation, living and childcare allowances. renewable energy source energy source that is capable of being replenished in a short time through ecological cycles or agricultural processes Examples: biomass, geothermal, hydro, solar, wind reporting period specific time period covered by the reported information Examples: fiscal year, calendar year Scope 1 GHG emissions greenhouse gas (GHG) emissions from sources that are owned or controlled by the organization Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011 Examples: CO2 emissions from fuel consumption Note: A GHG source is any physical unit or process that releases GHG into the atmosphere.
-
-## R
-
-## S
-
-Scope 2 GHG emissions indirect greenhouse gas (GHG) emissions from the generation of purchased or acquired electricity, heating, cooling and steam consumed by the organization Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011 Scope 3 GHG emissions indirect greenhouse gas (GHG) emissions (not included in Scope 2 GHG emissions) that occur in the organization’s upstream and downstream value chain Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011 seawater water in a sea or in an ocean Source: International Organization for Standardization. ISO 14046:2014. Environmental management — Water footprint — Principles, requirements and guidelines. Geneva: ISO, 2014; modified security personnel individuals employed for the purposes of guarding property of the organization; crowd control; loss prevention; and escorting persons, goods, and valuables senior executive high-ranking member of the management of the organization, such as the Chief Executive Officer (CEO) or an individual reporting directly to the CEO or the highest governance body services supported services that provide a public benefit either through direct payment of operating costs or through staffing the facility or service with an organization’s own employees Note: Public benefit can also include public services. severity (of an impact) The severity of an actual or potential negative impact is determined by its scale (i.e., how grave the impact is), scope (i.e., how widespread the impact is), and irremediable character (how hard it is to counteract or make good the resulting harm).
-
-Source: Organisation for Economic Co-operation and Development (OECD), OECD Due Diligence Guidance for Responsible Business Conduct, 2018; modified United Nations (UN), The Corporate Responsibility to Respect Human Rights: An Interpretive Guide, 2012; modified Note: See section 1 in GRI 3: Material Topics 2021 for more information on ‘severity’. significant air emission air emission regulated under international conventions and/or national laws or regulations Note: Significant air emissions include those listed on environmental permits for the organization’s operations. significant operational change alteration to the organization’s pattern of operations that can potentially have significant positive or negative impacts on workers performing the organization’s activities Examples: closures, expansions, mergers, new openings, outsourcing of operations, restructuring, sale of all or part of the organization, takeovers significant spill spill that is included in the organization’s financial statements, for example due to resulting liabilities, or is recorded as a spill by the organization spill accidental release of a hazardous substance that can affect human health, land, vegetation, waterbodies, and groundwater stakeholder individual or group that has an interest that is affected or could be affected by the organization’s activities Source: Organisation for Economic Co-operation and Development (OECD), OECD Due Diligence Guidance for Responsible Business Conduct, 2018; modified Examples: business partners, civil society organizations, consumers, customers, employees and other workers, governments, local communities, non-governmental organizations, shareholders and other investors, suppliers, trade unions, vulnerable groups Note: See section 2.4 in GRI 1: Foundation 2021 for more information on ‘stakeholder’. supplier entity upstream from the organization (i.e., in the organization’s supply chain), which provides a product or service that is used in the development of the organization’s own products or services Examples: brokers, consultants, contractors, distributors, franchisees, home workers, independent contractors, licensees, manufacturers, primary producers, subcontractors, wholesalers Note: A supplier can have a direct business relationship with the organization (often referred to as a first-tier supplier) or an indirect business relationship. supply chain range of activities carried out by entities upstream from the organization, which provide products or services that are used in the development of the organization’s own products or services surface water water that occurs naturally on the Earth’s surface in ice sheets, ice caps, glaciers, icebergs, bogs, ponds, lakes, rivers, and streams Source: CDP, CDP Water Security Reporting Guidance, 2018; modified sustainable development / sustainability development that meets the needs of the present without compromising the ability of future generations to meet their own needs Source: World Commission on Environment and Development, Our Common Future, 1987 Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably in the GRI Standards. third-party water municipal water suppliers and municipal wastewater treatment plants, public or private utilities, and other organizations involved in the provision, transport, treatment, disposal, or use of water and effluent value chain range of activities carried out by the organization, and by entities upstream and downstream from the organization, to bring the organization’s products or services from their conception to their end use Note 1: Entities upstream from the organization (e.g., suppliers) provide products or services that are used in the development of the organization’s own products or services. Entities downstream from the organization (e.g., distributors, customers) receive products or services from the organization.
-
-## T
-
-Note 2: The value chain includes the supply chain. vulnerable group group of individuals with a specific condition or characteristic (e.g., economic, physical, political, social) that could experience negative impacts as a result of the organization’s activities more severely than the general population Examples: children and youth; elderly persons; ex-combatants; HIV/AIDS-affected households; human rights defenders; Indigenous Peoples; internally displaced persons; migrant workers and their families; national or ethnic, religious and linguistic minorities; persons who might be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics (e.g., lesbian, gay, bisexual, transgender, intersex); persons with disabilities; refugees or returning refugees; women Note: Vulnerabilities and impacts can differ by gender. waste anything that the holder discards, intends to discard, or is required to discard Source: United Nations Environment Programme (UNEP), Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1989 Note 1: Waste can be defined according to the national legislation at the point of generation.
-
-## W
-
-Note 2: A holder can be the reporting organization, an entity in the organization’s value chain upstream or downstream (e.g., supplier or consumer), or a waste management organization, among others. water consumption sum of all water that has been withdrawn and incorporated into products, used in the production of crops or generated as waste, has evaporated, transpired, or been consumed by humans or livestock, or is polluted to the point of being unusable by other users, and is therefore not released back to surface water, groundwater, seawater, or a third party over the course of the reporting period Source: CDP, CDP Water Security Reporting Guidance, 2018; modified Note: Water consumption includes water that has been stored during the reporting period for use or discharge in a subsequent reporting period. water discharge sum of effluents, used water, and unused water released to surface water, groundwater, seawater, or a third party, for which the organization has no further use, over the course of the reporting period Note 1: Water can be released into the receiving waterbody either at a defined discharge point (point-source discharge) or dispersed over land in an undefined manner (non-point-source discharge).
-
-Note 2: Water discharge can be authorized (in accordance with discharge consent) or unauthorized (if discharge consent is exceeded). water stress ability, or lack thereof, to meet the human and ecological demand for water Source: CEO Water Mandate, Corporate Water Disclosure Guidelines, 2014 Note 1: Water stress can refer to the availability, quality, or accessibility of water.
-
-Note 2: Water stress is based on subjective elements and is assessed differently depending on societal values, such as the suitability of water for drinking or the requirements to be afforded to ecosystems.
-
-Note 3: Water stress in an area may be measured at catchment level at a minimum. water withdrawal sum of all water drawn from surface water, groundwater, seawater, or a third party for any use over the course of the reporting period work-related hazard source or situation with the potential to cause injury or ill health Source: International Labour Organization (ILO) Guidelines on Occupational Safety and Health Management Systems, 2001; modified International Organization for Standardization. ISO 45001:2018. Occupational health and safety management systems — Requirements with guidance for use. Geneva: ISO, 2018; modified Definitions that are based on or come from the ISO 14046:2014 and ISO 45001:2018 standards are reproduced with the permission of the International Organization for Standardization, ISO. Copyright remains with ISO.
-
-Note: Hazards can be: physical (e.g., radiation, temperature extremes, constant loud noise, spills on floors or tripping hazards, unguarded machinery, faulty electrical equipment); •
-
+Indigenous Peoples Indigenous Peoples are generally identified as:
+tribal peoples in independent countries whose social, cultural and economic conditions distinguish them from other sections of the national community, and whose status is regulated wholly or partially by their own customs or traditions or by special laws or regulations;
+- peoples in independent countries who are regarded as indigenous on account of their descent from the populations which inhabited the country, or a geographical region to which the country belongs, at the time of conquest or colonization or the establishment of present state boundaries and who, irrespective of their legal status, retain some or all of their own social, economic, cultural and political institutions.
+Source: International Labour Organization (ILO), Indigenous and Tribal Peoples Convention, 1989 (No. 169)
+infrastructure facilities built primarily to provide a public service or good rather than a commercial purpose, and from which the organization does not seek to gain direct economic benefit
+Examples: hospitals, roads, schools, water supply facilities
+local community individuals or groups of individuals living or working in areas that are affected or that could be affected by the organization’s activities
+### - L
+Note: The local community can range from those living adjacent to the organization’s operations to those living at a distance.
+material topics topics that represent the organization’s most significant impacts on the economy, environment, and people, including impacts on their human rights
+### M
+Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics 2021 for more information on ‘material topics’.
+mitigation action(s) taken to reduce the extent of a negative impact
+Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An Interpretive Guide, 2012; modified
+Note: The mitigation of an actual negative impact refers to actions taken to reduce the severity of the negative impact that has occurred, with any residual impact needing remediation. The mitigation of a potential negative impact refers to actions taken to reduce the likelihood of the negative impact occurring.
+preparation for reuse checking, cleaning, or repairing operations, by which products or components of products that have become waste are prepared to be put to use for the same purpose for which they were conceived
+### P
+Source: European Union (EU), Waste Framework Directive, 2008 (Directive 2008/98/EC); modified
+recovery operation wherein products, components of products, or materials that have become waste are prepared to fulfill a purpose in place of new products, components, or materials that would otherwise have been used for that purpose
+### R
+Source: United Nations Environment Programme (UNEP), Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1989; modified
+Examples: preparation for reuse, recycling
+Note: In the context of waste reporting, recovery operations do not include energy recovery.
+recycling reprocessing of products or components of products that have become waste, to make new materials
+Sources: United Nations Environment Programme (UNEP), Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1989; modified
+remedy / remediation means to counteract or make good a negative impact or provision of remedy
+Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An Interpretive Guide, 2012; modified
+Examples: apologies, financial or non-financial compensation, prevention of harm through injunctions or guarantees of non-repetition, punitive sanctions (whether criminal or administrative, such as fines), restitution, restoration, rehabilitation
+remuneration basic salary plus additional amounts paid to a worker
+Note: Examples of additional amounts paid to a worker can include those based on years of service, bonuses including cash and equity such as stocks and shares, benefit payments, overtime, time owed, and any additional allowances, such as transportation, living and childcare allowances.
+reporting period specific time period covered by the reported information
+Examples: fiscal year, calendar year
+runoff part of precipitation that flows towards a river on the ground surface (i.e., surface runoff) or within the soil (i.e., subsurface flow)
+Source: United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO International Glossary of Hydrology, 2012; modified
+Scope 1 GHG emissions greenhouse gas (GHG) emissions from sources that are owned or controlled by the organization
+### S
+Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011
+Examples: CO2 emissions from fuel consumption
+Note: A GHG source is any physical unit or process that releases GHG into the atmosphere.
+Scope 2 GHG emissions indirect greenhouse gas (GHG) emissions from the generation of purchased or acquired electricity, heating, cooling and steam consumed by the organization
+Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011
+Scope 3 GHG emissions indirect greenhouse gas (GHG) emissions (not included in Scope 2 GHG emissions) that occur in the organization’s upstream and downstream value chain
+Source: World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Scope 2 Guidance, 2015 and GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011
+seawater water in a sea or in an ocean
+Source: International Organization for Standardization. ISO 14046:2014. Environmental management — Water footprint — Principles, requirements and guidelines. Geneva: ISO, 2014; modified
+severity (of an impact) The severity of an actual or potential negative impact is determined by its scale (i.e., how grave the impact is), scope (i.e., how widespread the impact is), and irremediable character (how hard it is to counteract or make good the resulting harm).
+Source: Organisation for Economic Co-operation and Development (OECD), OECD Due Diligence Guidance for Responsible Business Conduct, 2018; modified United Nations (UN), The Corporate Responsibility to Respect Human Rights: An Interpretive Guide, 2012; modified
+Note: See section 1 in GRI 3: Material Topics 2021 for more information on ‘severity’.
+stakeholder individual or group that has an interest that is affected or could be affected by the organization’s activities
+Source: Organisation for Economic Co-operation and Development (OECD), OECD Due Diligence Guidance for Responsible Business Conduct, 2018; modified
+Examples: business partners, civil society organizations, consumers, customers, employees and other workers, governments, local communities, non-governmental organizations, shareholders and other investors, suppliers, trade unions, vulnerable groups
+Note: See section 2.4 in GRI 1: Foundation 2021 for more information on ‘stakeholder’.
+supplier entity upstream from the organization (i.e., in the organization’s supply chain), which provides a product or service that is used in the development of the organization’s own products or services
+Examples: brokers, consultants, contractors, distributors, franchisees, home workers, independent contractors, licensees, manufacturers, primary producers, subcontractors, wholesalers
+Note: A supplier can have a direct business relationship with the organization (often referred to as a first-tier supplier) or an indirect business relationship.
+supply chain range of activities carried out by entities upstream from the organization, which provide products or services that are used in the development of the organization’s own products or services
+surface water water that occurs naturally on the Earth’s surface in ice sheets, ice caps, glaciers, icebergs, bogs, ponds, lakes, rivers, and streams
+Source: CDP, CDP Water Security Reporting Guidance, 2018; modified
+sustainable development / sustainability development that meets the needs of the present without compromising the ability of future generations to meet their own needs
+Source: World Commission on Environment and Development, Our Common Future, 1987
+Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably in the GRI Standards.
+third-party water municipal water suppliers and municipal wastewater treatment plants, public or private utilities, and other organizations involved in the provision, transport, treatment, disposal, or use of water and effluent
+### T
+value chain range of activities carried out by the organization, and by entities upstream and downstream from the organization, to bring the organization’s products or services from their conception to their end use
+### V
+Note 1: Entities upstream from the organization (e.g., suppliers) provide products or services that are used in the development of the organization’s own products or services. Entities downstream from the organization (e.g., distributors, customers) receive products or services from the organization.
+Note 2: The value chain includes the supply chain.
+vulnerable group group of individuals with a specific condition or characteristic (e.g., economic, physical, political, social) that could experience negative impacts as a result of the organization’s activities more severely than the general population
+Examples: children and youth; elderly persons; ex-combatants; HIV/AIDS-affected households; human rights defenders; Indigenous Peoples; internally displaced persons; migrant workers and their families; national or ethnic, religious and linguistic minorities; persons who might be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics (e.g., lesbian, gay, bisexual, transgender, intersex); persons with disabilities; refugees or returning refugees; women
+Note: Vulnerabilities and impacts can differ by gender.
+waste anything that the holder discards, intends to discard, or is required to discard
+### W
+Source: United Nations Environment Programme (UNEP), Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1989
+Note 1: Waste can be defined according to the national legislation at the point of generation.
+Note 2: A holder can be the reporting organization, an entity in the organization’s value chain upstream or downstream (e.g., supplier or consumer), or a waste management organization, among others.
+water consumption sum of all water that has been withdrawn and incorporated into products, used in the production of crops or generated as waste, has evaporated, transpired, or been consumed by humans or livestock, or is polluted to the point of being unusable by other users, and is therefore not released back to surface water, groundwater, seawater, or a third party over the course of the reporting period
+Source: CDP, CDP Water Security Reporting Guidance, 2018; modified
+Note: Water consumption includes water that has been stored during the reporting period for use or discharge in a subsequent reporting period.
+water withdrawal sum of all water drawn from surface water, groundwater, seawater, or a third party for any use over the course of the reporting period
+work-related hazard source or situation with the potential to cause injury or ill health
+Source: International Labour Organization (ILO) Guidelines on Occupational Safety and Health Management Systems, 2001; modified International Organization for Standardization. ISO 45001:2018. Occupational health and safety management systems — Requirements with guidance for use. Geneva: ISO, 2018; modified Definitions that are based on or come from the ISO 14046:2014 and ISO 45001:2018 standards are reproduced with the permission of the International Organization for Standardization, ISO. Copyright remains with ISO.
+Note: Hazards can be:
+physical (e.g., radiation, temperature extremes, constant loud noise, spills on floors or tripping hazards, unguarded machinery, faulty electrical equipment); •
 ergonomic (e.g., improperly adjusted workstations and chairs, awkward movements, vibration); •
-
 chemical (e.g., exposure to solvents, carbon monoxide, flammable materials, or pesticides); •
-
 biological (e.g., exposure to blood and bodily fluids, fungi, bacteria, viruses, or insect bites); •
-
 psychosocial (e.g., verbal abuse, harassment, bullying);
-
 - related to work-organization (e.g., excessive workload demands, shift work, long hours, night work, workplace violence).
-
-work-related injury or ill health negative impacts on health arising from exposure to hazards at work Source: International Labour Organization (ILO), Guidelines on Occupational Safety and Health Management Systems, ILO-OSH 2001, 2001; modified Note 1: ‘Ill health’ indicates damage to health and includes diseases, illnesses, and disorders. The terms ‘disease’, ‘illness’, and ‘disorder’ are often used interchangeably and refer to conditions with specific symptoms and diagnoses.
-
-Note 2: Work-related injuries and ill health are those that arise from exposure to hazards at work. Other types of incident can occur that are not connected with the work itself. For example, the following incidents are not considered to be work related: Note 3: Traveling for work: Injuries and ill health that occur while a worker is traveling are work related if, at the time of the injury or ill health, the worker was engaged in work activities ‘in the interest of the employer’. Examples of such activities include traveling to and from customer contacts; conducting job tasks; and entertaining or being entertained to transact, discuss, or promote business (at the direction of the employer).
-
+work-related incident occurrence arising out of or in the course of work that could or does result in injury or ill health
+Source: International Organization for Standardization. ISO 45001:2018. Occupational health and safety management systems — Requirements with guidance for use. Geneva: ISO, 2018; modified Definitions that are based on or come from the ISO 14046:2014 and ISO 45001:2018 standards are reproduced with the permission of the International Organization for Standardization, ISO. Copyright remains with ISO.
+Note 1: Incidents might be due to, for example, electrical problems, explosion, fire; overflow, overturning, leakage, flow; breakage, bursting, splitting; loss of control, slipping, stumbling and falling; body movement without stress; body movement under/with stress; shock, fright; workplace violence or harassment (e.g., sexual harassment).
+Note 2: An incident that results in injury or ill health is often referred to as an ‘accident’. An incident that has the potential to result in injury or ill health but where none occurs is often referred to as a ‘close call', ‘near-miss’, or ‘near-hit’.
+work-related injury or ill health negative impacts on health arising from exposure to hazards at work
+Source: International Labour Organization (ILO), Guidelines on Occupational Safety and Health Management Systems, ILO-OSH 2001, 2001; modified
+Note 1: ‘Ill health’ indicates damage to health and includes diseases, illnesses, and disorders. The terms ‘disease’, ‘illness’, and ‘disorder’ are often used interchangeably and refer to conditions with specific symptoms and diagnoses.
+Note 2: Work-related injuries and ill health are those that arise from exposure to hazards at work. Other types of incident can occur that are not connected with the work itself. For example, the following incidents are not considered to be work related:
 a worker suffers a heart attack while at work that is unconnected with work;
-
-- a worker driving to or from work is injured in a car accident (where driving is not part of the work, and where the transport has not been organized by the employer); - a worker with epilepsy has a seizure at work that is unconnected with work.
-
+- a worker driving to or from work is injured in a car accident (where driving is not part of the work, and where the transport has not been organized by the employer);
+- a worker with epilepsy has a seizure at work that is unconnected with work. •
+Note 3: Traveling for work: Injuries and ill health that occur while a worker is traveling are work related if, at the time of the injury or ill health, the worker was engaged in work activities ‘in the interest of the employer’. Examples of such activities include traveling to and from customer contacts; conducting job tasks; and entertaining or being entertained to transact, discuss, or promote business (at the direction of the employer).
 Working at home: Injuries and ill health that occur when working at home are work related if the injury or ill health occurs while the worker is performing work at home, and the injury or ill health is directly related to the performance of work rather than the general home environment or setting.
-
 Mental illness: A mental illness is considered to be work related if it has been notified voluntarily by the worker and is supported by an opinion from a licensed healthcare professional with appropriate training and experience stating that the illness is work related.
-
 For more guidance on determining ‘work-relatedness’, see the United States Occupational Safety and Health Administration, Determination of work-relatedness 1904.5, https://www.osha.gov/pls/ oshaweb/owadisp.show_document? p_table=STANDARDS&p_id=9636, accessed on 1 June 2018.
-
-Note 4: The terms ‘occupational’ and ‘work-related’ are often used interchangeably. worker person that performs work for the organization Examples: employees, agency workers, apprentices, contractors, home workers, interns, selfemployed persons, sub-contractors, volunteers, and persons working for organizations other than the reporting organization, such as for suppliers Note: In the GRI Standards, in some cases, it is specified whether a particular subset of workers is required to be used.
-
+Note 4: The terms ‘occupational’ and ‘work-related’ are often used interchangeably.
+worker person that performs work for the organization
+Examples: employees, agency workers, apprentices, contractors, home workers, interns, selfemployed persons, sub-contractors, volunteers, and persons working for organizations other than the reporting organization, such as for suppliers
+Note: In the GRI Standards, in some cases, it is specified whether a particular subset of workers is required to be used.
 # Bibliography
-
 This section lists authoritative intergovernmental instruments and additional references used in developing this Standard, as well as resources that the organization can consult.
-
-## Introduction
-
+### Introduction
+European Communities, NACE Rev.2, Statistical classification of economic activities in the European Community (NACE), Eurostat, Methodologies and Working Papers, 2008. 1.
 Executive Office of the President, Office of Management and Budget, North American Industry Classification System (NAICS), 2017. 2.
-
 FTSE Russell, ICB Structure, Taxonomy Overview, 2019. 3.
-
 S&P Dow Jones Indices and MSCI Inc., Revisions to the Global Industry Classification Standard (GICS®) Structure, 2018. 4.
-
 Sustainability Accounting Standards Board (SASB), Sustainable Industry Classification System® (SICS®), sasb.org/find-your-industry/, accessed on 27 May 2021. 5.
-
 United Nations (UN), International Standard Industrial Classification of All Economic Activities, Revision 4, Statistical Papers Series M No. 4/Rev.4, 2008. 6.
-
-## Sector profile
-
-Authoritative instruments: Additional references: Resources: European Communities, NACE Rev.2, Statistical classification of economic activities in the European Community (NACE), Eurostat, Methodologies and Working Papers, 2008. 1.
-
-United Nations Framework Convention on Climate Change (UNFCCC), Paris Agreement, 2015. 7.
-
-United Nations (UN) Resolution, Transforming our world: the 2030 Agenda for Sustainable Development, 2015 (A/RES/70/1). 8.
-
-United Nations, Rio Declaration on Environment and Development, 1992. 9.
-
-Cordaid, Informing Local Communities, Civil Society and Local Government about Oil & Gas: A Practical Guide on Technical Aspects, 2016. 10.
-
-11.
-
-F. Denton, T. J. Wilbanks, et al., ‘Climate-Resilient Pathways: Adaptation, Mitigation, and Sustainable Development’, Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, 2014.
-
-International Energy Agency (IEA), Net-zero by 2050: A Roadmap for the Global Energy Sector, 2021. 12.
-
-International Energy Agency (IEA), World Energy Balances: Overview, 2020. 13.
-
-14.
-
-International Finance Corporation (IFC), International Petroleum Industry Environmental Conservation Association (IPIECA), United Nations Development Programme (UNDP), Mapping the oil and gas industry to the development goals: An atlas, 2017.
-
-International Panel on Climate Change (IPCC), Global Warming of 1.5°C, 2018. 15.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), World Business Council on Sustainable Development (WBCSD), Accelerating action: an SDG Roadmap for the oil and gas sector, 2021. 16.
-
-Organisation for Economic Co-operation and Development (OECD) and International Energy Agency (IEA), OECD Green Growth Studies: Energy, 2011. 17.
-
-United Nations Environment Programme (UNEP), Emissions Gap Report 2019, 2019. 18.
-
-World Bank, Access to Electricity, worldbank.org/indicator/EG.ELC.ACCS.ZS, accessed on 31 May 2020. 19.
-
-World Economic Forum (WEF), Which economies are most reliant on oil?, weforum.org/agenda/2016/05/whicheconomies-are-most-reliant-on-oil/, accessed on 3 May 2021. 20.
-
-GRI, Linking the SDGs and the GRI Standards, updated regularly. 21.
-
-GRI and UN Global Compact, Integrating the SDGs into corporate reporting: A practical guide, 2018. 22.
-
-## Topic 11.1 Climate change
-
-Authoritative instruments: Additional references: Intergovernmental Panel on Climate Change (IPCC), Climate Change 2007: The Physical Science Basis, 2007. 23.
-
-Intergovernmental Panel on Climate Change (IPCC), Climate Change 2014: Impacts, Adaptation, and Vulnerability, 2014. 24.
-
-Intergovernmental Panel on Climate Change (IPCC), Climate Change 2014: Synthesis Report, 2014. 25.
-
-Intergovernmental Panel on Climate Change (IPCC), Climate Change 2014: Mitigation of Climate Change, 2014. 26.
-
-Intergovernmental Panel on Climate Change (IPCC), Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories, 2001. 27.
-
-Intergovernmental Panel on Climate Change (IPCC), Global Warming of 1.5°C. An IPCC Special Report, 2018. 28.
-
-United Nations Framework Convention on Climate Change (UNFCCC), Paris Agreement, 2015. 29.
-
-Carbon Brief, Methane emissions from fossil fuels ‘severely underestimated’, 2020, carbonbrief.org/methaneemissions-from-fossil-fuels-severely-underestimated, accessed on 31 May 2020. 30.
-
-Carbon Tracker Initiative, Balancing the Budget: Why deflating the carbon bubble requires oil & gas companies to shrink, 2019. 31.
-
-Carbon Tracker Initiative, Carbon Budgets Explainer, 2018. 32.
-
-Carbon Tracker Initiative, Unburnable Carbon: Are the World’s Financial Markets Carrying a Carbon Bubble?, 2011. 33.
-
-A. Dagnachew, A. F. Hof, et al., Insight into Energy Scenarios: A comparison of key transition indicators of 2˚C scenarios, 2019. 34.
-
-Environmental Defense Fund (EDF), Taking Aim: Hitting the mark on oil and gas methane targets, 2018. 35.
-
-Ernst & Young (EY), Unconventional oil and gas in a carbon constrained world: A review of the environmental risks and future outlook for unconventional oil and gas, 2017. 36.
-
-L. Fletcher, T. Crocker, et al., Beyond the cycle: Which oil and gas companies are ready for the low-carbon transition? Executive summary, 2018. 37.
-
-Harvard John A. Paulson School of Engineering and Applied Sciences, Oil and natural gas production emit more methane than previously thought, 2021. 38.
-
-R. Hutt, Which economies are most reliant on oil?, weforum.org/agenda/2016/05/which-economies-are-mostreliant-on-oil/, accessed on 31 May 2020. 39.
-
-Intergovernmental Panel on Climate Change (IPCC), Special Report on Carbon Dioxide Capture and Storage, 2005. 40.
-
-International Energy Agency (IEA), CO2 Emissions from Fuel Combustion Highlights, 2019, iea.org/data-andstatistics/data-products, accessed on 22 April 2021. 41.
-
-International Energy Agency (IEA), Energy Efficiency 2018: Analysis and Outlooks to 2040, 2018. 42.
-
-International Energy Agency (IEA), Flaring Emissions, 2020. 43.
-
-International Energy Agency (IEA), Methane Tracker, iea.org/reports/methane-tracker-2020, accessed on 31 May 2020. 44.
-
-International Energy Agency (IEA), The Oil and Gas Industry in Energy Transitions: World Energy Outlook Special Report, 2020. 45.
-
-International Energy Agency (IEA), Net Zero by 2050: A Roadmap for the Global Energy Sector, 2021. 46.
-
-International Labour Organization (ILO), Guidelines for a just transition towards environmentally sustainable economies and societies for all, 2015. 47.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), Addressing adaptation in the oil and gas industry, 2013. 48.
-
-49.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), American Petroleum Institute (API) and International Association of Oil & Gas Producers (IOGP), Oil and gas industry guidance on voluntary sustainability reporting, 2015.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), Saving energy in the oil and gas industry, 2013. 50.
-
-International Union for Conservation of Nature (IUCN), Resolution adopted at the 2016 World Conservation Congress. Defining Nature-based Solutions, 2016. 51.
-
-Organisation for Economic Co-operation and Development (OECD) and International Energy Agency (IEA), OECD Green growth Studies: Energy, 2011. 53.
-
-Organisation for Economic Co-operation and Development (OECD), Monitoring the transition to a low-carbon economy: A strategic approach to local development, 2015. 54.
-
-M. F. Rahman, M. Mostofa, and S. Huq, Low-Carbon Futures in Least-Developed Countries, wri.org/climate/expert-perspective/low-carbon-futures-least-developed-countries, accessed on 31 May 2020. 55.
-
-Science Based Targets, Oil and Gas, sciencebasedtargets.org/sectors/oil-and-gas, accessed on 31 May 2021. 56.
-
-57.
-
-Stockholm Environment Institute (SEI), International Institute for Sustainable Development (IISD), Overseas Development Institute (ODI), Climate Analytics, CICERO, and United Nations Environment Programme (UNEP), The Production Gap: The discrepancy between countries’ planned fossil fuel production and global production levels consistent with limiting warming to 1.5°C or 2°C, 2019.
-
-58.
-
-Stockholm Environment Institute (SEI), International Institute for Sustainable Development (IISD), Overseas Development Institute (ODI), Third Generation Environmentalism (E3G), and United Nations Environment Programme (UNEP), The Production Gap Report: 2020 Special Report, 2021.
-
-E. Stuart, Leaving No One Behind in Sustainable Development Pathways, wri.org/climate/expertperspective/leaving-no-one-behind-sustainable-development-pathways, accessed on 31 May 2020. 59.
-
-C. Symon, Climate change: Action, trends and implications for business: The IPCC’s Fifth Assessment Report, Working Group 1, 2013. 60.
-
-The Energy Resources Institute (TERI), Towards an Energy Efficient Oil & Gas Sector, 2015. 61.
-
-62.
-
-United Nations Framework Convention on Climate Change (UNFCC), What do adaptation to climate change and climate resilience mean?, 2020, unfccc.int/topics/adaptation-and-resilience/the-big-picture/what-do-adaptationto-climate-change-and-climate-resilience-mean, accessed on 31 May 2020.
-
-United Nations Environment Programme (UNEP) and Climate and Clean Air Coalition (CCAC) Oil and Gas Methane Partnership (OGMP) 2.0 Framework, 2020. 63.
-
-United States Energy Information Administration (EIA), Assumptions to the Annual Energy Outlook 2019: Industrial Demand Module, 2019. 64.
-
-United States Energy Information Administration (EIA), Natural gas explained, eia.gov/energyexplained/naturalgas/, accessed on 31 May 2020. 65.
-
-United States Environmental Protection Agency (US EPA), Overview of Greenhouse Gases, epa.gov/ghgemissions/overview-greenhouse-gases#methane, accessed on 31 May 2020. 66.
-
-World Bank, Global Gas Flaring Reduction Partnership (GFFR), worldbank.org/en/programs/gasflaringreduction, accessed on 1 June 2021. 67.
-
-68.
-
-World Bank, Increased Shale Oil Production and Political Conflict Contribute to Increase in Global Gas Flaring, 2019, worldbank.org/en/news/press-release/2019/06/12/increased-shale-oil-production-and-political-conflictcontribute-to-increase-in-global-gas-flaring, accessed on 31 May 2020.
-
-World Bank, Zero Routine Flaring by 2030, worldbank.org/en/programs/zero-routine-flaring-by-2030#7, accessed on 31 May 2020. 69.
-
-Resources: J. G. J. Olivier and J. A. H. W. Peters, Trends in global CO2 and total greenhouse gas emissions: 2019 Report, 2020. 52.
-
-CDP, CDP Technical Note: Guidance methodology for estimation of Scope 3 category 11 emissions for oil and gas companies, 2021. 70.
-
-Greenhouse Gas Protocol, Corporate Value Chain (Scope 3) Accounting and Reporting Standard, 2011. 71.
-
-Greenhouse Gas Protocol, Global Warming Potential Values, 2015. 72.
-
-73.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA) and American Petroleum Institute (API), and International Association of Oil & Gas Producers (IOGP), Estimating petroleum industry value chain (Scope 3) greenhouse gas emissions: Overview of methodologies, 2016.
-
-74.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), American Petroleum Institute (API), and International Association of Oil & Gas Producers (IOGP), Oil and gas industry guidance on voluntary sustainability reporting, 2015.
-
-Transition Pathway Initiative (TPI), Methodology and Indicators Report, 2019. 75.
-
-United Nations Environment Programme (UNEP) and Climate and Clean Air Coalition (CCAC) Oil and Gas Methane Partnership (OGMP) 2.0 Framework, 2020. 76.
-
-World Resources Institute (WRI), A Recommended Methodology for Estimating and Reporting the Potential Greenhouse Gas Emissions from Fossil Fuel Reserves, 2016. 78.
-
-World Resources Institute (WRI), Estimating and Reporting the Comparative Emissions Impacts of Products, 2019. 79.
-
-Deleted. 80.
-
-Deleted. 81.
-
-Deleted. 82.
-
-Deleted. 83.
-
-Deleted. 84.
-
-Deleted. 85.
-
-Deleted. 86.
-
-Deleted. 87.
-
-## Topic 11.3 Air emissions
-
-Additional references: Resources:
-
-Earthworks, Air pollution from the Oil and Gas Industry, earthworks.org/publications/fs_oilandgas_airpollution, accessed on 31 May 2020. 88.
-
-United States Environmental Protection Agency (US EPA), Controlling Air Pollution from the Oil and Natural Gas Industry, epa.gov/controlling-air-pollution-oil-and-natural-gas-industry, accessed on 1 June 2021. 89.
-
-International Energy Agency (IEA), Energy and Air Pollution: World Energy Outlook Special Report, 2016. 90.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Gas Distribution Systems, 2007. 91.
-
-United Nations Economic Commission for Europe (UNECE), Air pollution, ecosystems and biodiversity, unece.org/air-pollution-ecosystems-and-biodiversity, accessed on 31 May 2020. 92.
-
-World Health Organization (WHO), Air pollution, who.int/health-topics/air-pollution#tab=tab_1, accessed on 31 May 2020. 93.
-
-World Health Organization (WHO), Air pollution and child health: Prescribing clean air, advance copy, 2018. 94.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Crude Oil and Petroleum Product Terminals, 2007. 95.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Liquefied Natural Gas Facilities, 2017. 96.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Natural Gas Processing, 2017. 97.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Offshore Oil and Gas Development, 2015. 98.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Onshore Oil and Gas Development, 2017. 99.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Petroleum Refining, 2016. 100.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Retail Petroleum Networks, 2007. 101.
-
-## Topic 11.4 Biodiversity
-
-Authoritative instruments: World Bank, Global Gas Flaring Reduction Partnership (GFFR), worldbank.org/en/programs/gasflaringreduction, accessed on 1 June 2021. 77.
-
-Intergovernmental Panel on Climate Change (IPCC), Climate Change and Biodiversity, 2002. 102.
-
-Intergovernmental Panel on Climate Change (IPCC), Climate Change and Land – An IPCC Special Report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems: Summary for Policymakers, 2019.
-
-103.
-
-Additional references: Resources:
-
-Cross-Sector Biodiversity Initiative (CSBI), A cross-sector guide for implementing the Mitigation Hierarchy, 2015. 105.
-
-The Energy & Biodiversity Initiative (EBI), Integrating Biodiversity Conservation into Oil & Gas Development, 2003. 106.
-
-M. B. J. Harfoot, D. P. Tittensor, et al., Present and future biodiversity risks from fossil fuel exploitation, Conservation Letters, 2018. 107.
-
-International Finance Corporation (IFC), Guidance Note 6: Biodiversity Conservation and Sustainable Management of Natural Resources, 2019. 108.
-
-International Finance Corporation (IFC), Performance Standard 6: Biodiversity Conservation and Sustainable Management of Natural Resources, 2012. 109.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA) and International Association of Oil & Gas Producers (IOGP), Biodiversity and ecosystem services fundamentals, 2016. 110.
-
-International Union for Conservation of Nature (IUCN), Issues Brief: Biodiversity offsets, iucn.org/resources/issues-briefs/biodiversity-offsets, accessed on 26 May 2021. 111.
-
-K. Leach, S. E. Brooks, and S. Blyth, Potential threat to areas of biodiversity importance from current and emerging oil and gas activities in Africa, 2016. 112.
-
-Organisation for Economic Co-operation and Development (OECD), Biodiversity Offsets: Effective Design and Implementation, 2016. 113.
-
-Pembina Institute, Fact sheet: Resource development in the North. Impacts of the cumulative effects of oil & gas, 2006. 114.
-
-115.
-
-United Nations Environment Programme (UNEP) and UN Environment Conservation Monitoring Center (UNEPWCMC), Mainstreaming of Biodiversity into the Energy and Mining Sectors: An Information Document for the 21st Meeting of the Subsidiary Body on Scientific, Technical and Technological Advice (SBSTTA-21), 2017.
-
-World Bank, Biodiversity Offsets: A User Guide, 2016. 116.
-
-Integrated Biodiversity Assessment Tool (IBAT) Alliance, Integrated Biodiversity Assessment Tool, ibatalliance.org/, accessed on 2 June 2021. 117.
-
-118.
-
-International Council for Mining and Metals (ICMM), International Petroleum Industry Environmental Conservation Association (IPIECA), and Equator Principles, A cross-sector guide for implementing the Mitigation Hierarchy, 2017.
-
-International Finance Corporation (IFC), Guidance Note 6: Biodiversity Conservation and Sustainable Management of Natural Resources, 2019. 119.
-
-International Finance Corporation (IFC), Performance Standard 6: Biodiversity Conservation and Sustainable Management of Natural Resources, 2012. 120.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA) and International Association of Oil & Gas Producers (IOGP), Biodiversity and ecosystem services fundamentals, 2016. 121.
-
-## Topic 11.5 Waste
-
-Additional references: N. Butt, H. L. Beyer, et al., Biodiversity Risks from Fossil Fuel Extraction, Science, 2013. 104.
-
-Alberta Energy Regulator, Tailings, aer.ca/providing-information/by-topic/tailings, accessed on 31 May 2020. 122.
-
-Alberta Government, Lower Athabasca Region: Tailings Management Framework for the Mineable Athabasca Oil Sands, 2015. 123.
-
-P. D. Cameron and M. C. Stanley, Oil, Gas, and Mining: A Sourcebook for Understanding the Extractive Industries, 2017. 124.
-
-Canada’s Oil Sands, Tailings Ponds, capp.ca/explore/tailings-ponds/, accessed on 31 May 2020. 125.
-
-Circle Economy, The Circularity Gap Report, 2019. 126.
-
-European Commission, Mining waste, ec.europa.eu/environment/topics/waste-and-recycling/mining-waste_en, accessed on 31 May 2020. 127.
-
-International Association of Oil & Gas Producers (IOGP), Drilling Waste Management Technology Review, 2016. 128.
-
-International Association of Oil & Gas Producers (IOGP), Environmental management in Arctic oil & gas operations: Good practice guide, 2013. 129.
-
-International Association of Oil & Gas Producers (IOGP), Guidelines for waste management with special focus on areas with limited infrastructure, 2008. 130.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Gas Distribution Systems, 2007. 132.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Liquefied Natural Gas Facilities, 2017. 133.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Mining, 2007. 134.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Natural Gas Processing, 2017. 135.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Offshore Oil and Gas Development, 2015. 136.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Onshore Oil and Gas Development, 2007. 137.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Petroleum Refining, 2016. 138.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Retail Petroleum Networks, 2007. 139.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), Petroleum refinery waste management and minimization, 2014. 140.
-
-Union of Concerned Scientists (UCS), The Hidden Cost of Fossil Fuels, 2008, ucsusa.org/resources/hiddencosts-fossil-fuels, accessed on 31 May 2020. 141.
-
-United Nations Development Programme (UNDP), Circular Economy Principles for NDCs and Long-term Strategies, 2019. 142.
-
-United Nations Environment Programme (UNEP), Towards a Pollution-Free Planet, 2017. 143.
-
-United Nations Environment Programme Industry and Environment (UNEP IE), Environmental management in oil and gas exploration and production: An overview of issues and management approaches, 1997. 144.
-
-United States Environmental Protection Agency (US EPA), Management of Exploration, Development and Production Wastes: Factors Informing a Decision on the Need for Regulatory Action, 2019. 145.
-
-Resources: International Association of Oil & Gas Producers (IOGP), Drilling waste management technology review, 2016. 146.
-
-International Association of Oil & Gas Producers (IOGP), Guidelines for waste management with special focus on areas with limited infrastructure, 2008. 147.
-
-International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Waste Management, 2007. 148.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), Petroleum refinery waste management and minimization, 2014. 149.
-
-United Nations Environment Programme (UNEP), International Council for Mining and Metals (ICMM), and Principles for Responsible Investment (PRI), Global Tailings Standard, 2020. 150.
-
-## Topic 11.6 Water and effluents
-
-Additional references: International Finance Corporation (IFC), Environmental, Health, and Safety Guidelines for Crude Oil and Petroleum Product Terminals, 2007. 131.
-
-L. Allen, M. Cohen, et al., ‘Fossil Fuels and Water Quality’, The World's Water Volume 7: The Biennial Report on Freshwater Resources, pp. 73-96, 2011. 151.
-
-P. D. Cameron and M. C. Stanley, Oil, Gas, and Mining: A Sourcebook for Understanding the Extractive Industries, 2017. 152.
-
-International Energy Agency (IEA), Water Energy Nexus: Excerpt from the World Energy Outlook 2016, 2016. 153.
-
-International Energy Agency (IEA), ‘Water for Energy’, World Energy Outlook 2012, pp. 501-527, 2012. 154.
-
-S. Osborn, A. Vengosh, et al., Methane contamination of drinking water accompanying gas-well drilling and hydraulic fracturing, Proceedings of the National Academy of Sciences, 2011. 155.
-
-United Nations Conference on Trade and Development (UNCTAD), Commodities at a Glance: Special Issue on Shale Gas, 2017. 156.
-
-United Nations Environment Programme (UNEP), Towards a Pollution-Free Planet, 2017. 157.
-
-United States Environmental Protection Agency (US EPA), Hydraulic Fracturing for Oil and Gas: Impacts from the 158.
-
-United States Environmental Protection Agency (US EPA), Study of Oil and Gas Extraction Wastewater Management Under the Clean Water Act, EPA‐821‐R19‐001, draft May 2019. 160.
-
-World Bank, Thirsty Energy (II): The Importance of Water for Oil and Gas Extraction, 2016. 161.
-
-Resources: International Council for Mining and Metals (ICMM), Water Stewardship Framework, 2014. 162.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), The IPIECA Water Management Framework for onshore oil and gas activities, 2013. 163.
-
-## Topic 11.7 Closure and rehabilitation
-
-Authoritative instruments: Additional references: Resources:
-
-International Maritime Organization (IMO), Guidelines and Standards for the Removal of Offshore Installations and Structures on the Continental Shelf and in the Exclusive Economic Zone (EEZ), 1989. 164.
-
-United Nations (UN), United Nations Convention on the Law of the Sea (UNCLOS III), 1982. 165.
-
-P. D. Cameron and M. C. Stanley, Oil, Gas, and Mining: A Sourcebook for Understanding the Extractive Industries, 2017. 166.
-
-Environmental Protection Authority (EPA Western Australia), Environmental Factor Guideline: Benthic Communities and Habitats, 2016. 167.
-
-International Association of Oil & Gas Producers (IOGP), Decommissioning of offshore concrete gravity-based structures (CGBS) in the OSPAR maritime area/other global regions IOGP Report 484, 2018. 168.
-
-International Association of Oil & Gas Producers (IOGP), Overview of International Offshore Decommissioning Regulations – Volume 1: Facilities IOGP Report 584, 2017. 169.
-
-International Association of Oil & Gas Producers (IOGP), Overview of International Offshore Decommissioning Regulations – Volume 2: Wells Plugging & Abandonment IOGP Report 585, 2017. 170.
-
-Merriam-Webster, Benthic, merriam-webster.com/dictionary/benthic, accessed on 26 May 2021. 171.
-
-Trevisanut, ‘Decommissioning of Offshore Installations: a Fragmented and Ineffective International Regulatory Framework’, The Law of the Seabed, pp. 431-453, 2020. 172.
-
-United Nations Environment Programme Industry and Environment (UNEP IE), Environmental management in oil and gas exploration and production: An overview of issues and management approaches, 1997. 173.
-
-World Bank, Towards Sustainable Decommissioning and Closure of Oil Fields and Mines: A Toolkit to Assist Government Agencies, 2010. 174.
-
-175.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), American Petroleum Institute (API), and International Association of Oil & Gas Producers (IOGP), Oil and gas industry guidance on voluntary sustainability reporting, 2015.
-
-United Nations, Guidance Note on the Tax Treatment of Decommissioning for the Extractive Industries, 2016. 176.
-
-## Topic 11.8 Asset integrity and critical incident management
-
-Additional references: Hydraulic Fracturing Water Cycle on Drinking Water Resources in the United States, 2016. United States Environmental Protection Agency (US EPA), Profile of the Fossil Fuel Electric Power Generation Industry, 1997. 159.
-
-Alberta Energy Regulator, Tailings, aer.ca/providing-information/by-topic/tailings, accessed on 31 May 2020. 177.
-
-Alberta Government, Lower Athabasca Region: Tailings Management Framework for the Mineable Athabasca Oil Sands, 2015. 178.
-
-American Petroleum Institute (API), Recommended Practice 754: Process Safety Performance Indicators For The Refining And Petrochemical Industries, updated periodically. 179.
-
-Australian National University (ANU) and Investor Group on Climate Change (IGCC), Assessing Climate Change Risks and Opportunities, Oil and Gas Sector, 2013. 180.
-
-Canada’s Oil Sands, Tailings Ponds, capp.ca/explore/tailings-ponds/, accessed on 31 May 2020. 181.
-
-M. Christou and M. Konstantinidou, Safety of offshore oil and gas operations: Lessons from past accident 182.
-
-International Association of Oil & Gas Producers (IOGP), Asset integrity: the key to managing major incident risks, 2018. 184.
-
-International Association of Oil & Gas Producers (IOGP), Process safety: recommended practice on key performance indicators, 2018. 185.
-
-International Council on Mining and Metals (ICMM), United Nations Environment Programme (UNEP), and Principles for Responsible Investment (PRI), Global Industry Standard on Tailings Management, 2020. 186.
-
-Organisation for Economic Co-operation and Development (OECD), Guidance on Developing Safety Performance Indicators Related to Chemical Accident Prevention, Preparedness and Response for Industry, 2008.
-
-187.
-
-Pipeline and Hazardous Materials Safety Administration (PHMSA), Pipeline Incident 20 Year Trends, phmsa.dot.gov/data-and-statistics/pipeline/pipeline-incident-20-year-trends, accessed on 31 May 2020. 188.
-
-R. Sullivan, D. Russell, et al., Managing the Unavoidable: investment implications of a changing climate, 2009. 189.
-
-UK Health and Safety Executive, Step-By-Step Guide to Developing Process Safety Performance Indicators, 2006. 190.
-
-United Nations Environment Programme Industry and Environment (UNEP IE), Environmental management in oil and gas exploration and production: An overview of issues and management approaches, 1997. 191.
-
-United States Environmental Protection Agency (US EPA), Oil and Natural Gas Sector Leaks, 2014. 192.
-
-T. Williams, Pipelines: Environmental Considerations, Ottawa, Canada, Library of Parliament, 2012. 193.
-
-Resources: American Petroleum Institute (API), Recommended Practice 754: Process Safety Performance Indicators For The Refining And Petrochemical Industries, updated periodically. 194.
-
-International Council on Mining and Metals (ICMM), United Nations Environment Programme (UNEP), and Principles for Responsible Investment (PRI), Global Industry Standard on Tailings Management, 2020. 195.
-
-196.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), American Petroleum Institute (API), and International Association of Oil & Gas Producers (IOGP), Oil and gas industry guidance on voluntary sustainability reporting, 2015.
-
-United Nations Environment Programme (UNEP), International Council for Mining and Metals (ICMM), and Principles for Responsible Investment (PRI), Global Industry Standard on Tailings Management, 2020. 197.
-
-## Topic 11.9 Occupational health and safety
-
-Additional references: analysis, 2012. Environmental Defense Fund (EDF), Why are natural gas leaks a problem?, edf.org/climate/methanemaps/leaks-problem, accessed on 31 May 2020. 183.
-
-The Advocates for Human Rights, Promoting Gender Diversity and Inclusion in the Oil, Gas and Mining Extractive Industries: A Women’s Human Rights Report, 2019. 198.
-
-Canadian Centre for Occupational Health and Safety (CCOHS), Cold Environments: Working in the Cold, ccohs.ca/oshanswers/phys_agents/cold_working.html, accessed on 31 May 2020. 199.
-
-Health and Safety Executive (HSE), Biological hazards, hse.gov.uk/offshore/biological-hazards.htm, accessed on 31 May 2020. 200.
-
-Health and Safety Executive (HSE), Heat stress, hse.gov.uk/temperature/heatstress/, accessed on 31 May 2020. 201.
-
-International Association of Oil & Gas Producers (IOGP), Safety performance indicators – 2018 data – Fatal incident reports, 2018. 202.
-
-International Labour Organization (ILO), Current and future skills, human resources development and safety training for contractors in the oil and gas industry, 2012. 203.
-
-International Labour Organization (ILO), Oil and gas production and oil refining sector, ilo.org/global/industriesand-sectors/oil-and-gas-production-oil-refining/lang--en/index.htm, accessed on 31 May 2020. 204.
-
-International Labour Organization (ILO), Social dialogue and industrial relations issues in the oil industry, 2009. 205.
-
-International Labour Organization (ILO), Working Paper No. 276: Working conditions of contract workers in the oil and gas industries, 2010. 206.
-
-International Labour Organization (ILO), Working towards sustainable development: Opportunities for decent work and social inclusion in a green economy 2012 207.
-
-work and social inclusion in a green economy, 2012. International Association of Oil & Gas Producers (IOGP) – International Petroleum Industry Environmental Conservation Association (IPIECA), Health leading performance indicators, updated annually. 208.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA) and International Association of Oil & Gas Producers (IOGP), Managing psychosocial risks on expatriation in the oil and gas industry, 2013. 210.
-
-Occupational Safety and Health Administration (OSHA), Health and Safety Risks for Workers Involved in Manual Tank Gauging and Sampling at Oil and Gas Extraction Sites, 2016. 211.
-
-Occupational Safety and Health Administration (OSHA) US Department of Labor, Hydrogen Sulfide: Hazards, osha.gov/hydrogen-sulfide, accessed on 31 May 2020. 212.
-
-Occupational Safety and Health Administration (OSHA) US Department of Labor, Silica, Crystalline: Health Effects, osha.gov/silica-crystalline, accessed on 31 May 2020. 213.
-
-World Health Organization (WHO), Preventing Disease through Healthy Environments: Exposure to Benzene: A Major Public Health Concern, 2010. 214.
-
-Wipro, Safety and Health Management in Oil and Gas Industry, wipro.com/oil-and-gas/safety-and-healthmanagement-system-in-oil-and-gas-industry/, accessed on 31 May 2020. 215.
-
-216.
-
-World Nuclear Association, Naturally-Occurring Radioactive Materials, 2019, world-nuclear.org/informationlibrary/safety-and-security/radiation-and-health/naturally-occurring-radioactive-materials-norm.aspx, accessed on 31 May 2020.
-
-Resources: International Association of Oil & Gas Producers (IOGP) – International Petroleum Industry Environmental Conservation Association (IPIECA), Health management in the oil and gas industry, 2019. 217.
-
-International Association of Oil & Gas Producers (IOGP) – International Petroleum Industry Environmental Conservation Association (IPIECA), Health Performance Indicators: A guide for the oil and gas industry, 2007. 218.
-
-International Association of Oil & Gas Producers (IOGP) – International Petroleum Industry Environmental Conservation Association (IPIECA), Performance indicators for fatigue risk management systems, 2012. 219.
-
-## Topic 11.10 Employment practices
-
-Authoritative instruments: Additional references: International Petroleum Industry Environmental Conservation Association (IPIECA), Human Rights Training Tool, 3rd ed., 2014. 209.
-
-International Labour Organization (ILO), Maritime Labour Convention, 2006. 220.
-
-Organisation for Economic Co-operation and Development (OECD), Due Diligence Guidance for Meaningful Stakeholder Engagement in the Extractives Sector, 2015. 221.
-
-C. Forde, R. MacKenzie, et al., Good industrial relations in the oil industry in the United Kingdom, 2005. 222.
-
-C. Hidalgo, K. Peterson, et al., Extracting with Purpose: Creating Shared Value in the Oil and Gas and Mining Sectors’ Companies and Communities, 2015. 223.
-
-IndustriaAll Global Union, Nigerian oil and gas unions fight against precarious work, 8 August 2017, industriallunion.org/nigerian-oil-and-gas-unions-fight-against-precarious-work,accessed on 31 May 2020. 224.
-
-IndustriAll Global Union, Norwegian oil company DNO targeted by unions, 12 January 2017, industriallunion.org/norwegian-oil-company-dno-targeted-by-unions, accessed on 31 May 2020. 225.
-
-226.
-
-IndustriAll Global Union, Shell’s hidden shame: Contract workers on the poverty line in Nigeria, 5 December 2018, industriall-union.org/shells-hidden-shame-contract-workers-on-the-poverty-line-in-nigeria, accessed on 31 May 2020.
-
-227.
-
-Industri Energi, The strike is necessary to level out differences in the oil industry, 7 October 2016, industrienergi.no/nyhet/the-strike-is-necessary-to-level-out-differences-in-the-oil-industry/, accessed on 31 May 2020.
-
-Institute for Human Rights and Business (IHRB) and Shift, Oil and Gas Sector Guide on Implementing the UN Guiding Principles on Business and Human Rights, 2017. 228.
-
-International Finance Corporation (IFC), IPIECA, and United Nations Development Programme (UNDP), Mapping the oil and gas industry to the Sustainable Development Goals: An Atlas, 2017. 229.
-
-International Labour Organization (ILO), Social dialogue and industrial relations issues in the oil industry: Report for discussion at the Tripartite Meeting on Promoting Social Dialogue and Good Industrial Relations from Oil and Gas Exploration and Production to Oil and Gas Distribution, 2009.
-
-230.
-
-F. Todd, What are the pros and cons of automation in the oil and gas industry?, 19 March 2019, 231.
-
-233.
-
-United Steelworkers (USW), National Oil Bargaining Talks Break Down: USW Calls for Work Stoppage at Nine Oil Refineries, Plants, 1 February 2015, usw.org/news/media-center/releases/2015/national-oil-bargainingtalks-break-down-usw-calls-for-work-stoppage-at-nine-oil-refineries-plants, accessed on 31 May 2020.
-
-## Topic 11.11 Non-discrimination and equal opportunity
-
-Additional references: The Advocates for Human Rights, Promoting Gender Diversity and Inclusion in the Oil, Gas and Mining Extractive Industries: A Women’s Human Rights Report, 2019. 234.
-
-The Boston Consulting Group (BCG) and World Petroleum Council, Untapped Reserves: Promoting Gender Balance in Oil and Gas, 2017. 235.
-
-236.
-
-Business & Human Rights Resource Centre (BHRRC), Azerbaijan: Abuses by oil companies include workplace discrimination, illegal termination of contracts, health & safety violations, sexual harassment, environmental pollution, say NGO reports; includes company comments, business-humanrights.org/en/latest-news/azerbaijanabuses-by-oil-companies-include-workplace-discrimination-illegal-termination-of-contracts-health-safetyviolations-sexual-harassment-environmental-pollution-say-ngo-reports-includes-company-comments/, accessed on 31 May 2020.
-
-237.
-
-Digby Brown Solicitors, Oil and Gas contract restrictions removed after discrimination employment advice, digbybrown.co.uk/clients-we-have-helped/oil-and-gas-contract-restrictions-removed-after-discriminationemployment, accessed on 31 May 2020.
-
-238.
-
-N. Hill, A. Alook, and I. Hussey, How gender and race shape experiences of work in Alberta’s oil industry, parklandinstitute.ca/how_gender_and_race_shape_experiences_of_work_in_albertas_oil_industry, accessed on 31 May 2020.
-
-Institute for Human Rights and Business (IHRB) and Shift, Oil and Gas Sector Guide on Implementing the UN Guiding Principles on Business and Human Rights, 2017. 239.
-
-International Labour Organization (ILO), Current and future skills, human resources development and safety training for contractors in the oil and gas industry, 2012. 240.
-
-International Labour Organization (ILO), Social dialogue and industrial relations issues in the oil industry, 2009. 241.
-
-Iraqi Center for Policy Analysis & Research (ICPAR), Institutional Discrimination in Iraq’s Oil and Gas Sector, researchiraq.com/?p=306, accessed on 31 May 2020. 242.
-
-J. Soper, Ghanaian Workers Fight Pay Discrimination, pulitzercenter.org/stories/ghanaian-workers-fight-paydiscrimination, accessed on 31 May 2020. 243.
-
-United Nations Environment Programme Financial Initiative (UNEP FI), Human Rights Guidance Tool for the Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020. 244.
-
-## Topic 11.12 Forced labor and modern slavery
-
-Authoritative instruments: Additional references: nsenergybusiness.com/features/oil-and-gas-automation, accessed on 31 May 2020. S. Tordo, M. Warner, et al., Local Content Policies in the Oil and Gas Sector, 2013. 232.
-
-International Labour Organization (ILO) Convention 29, Forced Labour Convention, 1930. 245.
-
-EarthRights International, Total Impact: The Human Rights, Environmental, and Financial Impacts of Total and Chevron’s Yadana Gas Project in Military-Ruled Burma (Myanmar), 2009. 246.
-
-Fédération Internationale pour les Droits Humains (FIDH), Info Birmanie, la Ligue des droits de l’Homme et la FIDH dénoncent l’accord intervenu entre Total et Sherpa, 2005. 247.
-
-Global Slavery Index, ‘Global Findings’, Global Slavery Index 2018, pp. 24-45. 248.
-
-GRI, Responsible Labor Initiative, Advancing modern slavery reporting to meet stakeholder expectations, 2019. 249.
-
-International Labour Organization (ILO), Labour Migration in the Arab States, ilo.org/beirut/areasofwork/labourmigration/WCMS_514910/lang--en/index.htm, accessed on 31 May 2020. 250.
-
-International Labour Organization (ILO) and Walk Free Foundation, Global Estimates of Modern Slavery: Forced Labour and Forced Marriage, 2017. 251.
-
-International Transport Workers’ Federation (ITF), ITF and Malaviya Seven crew dismayed by delay, itfglobal.org/en/news/itf-and-malaviya-seven-crew-dismayed-delay, accessed on 31 May 2020. 252.
-
-UNICEF, Oil and Gas Scoping Paper, 2015. 254.
-
-Resources: GRI, Responsible Labor Initiative, Advancing modern slavery reporting to meet stakeholder expectations, 2019. 255.
-
-## Topic 11.13 Freedom of association and collective bargaining
-
-Authoritative instruments: Additional references:
-
-International Labour Organization (ILO), 386th Report of the Committee on Freedom of Association, 2018. 256.
-
-257.
-
-M. Carpenter, Restrictions on freedom of association potential powder keg for oil companies, maplecroft.com/insights/analysis/restrictions-on-freedom-of-association-potential-powder-keg-for-oilcompanies/, accessed on 31 May 2020.
-
-I. Graham, International Labour Organization (ILO), Working conditions of contract workers in the oil and gas industries, 2010. 258.
-
-IndustriAll, Nigerian oil and gas unions fight against precarious work, industriall-union.org/nigerian-oil-and-gasunions-fight-against-precarious-work, accessed on 31 May 2020. 259.
-
-International Trade Union Confederation (ITUC), ITUC Global Rights Index: The World's Worst Countries for Workers, 2016. 260.
-
-International Trade Union Confederation (ITUC), Saudi Arabia bans trade unions and violates all international labour standards, ituc-csi.org/saudi-arabia-bans-trade-unions-and?lang=en, accessed on 31 May 2020. 261.
-
-United States Central Intelligence Agency (CIA), Country comparison: Crude oil: Exports, cia.gov/the-worldfactbook/field/crude-oil-exports/country-comparison, accessed on 31 May 2020. 262.
-
-## Topic 11.14 Economic impacts
-
-Authoritative instruments: Additional references: Resources:
-
-Organisation for Economic Co-operation and Development (OECD), OECD Principles for Private Sector Participation in Infrastructure, 2007. 263.
-
-Bill & Melinda Gates Foundation, Paper 7: Leveraging extractive industries for skills development to maximize sustainable growth and employment, 2015. 264.
-
-C. Sigam and L. Garcia, Extractive industries: Optimizing the value retention in host countries, 2012. 265.
-
-266.
-
-Extractives Industries Transparency Initiative (EITI), Social and economic spending: The impact of the extractive industries on economic growth and social development, eiti.org/social-economic-spending, accessed on 31 May 2020.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), Local content: A guidance document for the oil and gas industry, 2nd ed., 2016. 267.
-
-J-F. Mercure, H. Pollitt, et al., ‘Macroeconomic impacts of stranded fossil fuels assets’, Nature Climate Change, vol. 8, pp. 588-593, 2018, nature.com/articles/s41558-018-0182-1, accessed on 31 May 2020. 268.
-
-Organisation for Economic Co-operation and Development (OECD), Collaborative Strategies for In-Country Shared Value Creation, 2016. 269.
-
-K. Storey, ‘Fly-in/Fly-out: Implications for Community Sustainability’, Sustainability, vol. 2, pp. 1161-1181, 2010. 270.
-
-United Nations Office for Disaster Risk Reduction (UNISDR), ‘Words into Action Guidelines: National Disaster Risk Assessment’, Special Topics, Direct and Indirect Economic Impact, 2017. 271.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), Local content: A guidance document for the oil and gas industry, 2nd ed., 2016. 272.
-
-## Topic 11.15 Local communities
-
-Authoritative instruments: National Union of Rail, Maritime and Transport Workers (RMT), Modern day slavery charge made by RMT, rmt.netxtra.net/news/modern-day-slavery-charge-made-by-rmt/, accessed on 31 May 2020. 253.
-
-Additional references: Resources:
-
-Cordaid, Informing Local Communities, Civil Society and Local Government about Oil & Gas: A Practical Guide on Technical Aspects, 2016. 274.
-
-Cordaid, When Oil, Gas or Mining Arrives in Your Area: Practical Guide for Communities, Civil Society and Local Government on the Social Aspects of Oil, Gas and Mining, 2016. 275.
-
-E&P Forum and United Nations Environment Programme Industry and Environment (UNEP IE), Environmental management in oil and gas exploration and production: An overview of issues and management approaches, 1997.
-
-276.
-
-Institute for Human Rights and Business (IHRB) and Shift, Oil and Gas Sector Guide on Implementing the UN Guiding Principles on Business and Human Rights, 2017International Finance Corporation (IFC), Unlocking Opportunities for Women and Business: A Toolkit of Actions and Strategies for Oil, Gas, and Mining Companies, 2018, ifc.org/wps/wcm/connect/topics_ext_content/ifc_external_corporate_site/gender+at+ifc/resources/unlockingopportunities-for-women-and-business, accessed on 31 May 2020.
-
-277.
-
-278.
-
-International Finance Corporation (IFC), International Petroleum Industry Environmental Conservation Association (IPIECA), and United Nations Development Programme (UNDP), Mapping the oil and gas industry to the development goals: An atlas, 2017.
-
-International Finance Corporation (IFC), Guidance Note 4 Community Health, Safety, and Security, 2012. 279.
-
-International Finance Corporation (IFC), Performance Standard 4 Community Health, Safety, and Security, 2012. 280.
-
-Mapping the oil and gas industry to the Sustainable Development Goals: An Atlas, 2017. 281.
-
-Oil and Gas Accountability Project (OGAP), Oil and Gas At Your Door? A Landowner’s Guide to Oil and Gas Development, 2nd ed., 2005. 282.
-
-Oxfam International, Position Paper on Gender Justice and the Extractive Industries, 2017. 283.
-
-R. Schultz, R. Skoumal, et al., ‘Hydraulic Fracturing‐Induced Seismicity’, Reviews of Geophysics, vol. 58, 12 June 2020. 284.
-
-United Nations Environment Programme Financial Initiative (UNEP FI), Human Rights Guidance Tool for the Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020. 285.
-
-Institute for Human Rights and Business (IHRB) and Shift, Oil and Gas Sector Guide on Implementing the UN Guiding Principles on Business and Human Rights, 2017. 286.
-
-International Finance Corporation (IFC), Guidance Note 4 Community Health, Safety, and Security, 2012. 287.
-
-International Finance Corporation (IFC), Performance Standard 4 Community Health, Safety, and Security, 2012. 288.
-
-289.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), American Petroleum Institute (API), and International Association of Oil & Gas Producers (IOGP), Sustainability reporting guidelines for the oil and gas industry, 2020.
-
-## Topic 11.16 Land and resource rights
-
-Authoritative instruments: Additional references: Organisation for Economic Co-operation and Development (OECD), Due Diligence Guidance for Meaningful Stakeholder Engagement in the Extractives Sector, 2015. 273.
-
-European Union and UN Interagency Framework Team for Preventive Action, Toolkit and Guidance for Preventing and Managing Land and Natural Resources Conflict: Land and Conflict, 2012. 290.
-
-Organisation for Economic Co-operation and Development (OECD), Due Diligence Guidance for Meaningful Stakeholder Engagement in the Extractives Sector, 2015. 291.
-
-Avocats Sans Frontières, Human Rights Implications of Extractive Industry Activities in Uganda: A Study of the Mineral Sector in Karamoja and the Oil Refinery in Bunyoro, 2014. 292.
-
-P. D. Cameron and M. C. Stanley, Oil, Gas, and Mining: A Sourcebook for Understanding the Extractive Industries, 2017. 293.
-
-Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), Report of the Plenary of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on the work of 294.
-
-International Finance Corporation (IFC), Good Practice Handbook: Land Acquisition and Resettlement (draft), 2019. 296.
-
-International Finance Corporation (IFC), Guidance Note 5, Land Acquisition and Involuntary Resettlement, 2012. 297.
-
-International Finance Corporation (IFC), Performance Standard 5, Land Acquisition and Involuntary Resettlement, 2012. 298.
-
-International Finance Corporation (IFC), Guidance Note 8: Cultural Heritage, 2012. 299.
-
-International Finance Corporation (IFC), Performance Standard 8: Cultural Heritage, 2012. 300.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA) and International Association of Oil & Gas Producers (IOGP), Key questions in managing social issues in oil & gas projects, 2002. 301.
-
-302.
-
-Pensamiento y Acción Social (PAS) and L. Turrriago, ‘Caso El Hatillo: El re-asentamiento como la legalización del despojo y el acaparamiento de las tierras por el modelo extractivista’, pas.org.co/hatillo-despojoextractivista, accessed on 1 June 2020.
-
-United Nations Human Rights Office of the High Commissioner (OHCHR), Land and Human Rights, ohchr.org/EN/Issues/LandAndHR/Pages/LandandHumanRightsIndex.aspx, accessed on 31 May 2020. 303.
-
-304.
-
-F. Vanclay, ‘Project-induced displacement and resettlement: from impoverishment risks to an opportunity for development?’, Impact Assessment and Project Appraisal Journal, vol. 35, pp. 3-21, 2017, DOI: 10.1080/14615517.2017.1278671.
-
-United Nations Environment Programme Financial Initiative (UNEP FI), Human Rights Guidance Tool for the Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020. 305.
-
-Resources: Institute for Human Rights and Business (IHRB) and Shift, Oil and Gas Sector Guide on Implementing the UN Guiding Principles on Business and Human Rights, 2017. 306.
-
-International Finance Corporation (IFC), Good Practice Handbook: Land Acquisition and Resettlement (draft), 2019. 307.
-
-International Finance Corporation (IFC), Guidance Note 5, Land Acquisition and Involuntary Resettlement, 2012. 308.
-
-International Finance Corporation (IFC), Performance Standard 5, Land Acquisition and Involuntary Resettlement, 2012. 309.
-
-International Finance Corporation (IFC), Guidance Note 8: Cultural Heritage, 2012. 310.
-
-International Finance Corporation (IFC), Performance Standard 8: Cultural Heritage, 2012. 311.
-
-United Nations Environment Programme Financial Initiative (UNEP FI), Human Rights Guidance Tool for the Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020. 312.
-
-## Topic 11.17 Rights of Indigenous Peoples
-
-Authoritative instruments: Additional references: its seventh session, 2019. International Council on Mining & Metals (ICMM), Land Acquisition and Resettlement, 2015. 295.
-
-International Labour Organization (ILO) Convention 169, Indigenous and Tribal Peoples Convention, 1989. 313.
-
-United Nations (UN), United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP); 2007. 314.
-
-The Advocates for Human Rights, Promoting Gender Diversity and Inclusion in the Oil, Gas, and Mining Extractive Industries, 2019. 315.
-
-316.
-
-Amnesty International, Inter-American Court ruling marks key victory for indigenous peoples, amnesty.org/en/press-releases/2012/07/ecuador-inter-american-court-ruling-marks-key-victory-indigenouspeoples-20/, accessed on 31 May 2020.
-
-Amnesty International, Out of sight, out of mind: Gender, indigenous rights, and energy development in Northeast British Columbia, Canada, 2016. 317.
-
-A. Anongos, D. Berezhkov, et al., Pitfalls and pipelines: Indigenous peoples and extractive industries, 2012. 318.
-
-J. Burger, Indigenous peoples, extractive industries and human rights, 2014. 319.
-
-European Parliament, Committee on Foreign Affairs, Report on Violation of the Rights of Indigenous Peoples in the World, Including Land Grabbing, 2018. 320.
-
-G. Gibson, K. Yung, et al. with Lake Babine Nation and Nak’azdii Whut’en, Indigenous communities and industrial camps: Promoting healthy communities in settings of industrial change, 2017. 321.
-
-323.
-
-N. Hill, A. Alook, and I. Hussey, How gender and race shape experiences of work in Alberta’s oil industry, parklandinstitute.ca/how_gender_and_race_shape_experiences_of_work_in_albertas_oil_industry, accessed on 31 May 2020.
-
-324.
-
-Indigenous Environmental Network, Native Leaders Bring Attention to Impact of Fossil Fuel Industry on Missing and Murdered Indigenous Women and Girls, popularresistance.org/native-leaders-bring-attention-to-impact-offossil-fuel-industry-on-missing-and-murdered-indigenous-women-and-girls, accessed on 27 May 2021.
-
-International Finance Corporation (IFC), Guidance Note 7: Indigenous Peoples, 2012. 325.
-
-International Finance Corporation (IFC), Performance Standard 7: Indigenous Peoples, 2012. 326.
-
-International Finance Corporation (IFC), Projects and People: A Handbook for Addressing Project Induced InMigration, 2009. 327.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), Free, prior and informed consent (FPIC) toolbox, 2018. 328.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), Indigenous Peoples and the oil and gas industry: context, issues and emerging good practice, 2012. 329.
-
-United Nations Global Compact, A Business Reference Guide: United Nations Declaration on the Rights of Indigenous Peoples, 2013. 330.
-
-B. McIvor, First Peoples Law, Essays in Canadian Law and Decolonization, 2018. 331.
-
-T. Perreault, Natural Gas, Indigenous Mobilization and the Bolivian State, 2008. 332.
-
-United Nations Department of Economic and Social Affairs (UN DESA), Report of the international expert group meeting on extractive industries, Indigenous Peoples’ rights and corporate social responsibility, 2009. 333.
-
-United Nations Economic and Social Council (UN ECOSOC), Combating violence against indigenous women and girls: article 22 of the United Nations Declaration on the Rights of Indigenous Peoples: Report of the international expert group meeting, 2012.
-
-334.
-
-United Nations Human Rights Council (HRC), Report of the Special Rapporteur on the rights of indigenous peoples, James Anaya Extractive industries and indigenous peoples, 2013. 335.
-
-Resources: Equator Principles, EP4, 2020. 336.
-
-International Finance Corporation (IFC), Guidance Note 7: Indigenous Peoples, 2012. 337.
-
-International Finance Corporation (IFC), Performance Standard 7: Indigenous Peoples, 2012. 338.
-
-## Topic 11.18 Conflict and security
-
-Authoritative instruments: Additional references: Global Witness, Defenders of the earth: Global killings of land and environmental defenders in 2016, 2017. 322.
-
-European Union and United Nations Interagency Framework Team for Preventive Action, Toolkit and Guidance for Preventing and Managing Land and Natural Resources Conflict: Extractive Industries and Conflict, 2012. 339.
-
-Office of the High Commissioner for Human Rights (OHCR), Basic Principles on the Use of Force and Firearms by Law Enforcement Officials, 1990. 340.
-
-Office of the High Commissioner for Human Rights (OHCR), Code of Conduct for Law Enforcement Officials, 1979. 341.
-
-Voluntary Principles on Security and Human Rights, Voluntary Principles on Security and Human Rights, 2000. 342.
-
-Institute for Human Rights and Business (IHRB), From Red to Green Flags: The Corporate Responsibility to Respect Human Rights in High-Risk Countries, 2011. 343.
-
-Geneva Centre for the Democratic Control of Armed Forces (DCAF), International Committee of the Red Cross (ICRC), Addressing Security and Human Rights Challenges in Complex Environments: Toolkit, 3rd ed., 2015. 344.
-
-Global Compact Network Canada, Auditing Implementation of Voluntary Principles on Security and Human Rights, 2016. 345.
-
-International Alert, Human rights due diligence in conflict-affected settings: Guidance for extractive industries, 2018. 346.
-
-International Association of Oil & Gas Producers (IOGP), Conducting security risk assessments (SRA) in dynamic threat environments, 2016. 347.
-
-International Association of Oil & Gas Producers (IOGP), Integrating security in major projects – principles and 348.
-
-350.
-
-International Council on Mining & Metals (ICMM), International Committee of the Red Cross (ICRC), International Finance Corporation (IFC), and International Petroleum Industry Environmental Conservation Association (IPIECA), Voluntary Principles on Security and Human Rights: Implementation Guidance Tools, 2011.
-
-International Petroleum Industry Environmental Conservation Association (IPIECA), Guide to Operating in Areas of Conflict, 2008. 351.
-
-K. Neu and D. Avant, Overview of the relationship between PMSCs and extractive industry companies from the Private Security Events Database, 2019. 352.
-
-Office of the High Commissioner for Human Rights (OHCHR), Call for submissions: the relationship between private military and security companies and extractive industry companies from a human rights perspective in law and practice, 2019.
-
-353.
-
-Office of the High Commissioner for Human Rights (OHCR), Private military and security companies in extractive industries – impact on human rights, 2017. 354.
-
-United Nations Environment Programme (UNEP), From Conflict to Peacebuilding: The Role of Natural Resources and the Environment, 2009. 355.
-
-United Nations Environment Programme Financial Initiative (UNEP FI), Human Rights Guidance Tool for the Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020. 356.
-
-Resources: International Alert, Human rights due diligence in conflict-affected settings: Guidance for extractive industries, 2018. 357.
-
-358.
-
-International Council on Mining & Metals (ICMM), International Committee of the Red Cross (ICRC), International Finance Corporation (IFC), and International Petroleum Industry Environmental Conservation Association (IPIECA), Voluntary Principles on Security and Human Rights: Implementation Guidance Tools, 2011.
-
-## Topic 11.19 Anti-competitive behavior
-
-Additional references: European Commission, Case AT.39816: Upstream Gas Supplies in Central and Eastern Europe, 2018. 359.
-
-International Trade Center (ITC), Combating Anti-Competitive Practices: A Guide for Developing Economy Exporters, 2012. 360.
-
-Organisation for Economic Co-operation and Development (OECD), Cartels and anti-competitive agreements, oecd.org/competition/cartels/, accessed on 31 May 2020. 361.
-
-Vinsion & Elkins, 2018 Energy and Chemicals Antitrust Report, 2019. 362.
-
-## Topic 11.20 Anti-corruption
-
-Authoritative instruments: Additional references: guidelines, 2014. International Association of Oil & Gas Producers (IOGP), Security management system – Processes and concepts in security management, 2014. 349.
-
-Organisation for Economic Co-operation and Development (OECD), Convention on Combating Bribery of Foreign Public Officials in International Business Transactions and Related Documents, 1997. 363.
-
-Ernst & Young (EY), Managing bribery and corruption risks in the oil and gas industry, 2014. 364.
-
-Extractives Industries Transparency Initiative (EITI), Disclosing beneficial ownership: The key to fighting corruption, 2017. 365.
-
-Extractives Industries Transparency Initiative (EITI), The EITI Standard, 2019. 366.
-
-Financial Action Task Force (FATF), FATF guidance: Politically exposed persons (recommendations 12 and 22), 2013. 367.
-
-Global Witness, Shell knew: Emails show senior executives at UK’s biggest company knew it was party to a vast bribery scheme, globalwitness.org/en/campaigns/oil-gas-and-mining/shell-knew/, accessed on 31 May 2020. 368.
-
-International Monetary Fund (IMF), Fiscal Transparency Initiative: Integration of Natural Resource Management Issues, 2019. 369.
-
-M. Martini and Transparency International, Local content policies and corruption in the oil and gas industry, 2014. 370.
-
-Natural Resource Governance Institute (NRGI), Twelve Red Flags: Corruption Risks in the Award of Extractive Sector Licenses and Contracts, 2017. 372.
-
-Organisation for Economic Co-operation and Development (OECD), Corruption in the Extractive Value Chain: Typology of risks, Mitigation Measures and Incentives, 2016. 373.
-
-Organisation for Economic Co-operation and Development (OECD), OECD Foreign Bribery Report: An Analysis of the Crime of Bribery of Foreign Public Officials, 2014. 374.
-
-Transparency International, Corruption Perceptions Index 2018, 2018. 375.
-
-A. Sayne, A. Gillies, and A. Watkins, Twelve Red Flags: Corruption Risks in the Award of Extractive Sector Licenses and Contracts, 2017. 376.
-
-E. Westenberg and A. Sayne, Beneficial Ownership Screening: Practical Measures to Reduce Corruption Risks in Extractives Licensing, 2018. 377.
-
-A. Williams and K. Dupuy, Deciding over nature: Corruption and environmental impact assessments, 2016. 378.
-
-Resources: Extractives Industries Transparency Initiative (EITI), The EITI Standard, 2019. 379.
-
-## Topic 11.21 Payments to governments
-
-Authoritative instruments: Additional references: Resources: Natural Resource Governance Institute (NRGI), Beneath the Surface: The Case for Oversight of the Extractive Industry Suppliers, 2020. 371.
-
-European Parliament, Directive 2013/34/EU of the European Parliament and the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, 2013.
-
-380.
-
-381.
-
-Organisation for Economic Co-operation and Development (OECD), Inclusive Framework on Base Erosion and Profit Shifting, Action 13 Country-by-Country Reporting, oecd.org/tax/beps/beps-actions/action13, accessed on 1 June 2020.
-
-Extractives Industries Transparency Initiative (EITI), Nigeria EITI: Making transparency count, uncovering billions, 2012. 382.
-
-Extractives Industries Transparency Initiative (EITI), Project-level reporting in the extractive industries, 2018. 383.
-
-Extractives Industries Transparency Initiative EITI), Guidance note 26 – Reporting on first trades in oil, 2017. 384.
-
-Extractives Industries Transparency Initiative (EITI), Reporting Guidelines for companies buying oil, gas and minerals from governments, 2020. 385.
-
-Extractives Industries Transparency Initiative (EITI), Upstream Oil, Gas, and Mining State-Owned Enterprises, Governance Challenges and the Role of International Reporting Standards in Improving Performance, 2018. 386.
-
-Extractives Industries Transparency Initiative (EITI), The EITI Standard, 2019. 387.
-
-Global Witness, Shell knew: Emails show senior executives at UK’s biggest company knew it was party to a vast bribery scheme, globalwitness.org/en/campaigns/oil-gas-and-mining/shell-knew/, accessed on 31 May 2020. 388.
-
-International Monetary Fund (IMF), Fiscal Transparency Code (FTC), Pillar IV on natural resource revenue management, 2019. 389.
-
-P. Poretti, Transparency in the First Trade, 2019. 390.
-
-PricewaterhouseCoopers (PwC), Financial reporting in the oil and gas industry: International Financial Reporting Standards, 2017. 391.
-
-A. Sayne, A. Gillies, and A. Watkins, Twelve Red Flags: Corruption Risks in the Award of Extractive Sector Licenses and Contracts, 2017. 392.
-
-Tax Justice and Extractive Transparency: Two faces of the same coin, pwyp.org/pwyp-resources/tax-justiceextractive-transparency-two-faces-coin/, accessed on 19 February 2021. 393.
-
-Transparency International, Under the Surface: Looking into Payments by Oil, Gas and Mining Companies to Governments, 2018. 394.
-
-Extractives Industries Transparency Initiative (EITI), Reporting Guidelines for companies buying oil, gas and minerals from governments, 2020. 395.
-
-## Topic 11.22 Public policy
-
-Additional references: Extractives Industries Transparency Initiative (EITI), The EITI Standard, 2019. 396.
-
-Australasian Centre for Corporate Responsibility (ACCR), Politics – BHP, 2017. 397.
-
-D. Coady, I. Parry, et al., Global Fossil Fuel Subsidies Remain Large: An Update Based on Country-Level Estimates, 2019. 398.
-
-N. Graham, S. Daub, and B. Carroll, Mapping Political Influence: Political donations and lobbying by the fossil fuel industry in BC, 2017. 399.
-
-S. Hayer, Fossil Fuel Subsidies, 2017. 400.
-
-InfluenceMap, Big Oil’s Real Agenda on Climate Change, influencemap.org/report/How-Big-Oil-Continues-toOppose-the-Paris-Agreement-38212275958aa21196dae3b76220bddc, accessed on 31 May 2020. 401.
-
-InfluenceMap, Climate Lobbying: How Companies Really Impact Progress on Climate, 2018, influencemap.org/climate-lobbying, accessed on 31 May 2020. 402.
-
-403.
-
-InfluenceMap, Trade association and climate: Shareholders make themselves heard, May 2018, influencemap.org/report/Trade-associations-and-climate-shareholders-make-themselves-heardcf9db75c0a4e25555fafb0d84a152c23, accessed on 31 May 2020.
-
-D. Koplow, C. Lin, et al., Mapping the Characteristics of Producer Subsidies: A review of pilot country studies, 2010. 404.
-
-405.
-
-J. Levin, We stopped the oil and gas industry from gutting Canada’s environmental laws!, environmentaldefence.ca/2019/06/27/we-stopped-the-oil-gas-industry-from-gutting-canadas-environmentallaws/, accessed on 2 June 2021.
-
-Organisation for Economic Co-operation and Development (OECD), Anti-corruption & Integrity Hub, Lobbying, oecd.org/corruption-integrity/explore/topics/lobbying.html, accessed on 2 June 2021. 406.
-
-J. B. Skjærseth and T. Skodvin, Climate change and the oil industry: Common problem, varying strategies, 2003. 407.
-
-### www.globalreporting.org
+### Sector profile
+Authoritative instruments:
+United Nations (UN) Resolution, Transforming our world: the 2030 Agenda for Sustainable Development, 2015 (A/RES/70/1). 7.
+Additional references:
+Business for Social Responsibility, P. Nestor, Four Human Rights Issues Every Food and Agriculture Company Needs to Understand, 2013. 8.
+European Commission, DG Maritime Affairs and Fisheries – Energy Efficiency, https://stecf.jrc.ec.europa.eu/web/ ee/home?p_p_auth=ippYeq6n&p_p_id=49&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_49_struts_ action=%2Fmy_sites%2Fview&_49_groupId=12762&_49_privateLayout=false, accessed on 26 April 2022.
+Farm Animal Investment Risk & Return (FAIRR) Initiative, Factory Farming: Assessing Investment Risks, 2016. 11.
+Food and Agriculture Organization (FAO), Inclusive Business Models, 2015. 13.
+Food and Agriculture Organization (FAO), Increasing the Resilience of Agriculture Livelihoods, 2016. 14.
+Food and Agriculture Organization (FAO), Migration, Agriculture and Climate change – Reducing vulnerabilities and enhancing resilience, 2017. 15.
+Food and Agriculture Organization (FAO), Sustainability Pathways: Smallholders and Family Farmers, 2012. 18.
+Food and Agriculture Organization (FAO), World Food and Agriculture: Statistical Yearbook 2020, 2020. 20.
+International Labour Organization (ILO) and Walk Free Foundation, Global Estimates of Modern Slavery, 2017. 21.
+International Institute for Sustainable Development (IISD), Voluntary Sustainability Standards and Biodiversity: Understanding the potential of agricultural standards for biodiversity protection, 2018. 22.
+International Panel on Climate Change, Climate Change 2014: Mitigation of Climate Change, 2014. 24.
+International Panel on Climate Change, Sixth Assessment Report, Climate Change 2022: Mitigation of Climate 25.
+Change, the Working Group III contribution, 2022. Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Global assessment report on Biodiversity and Ecosystem Services: Summary for policymakers, 2019. 26.
+North Sea Foundation, Seas at risk – The carbon footprint of fisheries, 2007. 27.
+Organisation for Economic Co-operation and Development (OECD) and Food and Agriculture Organization (FAO), Agricultural Outlook 2021-2030, 2021. 30.
+United Nations (UN) Press Release GA/EF/3521, Rural Population ‘Left Behind’ by Uneven Global Economy, Speakers Note, as Second Committee Debates Poverty Eradication, 2019. 32.
+United States Environmental Protection Agency (EPA), Global Greenhouse Gas Emissions Data, https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data, accessed on 10 May 2022. 33.
+Willett, J. Rockström, B. Loken, et al., Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems, 2019. 34.
+World Bank Blogs, T. Khokhar, Chart: Globally, 70% of Freshwater is Used for Agriculture, https://blogs.worldbank.org/opendata/chart-globally-70-freshwater-used-agriculture, accessed on 4 February 2021.
+World Bank Group, Environmental, Health, and Safety General Guideline for Annual Crop Production, 2016. 36.
+World Bank Group, Growing the Rural Nonfarm Economy to Alleviate Poverty, 2017 37.
+World Bank Group, The Changing Nature of Work, 2019. 38.
+Resources:
+GRI, Linking the SDGs and the GRI Standards, updated regularly. 40.
+GRI and UN Global Compact, Integrating the SDGs into corporate reporting: A practical guide, 2018. 41.
+### Topic 13.1 Emissions
+Authoritative instruments:
+United Nations Framework Convention on Climate Change (UNFCCC), Paris Agreement, 2015. 42.
+Additional references:
+Food and Agriculture Organization (FAO), Committee on Fisheries, the Use of Best Available Science in Developing and Promoting Best Practices for Trawl Fishing Operations, 2018. 43.
+Food and Agriculture Organization (FAO), Livestock’s long shadow: environmental issues and options, 2006. 44.
+Intergovernmental Panel on Climate Change (IPCC), Climate Change 2014: Mitigation of Climate Change – Transport, 2014. 45.
+Intergovernmental Panel on Climate Change (IPCC), Special Report on Climate Change and Land, 2019. 46.
+Sala, E., Mayorga, J., Bradley, D. et al., Protecting the global ocean for biodiversity, food and climate, 2021. 47.
+Resources:
+World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), GHG Protocol Agricultural Guidance, 2014. 48.
+### Topic 13.2 Climate adaptation
+Additional references:
+Food and Agriculture Organization (FAO), The State of World Fisheries and Aquaculture, 2018. 49.
+Food and Agriculture Organization (FAO), The State of Food and Agriculture, 2016. 50.
+Intergovernmental Panel on Climate Change (IPCC), Food security, 2019. 51.
+Intergovernmental Panel on Climate Change (IPCC), Climate Change and Land, 2019. 52.
+Parry, C. Rosenzweig, M. Livermore, Climate change, global food supply and risk of hunger, 2005. 53.
+United Nations Educational, Scientific and Cultural Organization (UNESCO), Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES), Knowing our Lands and Resources Indigenous and Local Knowledge of Biodiversity and Ecosystem Services in Africa, 2015.
+Resources:
+Intergovernmental Panel on Climate Change (IPCC), Climate Change and Land, 2019. 56.
+Intergovernmental Panel on Climate Change (IPCC), Climate Change 2014: Mitigation of Climate Change – Chapter 14: Adaptation needs and options, 2014. 57.
+### Topic 13.3 Biodiversity
+Authoritative instruments:
+Food and Agriculture Organization (FAO), Agreement to promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas, 1995. 58.
+United Nations (UN) Convention, Convention on the Law of the Sea, 1982. 59.
+United Nations (UN), Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks, 1995.
+Additional references:
+European Commission, Global Soil Biodiversity Atlas, 2015. 61.
+Food and Agriculture Organization (FAO), 6 ways indigenous peoples are helping the world achieve #ZeroHunger, 2017. 62.
+Food and Agriculture Organization (FAO), Fish as feed inputs for aquaculture – practices, sustainability and implications: a global synthesis, 2009. 64.
+Food and Agriculture Organization (FAO), The First Global Integrated Marine Assessment, 2016. 66.
+Food and Agriculture Organization (FAO), The State of the World's Biodiversity for Food and Agriculture, 2019. 67.
+Food and Agriculture Organization (FAO), The State of World Fisheries and Aquaculture, 2020. 68.
+Food and Agriculture Organization (FAO), The Use of Wild Fish as Aquaculture Feed and its Effects on Income and Food for the Poor and the Undernourished, 2008. 70.
+Food and Agriculture Organization (FAO), Why bees matter? The importance of bees and other pollinators for food and agriculture, 2018. 71.
+Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Global Assessment Report on Biodiversity and Ecosystem Services, 2019. 72.
+National Oceanic and Atmospheric Administration, Impact of “Ghost Fishing” via Derelict Fishing Gear, 2015. 74.
+United Nations Environment Programme (UNEP), Indigenous Peoples: The unsung heroes of conservation, 2017. 75.
+United Nations, Local Biodiversity Outlooks 2 supplement, 2020. 76.
+Resources:
+Food and Agriculture Organization (FAO), The State of the World’s Biodiversity for Food and Agriculture, 2019. 77.
+Food and Agriculture Organization (FAO), The Sustainability Assessment of Food and Agriculture systems, 2019. 78.
+### Topic 13.4 Natural ecosystem conversion
+Authoritative instruments:
+United Nations (UN), Convention on Biological Diversity, 1992. 79.
+United Nations (UN), Convention to Combat Desertification, 1994. 80.
+United Nations (UN), Framework Convention on Climate Change, 1992. 81.
+Additional references:
+Accountability Framework Initiative, Terms and Definitions, 2020. 82.
+Food and Agriculture Organization (FAO), Committee on Fisheries, the Use of Best Available Science in Developing and Promoting Best Practices for Trawl Fishing Operations, 2018. 83.
+Food and Agriculture Organization (FAO), Zero deforestation initiatives and their impacts on commodity supply chains: Discussion paper prepared for the 57th Session of the FAO Advisory Committee on Sustainable Forestbased Industries, 2018.
+Food and Agriculture Organization (FAO), Zero deforestation initiatives and their impacts on commodity supply chains: Discussion paper prepared for the 57th Session of the FAO Advisory Committee on Sustainable Forestbased Industries, 2018.
+Intergovernmental Panel on Climate Change (IPCC), Climate Change and Land, 2019. 87.
+Proforest, Landscape initiatives, webpage. 88.
+United Nations System of Environmental-Economic Accounting, Ecosystem conversions, https://seea.un.org/sites/seea.un.org/files/4._ecosystems_conversion_forum_session.pdf, accessed on 29 January 2021.
+United Nations, General Assembly Resolution 71/285: United Nations Strategic Plan for Forests 2017–2030, 2017. 90.
+World Wildlife Fund for Nature (WWF) and BCG, Deforestation and Conversion Free Supply Chains, 2021. 91.
+Resources:
+Accountability Framework Initiative (AFi), Operational Guidance on Applying the Definitions Related to Deforestation, Conversion, and Protection of Ecosystems, 2019. 92.
+Accountability Framework Initiative (AFi), Operational Guidance on Cutoff Dates, 2019. 93.
+Consumer Goods Forum (CGF), Zero Net Deforestation Resolution and Commitments, 2018. 94.
+United Nations (UN), New York Declaration on Forests, 2017. 95.
+### Topic 13.5 Soil health
+Authoritative instruments:
+Food and Agriculture Organization (FAO), International Code of Conduct for the sustainable use and management of fertilizers, 2019. 96.
+Additional references:
+European Commission, Global Soil Biodiversity Atlas, 2015. 97.
+Food and Agriculture Organization (FAO), Intergovernmental Technical Panel, Status of the World’s Soil Resources (SWSR): Technical Summary, 2015. 98.
+Food and Agriculture Organization (FAO) and International Atomic Energy Agency, Guidelines for Using Fallout Radionuclides to Assess Erosion and Effectiveness of Soil Conservation Strategies, 2014. 99.
+Food and Agriculture Organization (FAO), Methodological note to SDG Indicator 2.4.1 Proportion of Agricultural Area under Productive and Sustainable Agriculture, 2020. 100.
+Intergovernmental Panel on Climate Change (IPCC), Climate Change and Land, 2019. 101.
+World Wildlife Fund for Nature (WWF), Soil Erosion and Degradation, 2019. 102.
+Resources:
+Food and Agriculture Organization (FAO), Voluntary Guidelines on Sustainable Soil Management, 2017. 103.
+### Topic 13.6 Pesticides use
+Authoritative instruments:
+Food and Agriculture Organization (FAO) and World Health Organization (WHO), International Code of Conduct on Pesticide Management, 2014. 104.
+Food and Agriculture Organization (FAO) and World Health Organization (WHO), International Code of Conduct on Pesticide Management Guidelines on Highly Hazardous Pesticides, 2016. 105.
+International Labor Organization (ILO), Safety and Health in Agriculture Convention, 2001 (No. 184). 106.
+United Nations (UN), Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, 1989. 107.
+United Nations (UN), Rotterdam Convention on the Prior Informed Consent (PIC) Procedure for Certain Hazardous Chemicals and Pesticides in International Trade, 1998. 108.
+United Nations (UN), Stockholm Convention on Persistent Organic Pollutants, 2001. 109.
+Additional references:
+W. Aktar, D. Sengupta, A. Chowdhury, Impact of pesticides use in agriculture: their benefits and hazards, 2009. 110.
+J. Moe, D. Ø. Hjermann, E. Ravagnan, R. K. Bechmann, Effects of an aquaculture pesticide (diflubenzuron) on non-target shrimp populations: Extrapolation from laboratory experiments to the risk of population decline, 2019. 111.
+World Health Organization (WHO), Pesticide residues in food, 2018. 113.
+Resources:
+Rainforest Alliance, Integrated Pest Management and Natural Farming Solutions, 2020. 115.
+World Health Organization (WHO), The WHO Recommended Classification of Pesticides by Hazard and Guidelines to Classification, 2019. 116.
+### Topic 13.7 Water and effluents
+#### Authoritative instruments
+International Maritime Organization (IMO), Protocol of 1978 relating to the International Convention for the prevention of pollution from ships, 1973, 1978 117.
+Additional references:
+European Commission, Science for Environment Policy, 2015. 118.
+Global Aquaculture Alliance, What Is the Environmental Impact of Aquaculture?, 2019. 119.
+Intergovernmental Panel on Climate Change (IPCC), Climate Change and Land, 2019. 120.
+Organisation for Economic Co-operation and Development (OECD), Agriculture and water policy changes: Stocktaking and alignment with OECD and G20 recommendations, 2020. 121.
+World Bank, Water in Agriculture, 2020. 122.
+Resources:
+International Maritime Organization (IMO), Resolution MEPC.295(71): 2017 Guidelines for the Implementation of MARPOL Annex V, 2017. 123.
+International Maritime Organization (IMO), Simplified overview of the discharge provisions of the revised MARPOL Annex V which entered into force on 1 March 2018, 2018. 124.
+### Topic 13.8 Waste
+Authoritative instruments:
+International Maritime Organization (IMO), 2017 Guidelines for the Implementation of MARPOL Annex V, 2017. 125.
+International Maritime Organization (IMO), Simplified overview of the discharge provisions of the revised MARPOL Annex V which entered into force on 1 March 2018, No date. 126.
+International Maritime Organization (IMO), Protocol of 1978 relating to the International Convention for the prevention of pollution from ships, 1973, 1978. 127.
+Additional references:
+Aquaculture Stewardship Council, Marine Litter and Aquaculture Gear, 2019. 128.
+Food and Agriculture Organization (FAO), Abandoned, lost or otherwise discarded fishing gear, 2009. 129.
+Food and Agriculture Organization (FAO), Nitrogen inputs to agricultural soils from livestock manure, 2018. 130.
+Food and Agriculture Organization (FAO), The State of Food and Agriculture 2019: Moving forward on food Loss and waste reduction, 2019. 131.
+Global Aquaculture Alliance, For the future, a feed that makes fish feces float?, 2017. 133.
+Nwakaire, F. O. Obi, B. Ugwuishiwu, Agricultural waste concept, generation, utilization and management, 2016. 134.
+Resources:
+Food and Agriculture Organization (FAO), SDG 12.3.1: Global Food Loss Index, 2018. 136.
+United Nations Environment Programme (UNEP), World Health Organization (WHO), Food and Agriculture Organization (FAO), Guidelines for the management of small quantities of unwanted and obsolete pesticides, 1999.
+### Topic 13.9 Food security
+Authoritative instruments:
+Committee on World Food Security, Principles for Responsible Investment in Agriculture and Food Systems, 2014. 138.
+Food and Agriculture Organization (FAO), Voluntary Guidelines on the Progressive Realization of the Right to Adequate Food in the Context of National Food Security, 2005. 139.
+Additional references:
+Committee on Food Security, Sustainable Fisheries and Aquaculture for Food Security and Nutrition, 2014. 140.
+Food and Agriculture Organization (FAO), Land use in agriculture by the numbers, 2020. 142.
+Food and Agriculture Organization (FAO), Save and Grow in practice: maize, rice, wheat. A guide to Sustainable Cereal Production, 2016. 144.
+Food and Agriculture Organization (FAO), The State of Food and Agriculture 2020 - Moving Forward on Food Loss and Waste Reduction, 2020. 145.
+Food and Agriculture Organization (FAO), The State of Food Security and Nutrition in the World 2020, 2020. 146.
+Food and Agriculture Organization (FAO), The State of World Food Security and Nutrition in the World 2019, 2019. 147.
+Food and Agriculture Organization (FAO), Transforming Food and Agriculture to Achieve the SDGs, 2018. 148.
+Food and Agriculture Organization (FAO), World Agriculture: Towards 2015/2030 - An FAO perspective, Crop production and natural resource use, 2003. 150.
+High Level Panel of Experts on Food Security and Nutrition of the Committee on World Food Security, Food security and nutrition: building a global narrative towards 2030, 2020. 151.
+Intergovernmental Panel on Climate Change (IPCC), Climate Change and Land, 2019. 152.
+Intergovernmental Panel on Climate Change (IPCC), Annual Report 5 Climate Change 2013: The Physical Science Basis – Chapter 11 Agriculture, Forestry and Other Land Use (AFOLU), 2013. 153.
+Cashion, F. Le Manach, D. Zeller, D. Pauly, Most fish destined for fishmeal production are food-grade fish, 2017. 154.
+The EAT-Lancet Commission, Summary Report of the EAT-Lancet Commission: Healthy Diets from Sustainable 155.
+Food Systems, 2019. World Business Council for Sustainable Development (WBCSD), Taking action on nutrition: Addressing the nutrition deficit in agricultural supply chains, 2019. 156.
+Resources:
+Food and Agriculture Organization (FAO), SDG 12.3.1: Global Food Loss Index, Methodology for monitoring SDG Target 12.3, 2018. 157.
+World Resources Institute (WRI), Food Loss and Waste Accounting and Reporting Standard, 2016. 158.
+### Topic 13.10 Food safety
+Additional references:
+Washington and L. Ababouch, Private standards and certification in fisheries and aquaculture: Current practice and emerging issues, 2011. 160.
+The EAT-Lancet Commission, Summary Report of the EAT-LANCET Commission: Healthy Diets from Sustainable Food Systems, 2019. 161.
+World Health Organization (WHO), Antimicrobial resistance in the food chain. 2017. 162.
+World Health Organization (WHO), Food safety, 2020. 163.
+World Health Organization (WHO), Preventing food safety emergencies (INFOSAN), 2017. 164.
+World Health Organization (WHO), Foodborne Disease Burden Epidemiology Reference Group 2007-2015, 2015. 165.
+Resources:
+### Topic 13.11 Animal health and welfare
+Authoritative instruments:
+World Organisation for Animal Health (OIE), Aquatic Animal Health Code, 2019. 167.
+World Organisation for Animal Health (OIE), Terrestrial Animal Health Code, 2019. 168.
+Additional references:
+Committee on World Food Security, Sustainable agricultural development for food security and nutrition: What roles for livestock?, 2016. 169.
+Farm Animal Welfare Education Centre, What is animal welfare?, 2012. 170.
+Food and Agriculture Organization (FAO), The State of World Fisheries and Aquaculture 2020, 2020. 171.
+Food and Agriculture Organization (FAO), Livestock’s Long Shadow: Environmental Issues and Options.Rome: Food and Agriculture Organization of the United Nations, 2006. 172.
+European Commission, Welfare of farmed fish: Common practices during transport and at slaughter, 2017. 173.
+A. Lines and J. Spence, Humane harvesting and slaughter of farmed fish, 2014. 174.
+National Farm Animal Care Council of Canada, Code of practice for the care and handling of beef cattle, 2013. 175.
+Royal Society for the Prevention of Cruelty to Animals, What is animal hoarding and why is it harmful to animals?, 2020. 176.
+World Health Organization (WHO), Antimicrobial resistance in the food chain, 2017. 178.
+World Organisation for Animal Health (OIE), What is animal welfare?, https://www.oie.int/en/animalwelfare/animal-welfare-at-a-glance/, accessed on 9 February 2021. 179.
+World Organisation for Animal Health (OIE), Terrestrial Animal Health Code: Chapter 6.1 Introduction to Recommendations for Veterinary Public Health, 2019. 180.
+### Topic 13.12 Local communities
+Authoritative instruments:
+United Nations (UN), Declaration on the Rights of Peasants and Other People, 2018. 181.
+Additional references:
+European Institute for Gender Equality (EIGE), Gender in agriculture and rural development, 2017. 182.
+International Institute for Sustainable Development (IISD), Private Investments and Agriculture: The importance of integrating sustainability into planning and implementation, 2016. 183.
+International Labour Organization (ILO) and United Nations Conference on Trade and Development, Shared Harvests: Agriculture, Trade and Employment, 2013. 184.
+Food and Agriculture Organization (FAO), FAO Social Protection Framework: Promoting rural development for all, 2017. 185.
+Office of the United Nations High Commissioner for Human Rights, Pesticides are ‘global human rights concern’, say UN experts urging new treaty, 2017. 187.
+Wing, R. A. Horton, and S. W. Marshall, et al., Air Pollution and Odor in Communities Near Industrial Swine Operations, 2008. 188.
+WHO estimates that worldwide exposure to pesticides causes an annual 20,000 deaths and at least 3 million cases of acute poisoning. World Health Organization (WHO), Acute pesticide poisoning: a proposed classification tool, 2008.
+### Topic 13.13 Land and resource rights
+Authoritative instruments:
+Food and Agriculture Organization (FAO), Code of Conduct for Responsible Fishing, 1995. 190.
+Committee on World Food Security, Principles for the Responsible Investment in Agriculture and Food Systems, 2014. 191.
+Food and Agriculture Organization (FAO), Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries in the Context of Food Security and Poverty Eradication, 2015. 192.
+Food and Agriculture Organization (FAO), Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security, 2012. 193.
+Food and Agriculture Organization (FAO), Principles for Responsible Investment in Agriculture and Food Systems, 2014. 194.
+United Nations (UN), Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks, 1995.
+Additional references:
+Committee on World Food Security, Defend the defenders – how to effectively protect those who fight for the right to food?, 2018. 196.
+Food and Agriculture Organization (FAO), Right to Food and Access to Natural Resources, 2007. 197.
+Food and Agriculture Organization (FAO), Due diligence, tenure and agricultural investment: A guide on the dual responsibilities of private sector lawyers in advising on the acquisition of land and natural resources, 2019. 198.
+Office of the United Nations High Commissioner for Human Rights, Report of the Special Rapporteur on the situation of human rights defenders, 2016. 200.
+Foster, Fish are evolving to escape modern fishing techniques. This is what it means, 202.
+United Nations Human Settlement Programme (UN-Habitat), Secure Land Rights for All, 2006. 204.
+Resources:
+Global Reporting Initiative, Land Tenure Rights: The need for greater transparency among companies worldwide, 2016. 205.
+### Topic 13.14 Rights of Indigenous Peoples
+Authoritative instruments:
+Food and Agriculture Organization (FAO), Voluntary Guidelines for Securing Sustainable Small-Scale Fisheries in the Context of Food Security and Poverty Eradication, 2015. 206.
+Food and Agriculture Organization (FAO), Voluntary Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests in the Context of National Food Security, 2012. 207.
+International Labour Organization (ILO), Indigenous and Tribal Peoples Convention, 1989 (No. 169). 208.
+United Nations (UN), Convention on Biological Diversity, 1992. 209.
+United Nations (UN), Declaration on the Rights of Indigenous Peoples, 2007. 210.
+Additional references:
+Food and Agriculture Organization (FAO), FAO and traditional knowledge: the linkages with Sustainability, food security and climate change impact, 2009. 211.
+Food and Agriculture Organization (FAO), FAO Policy on Indigenous and Tribal People, 2010. 212.
+Forest Peoples Programme, Agribusiness large-scale land acquisitions and human rights in Southeast Asia, 2013. 213.
+Inter-American Commission on Human Rights, Indigenous Peoples, Afro-Descendent Communities, and Natural Resources: Human Rights Protection in the Context of Extraction, Exploitation, and Development Activities, 2015. 214.
+International Fund for Agricultural Development, Indigenous peoples’ collective rights to lands, territories and natural resources – Lessons from IFAD-supported projects, 2018. 215.
+Intergovernmental Panel on Climate Change (IPCC), Climate Change and Land, 2019. 216.
+Intergovernmental Panel on Climate Change (IPCC), Climate Change and Land: Food security, 2019. 217.
+International Work Group for Indigenous Affairs (IWGIA), IWGIA Report 26: Case Studies and Legal Analysis – Land Grabbing, Investments & Indigenous Peoples’ Rights to Land and Natural Resources, 2016. 218.
+Office of The United Nations High Commissioner for Human Rights, Indigenous Peoples and the United Nations Human Rights System, 2013. 219.
+Oxfam, Unearthed: Land, power and inequality in Latin America, 2016. 220.
+Macgillivray, Food and Agriculture Organization (FAO), Indigenous Peoples’ Tenure Rights in Fisheries: A Canadian Case Study, 2019. 221.
+United Nations Educational, Scientific and Cultural Organization (UNESCO), Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES), Knowing our Lands and Resources Indigenous and Local Knowledge of Biodiversity and Ecosystem Services in Africa, 2015.
+United Nations, Free, prior and informed consent: a human rights-based approach - Study of the Expert Mechanism on the Rights of Indigenous Peoples, 2018. 224.
+Resources:
+Forest People’s Programme, Norway’s International Climate and Forest Initiative, Ground-truthing to improve due diligence on human rights in deforestation-risk supply chains, 2020. 225.
+### Topic 13.15 Non-discrimination and equal opportunity
+Authoritative instruments:
+International Labour Organization (ILO), Violence and Harassment Convention, 2019 (No. 190). 226.
+International Labour Organization (ILO), Work in Fishing Convention, 2007 (No. 188). 227.
+International Labour Organization (ILO), Tripartite Meeting on Issues relating to Migrant Fishers, Conclusions on the Promotion of Decent Work for Migrant Fishers, 2017. 228.
+Additional references:
+Food and Agriculture Organization (FAO), Closing the Gender Gap in Agriculture, 2011. 229.
+Food and Agriculture Organization (FAO), Governing Land for Women and Men, 2013. 232.
+Food and Agriculture Organization (FAO), Regulating Labour and Safety Standards in the Agriculture, Forestry and Fisheries, 2018. 233.
+Food and Agriculture Organization (FAO), The State of World Fisheries and Aquaculture, 2020. 234.
+Human Rights Council, Peasant Farmers and the Right to Food: a History of Discrimination and Exploitation, 2009. 235.
+Human Rights Council, Study on Discrimination In the Context of the Right to Food, 2011. 236.
+International Labour Organization (ILO), Assessment of International Labour Standards that Apply to Rural Employment, 2016. 237.
+International Labour Organization (ILO), Decent Work for Indigenous and Tribal Peoples in the Rural Economy, 2019. 238.
+International Labour Organization (ILO), Labour Situation of Indigenous Women in Peru – A Study, 2016. 239.
+International Labour Organization (ILO), Spotlight on Sexual Violence and Harassment in Commercial Agriculture: Lower and Middle Income Countries, 2018. 240.
+### Topic 13.16 Forced or compulsory labor
+Authoritative instruments:
+International Labour Organization (ILO), Work in Fishing Convention, 2007 (No. 188). 241.
+Additional references:
+Amnesty International, The Great Palm Oil Scandal, 2016. 242.
+European Commission, Questions and Answers - Illegal, Unreported and Unregulated (IUU) fishing in general and in Thailand. European Commission - Fact Sheet, 2019. 243.
+Global Slavery Index, 2018 Findings, Importing Risk / Cocoa, 2018. 244.
+Global Slavery Index, 2018 Findings, Importing Risk / Fishing, 2018. 245.
+Human Rights Watch, Hidden Chains: Rights Abuses and Forced Labor in Thailand’s Fishing Industry, 2018. 246.
+International Labour Organization (ILO), Decent work for migrant fishers, 2017. 247.
+International Labour Organization (ILO), Fighting Forced Labour: The Example of Brazil, 2009. 248.
+International Labour Organization (ILO), Forced Labour Convention, 1930 (No. 29) - Paraguay (Ratification: 1967), 2017. 249.
+International Labour Organization (ILO), Forced Labour of Adults and Children in Agriculture Sector of Nepal, 2013. 250.
+International Labour Organization (ILO), Global Estimates of Modern Slavery, 2017. 251.
+International Labour Organization (ILO), Unleashing Rural Development through Productive Employment and Decent Work: Building on 40 Years of ILO Work in Rural Areas Overview, 2011. 252.
+International Trade Unions Confederation, Slavery-like Working Conditions and Deadly Pesticides on Brazilian Coffee Plantations, 2016. 253.
+United States Department of Labor, A 2020 List of Goods Produced by Child Labor or Forced Labor, 2020. 255.
+Verité, Forced Labor Commodity Atlas, 2019. 256.
+Resources:
+United States Department of Labor, A List of Goods Produced by Child Labor or Forced Labor, updated annually. 257.
+### Topic 13.17 Child labor
+Authoritative instruments:
+Food and Agriculture Organization (FAO), International Labour Organization (ILO), Guidance on Addressing Child Labour in Fisheries and Aquaculture, 2013. 258.
+International Labour Organization (ILO), Worst Forms of Child Labour Convention, 1999 (No. 182). 259.
+Additional references:
+Food and Agriculture Organization (FAO), Eliminating Child Labour in Fisheries and Aquaculture – Promoting Decent Work and Sustainable Fish Value Chains, 2018. 260.
+Food and Agriculture Organization (FAO), Hazardous Child Labour: FAO’s Contribution to Protecting Children from Pesticide Exposure. 2015. 261.
+International Labour Organization (ILO), Child Labour in the Primary Production of Sugarcane, 2017. 262.
+International Labour Organization (ILO), Children in hazardous work, 2011. 263.
+International Labour Organization (ILO), Forced Labour and Trafficking in Fisheries Caught at Sea, 2013. 265.
+International Labour Organization (ILO), Global Estimates of Child Labour, 2017. 266.
+International Labour Organization (ILO), Hazardous Child Labour. 267.
+International Labour Organization (ILO), Improving the Safety and Health of Young Workers, 2018. 268.
+International Union of Food, Agricultural, Hotel, Restaurant, Catering Tobacco and Allied Workers’ Associations, Child Labour and the Harvesting of Hazelnuts in Turkey Report of a Fact Finding Mission to Turkey, 2011. 269.
+Food and Agriculture Organization (FAO), Children’s Work in the Livestock Sector: Herding and Beyond, 2013. 270.
+United Nations International Children’s Fund, Understanding the Impacts of Pesticides on Children, 2018. 271.
+United States Department of Labor, A 2018 List of Goods Produced by Child Labor or Forced Labor, 2018. 272.
+Resources:
+International Labour Organization (ILO), the Food and Agricultural Organization (FAO), the International Fund for Agricultural Development (IFAD), the International Food Policy Research Institute (IFPRI/CGIAR), and the International Union of Food, Agricultural, Hotel, Restaurant, Catering, Tobacco and Allied Workers’ Associations (IUF), International Partnership for Cooperation on Child Labour in Agriculture, https://childlabourinagriculture.org/our-resources/, accessed on 4 February 2021.
+International Labour Organization (ILO), International Organization of Employers, Child Labour Guidance Tool for Business: How to Do Business with Respect for Children’s Right to Be Free from Child Labour. 274.
+United States Department of Labor, A List of Goods Produced by Child Labor or Forced Labor, updated annually. 275.
+### Topic 13.18 Freedom of association and collective bargaining
+Authoritative instruments:
+International Labour Organization (ILO), Right of Association (Agriculture) Convention, 1921 (No. 11). 276.
+International Labour Organization (ILO), Rural Workers' Organizations Convention, 1975 (No. 141). 277.
+International Labour Organization (ILO), Safety and Health in Agriculture Recommendation, 2001 (No. 192). 278.
+International Labour Organization (ILO), Employment Relationship Recommendation, 2006 (No. 198). 279.
+International Labour Organization (ILO), Transition from the Informal to the Formal Economy Recommendation, 2015 (No. 204). 280.
+Additional references:
+Examples include palm oil and banana plantations. Food and Agriculture Organization (FAO), Diagnosis on the labour rights situation in the global banana industry: Paper on Freedom of Association and Collective Bargaining, 2012.
+Food and Agriculture Organization (FAO), Assessment of international labour standards that apply to rural 282.
+employment - An overview for the work of FAO relating to labour protection in agriculture, forestry and fisheries, 2016. Global Deal for Decent Work and Inclusive Growth, Social Dialogue for the Transition from the Informal to the Formal Economy, 2020. 283.
+International Labour Organization (ILO), Gaps in Coverage and Barriers to Ratification and Implementation of International Labour Standards, No date. 284.
+International Labour Organization (ILO), Giving voice to rural workers, 2015. 285.
+International Trade Union Confederation, Global Rights Index, 2017. 286.
+International Trade Union Confederation, Global Rights Index, 2021. 287.
+International Transport Workers’ Federation (ITF), Submission of the International Transport Workers’ Federation to the UPR Session for Lao People’s Democratic Republic, 2019. 288.
+### Topic 13.19 Occupational health and safety
+Authoritative instruments:
+International Labour Organization (ILO), Safety and Health in Agriculture Convention, 2001 (No. 184). 289.
+International Labour Organization (ILO), Safety and Health in Agriculture Recommendation, 2001 (No. 192). 290.
+International Labour Organization (ILO), Code of practice on Safety and health in agriculture, 2010. 291.
+International Labour Organization (ILO), Maritime Labour Convention, 2006 (No. 186). 292.
+International Labour Organization (ILO), Work in Fishing Convention, 2007 (No. 188). 293.
+International Maritime Organization (IMO), Cape Town Agreement, 2012. 294.
+International Maritime Organization (IMO), Code of Safety for Fishermen and Fishing Vessels, 2005. 295.
+International Maritime Organization (IMO), Implementation Guidelines on Part B of the Code, the Voluntary Guidelines and the Safety Recommendations, 2014. 296.
+International Maritime Organization (IMO), Revised Voluntary Guidelines for the design, construction and equipment of small fishing vessels, 2005. 297.
+International Maritime Organization (IMO), Safety recommendations for decked fishing vessels of less than 12 metres in length and undecked fishing vessels, 2012. 298.
+International Maritime Organization (IMO), International Convention on Standards of Training, Certification and Watchkeeping for Fishing Vessel Personnel (STCW-F), 1995. 299.
+Additional references:
+Centers for Disease Control and Prevention, Workplace Safety & Health Topics – Commercial Fishing Safety, https://www.cdc.gov/niosh/topics/fishing/vesseldisasters.html, accessed on 4 February 2021. 300.
+Food and Agriculture Organization (FAO), International Labour Organization (ILO), Safety and health, http://www.fao-ilo.org/more/fao-ilo-safety/en, accessed on 4 February 2021. 302.
+Food and Agriculture Organization (FAO), Safety at sea for small-scale fishermen, 2019. 303.
+Food and Agriculture Organization (FAO), The State of World Fisheries and Aquaculture 2020, 2020. 305.
+International Labour Organization (ILO), Food and Agriculture Organization (FAO), International Union of Food, Agricultural, Hotel, Restaurant, Catering, Tobacco and Allied Workers’ Associations, Agricultural Workers and Their Contribution to Sustainable Agriculture and Rural Development, 2007.
+International Labour Organization (ILO), Safety and health training manual for the commercial fishing industry in Thailand, 2014. 307.
+International Labour Organization (ILO), Safety and health in agriculture, 2011. 309.
+Resources:
+International Labour Organization (ILO), WASH@Work a Self-Training Handbook, 2016. 316.
+### Topic 13.20 Employment practices
+Authoritative instruments:
+Interfaith Center on Corporate Responsibility, Best Practice Guidance on Ethical Recruitment of Migrant Workers, 2017. 317.
+International Labour Organization (ILO), Plantations Convention, 1958 (No. 110). 318.
+International Labour Organization (ILO), Migrant Workers Recommendation, 1975 (No. 141). 319.
+International Labour Organization (ILO), Migrant Workers (Supplementary Provisions), 1975 (No. 143). 320.
+International Labour Organization (ILO), Private Employment Agencies Convention, 1997 (No. 181). 321.
+International Labour Organization (ILO), Work in Fishing Convention, 2007 (No. 188). 322.
+International Labour Organization (ILO), Migration for Employment Convention, 1949 (No. 97). 323.
+International Labour Organization (ILO), Declaration on Fundamental Principles and Rights at Work, 1998. 324.
+International Labour Organization (ILO), Plantations Recommendation, 1958 (No. 110). 325.
+International Labour Organization (ILO), Employment Relationship Recommendation, 2006 (No. 198). 326.
+International Labour Organization (ILO), Transition from the Informal to the Formal Economy Recommendation, 2015 (No. 204). 327.
+International Labour Organization (ILO), Migration for Employment Recommendation, 1949 (No. 86). 328.
+International Labour Organization, General principles and operational guidelines for fair recruitment, 2019. 329.
+United Nations (UN), International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families, 1990. 330.
+Additional references:
+European Platform Undeclared Work, Tackling undeclared work in the agricultural sector: a learning resource from the Agricultural Seminar, 2019. 331.
+International Labour Organization (ILO), Non-standard Employment around the World, 2016. 332.
+International Labour Organization (ILO), Employment practices and working conditions in Thailand’s fishing sector, 2015. 333.
+International Labour Organization (ILO), Food and Agriculture Organization (FAO), International Union of Food, Agricultural, Hotel, Restaurant, Catering, Tobacco and Allied Workers' Associations, Agricultural Workers and Their Contribution to Sustainable Agriculture and Rural Development, 2007.
+International Labour Organization (ILO), Seafarers and their families now ensured of protection in cases of abandonment, death, and long-term disability, 2017. 335.
+International Labour Organization (ILO), Stats Sheet n°4: Informal Employment, 2016. 336.
+International Labour Organization (ILO) and Organisation for Economic Co-operation and Development (OECD), Tackling Vulnerability in the Informal Economy - Most workers in the world still go without social protection, 2019. 337.
+International Maritime Organization (IMO) and International Labour Organization (ILO), Joining forces to shape the fishery sector of tomorrow, 2020. 338.
+International Organization for Migration (IOM) and International Organisation of Employers (IOE), International Recruitment Integrity System, 2017. 340.
+Organisation for Economic Co-operation and Development (OECD), OECD Employment Outlook – Chapter 5. Informal Employment and Promoting the Transition to a Salaried Economy, 2004. 341.
+Resources:
+International Labour Organization (ILO), Fair Recruitment Initiative and the International Organization for Migration (IOM), International Recruitment Integrity System (IRIS), The IRIS Standard, 2019. 342.
+International Organization for Migration (IOM), Ethical Recruitment and Supply Chain Management, https://thailand.iom.int/ethical-recruitment-and-supply-chain-management, accessed on 4 February 2021. 343.
+### Topic 13.21 Living income and living wage
+Authoritative instruments:
+Food and Agriculture Organization (FAO), Regulating labour and safety standards in the agriculture, forestry and fisheries sectors, 2018. 344.
+International Labour Organization (ILO), Minimum Wage Fixing Machinery (Agriculture) Convention, 1951 (No. 99). 345.
+Roundtable on Sustainable Palm Oil (RSPO), RSPO Guidance Implementing a Decent Living Wage, 2019. 346.
+United Nations (UN), The Universal Declaration of Human Rights, 1948. 347.
+Additional references:
+Fairtrade, Living income, https://www.fairtrade.net/issue/living-income, accessed on 4 February 2021. 348.
+International Labour Organization (ILO), Global Wage Report 2020-21, Wages and Minimum Wages, 2020. 352.
+International Labour Organization (ILO), Minimum Wage Policy Guide, 2016. 353.
+Office of the United Nations High Commissioner for Human Rights, Statement by Ms. Hilal Elver, United Nations Special Rapporteur on the right to food, 2020. 354.
+Roundtable on Sustainable Palm Oil (RSPO), RSPO Guidance for Implementing a Decent Living Wage, 2019. 355.
+World Bank, Poverty and Shared Prosperity 2016, 2016. 356.
+Resources:
+### Topic 13.22 Economic inclusion
+Authoritative instruments:
+Food and Agriculture Organization (FAO), Guiding Principles for Responsible Contract Farming Operations, 2012. 358.
+United Nations (UN) Declaration, Declaration on the Rights of Peasants and Other People, 2018. 359.
+Additional references:
+European Commission, Small-scale fisheries, https://ec.europa.eu/fisheries/cfp/small-scale-fisheries_en, accessed on 4 February 2021. 360.
+Food and Agriculture Organization (FAO), Agribusiness Public-Private Partnerships: Country Case Studies – Africa | Rural Finance and Investment Learning Centre, 2013. 361.
+Food and Agriculture Organization (FAO), The Contribution of Social Protection to Economic Inclusion in Rural Areas, 2020. 363.
+International Fund for Agricultural Development and the United Nations Environment Programme 364.
+(UNEP), Smallholders, food security, and the environment, 2014. Fanzo, From big to small: the significance of smallholder farms in the global food system, 2017. 365.
+de Koning and B. de Steenhuijsen Piters, Farmers as Shareholders: A close look at recent experience, 2009. 366.
+World Bank, Poverty and Shared Prosperity 2016, 2016. 367.
+World Bank, The State of Economic Inclusion Report 2021: The Potential to Scale, 2021. 368.
+World Bank, World Development Report 2008: Agriculture for Development, 2008. 369.
+### Topic 13.23 Supply chain traceability
+Authoritative instruments:
+Food and Agriculture Organization (FAO), Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing, 2016. 371.
+Additional references:
+Aquaculture Stewardship Council, Feeding farmed fish responsibly, https://www.asc-aqua.org/aquacultureexplained/why-do-we-need-responsible-aquaculture/feeding-farmed-fish-responsibly/, accessed on 4 February 2021.
+British Standards Institution, PAS 1550:2017 Exercising due diligence in establishing the legal origin of seafood products and marine ingredients. Importing and processing. Code of practice, 2017. 373.
+British Retail Consortium (BRC), Environmental Justice Foundation (EJF) and WWF-UK, An Advisory Note for the UK Supply Chain on how to avoid Illegal, Unreported and Unregulated (IUU) fishery products, 2015. 374.
+Ceres, Traceability is a must for companies with zero-deforestation pledges, 2018. 375.
+Food and Agriculture Organization (FAO), Issue Brief #15 on Combating IUU fishing in the Caribbean through policy and legislation, 2015. 376.
+Global Fishing Watch, IUU – Illegal, Unreported, Unregulated Fishing, 2016. 378.
+IDH – The Sustainable Trade Initiative, A Fact-Based Exploration of the Living and Pricing Strategies that Close the Gap, 2020. 379.
+To illustrate, only 19% of the soy consumed in the European Union can be traced to producers who do not increase deforestation; IDH – The Sustainable Trade Initiative, European Soy Monitor, 2018. 380.
+International Trade Centre, Traceability in food and agricultural products, 2015. 381.
+World Economic Forum, Innovation with a Purpose: Improving Traceability in Food Value Chains through Technology Innovations, 2019. 382.
+World Health Organization (WHO) and Food and Agriculture Organization (FAO), FAO/WHO guide for developing and improving national food recall systems, 2012. 383.
+World Wildlife Fund for Nature (WWF), Soy, https://wwf.panda.org/discover/our_focus/food_practice/sustainable_production/soy/, accessed on 4 February 2021.
+World Wildlife Foundation (WWF), Unregulated Fishing of the High Seas of the Indian Ocean, 2020. 385.
+Resources:
+Accountability Framework Initiative, Operational Guidance on Monitoring and Verification, 2019. 386.
+Food and Agriculture Organization (FAO), Good practice guidelines on national seafood traceability systems, 2018. 387.
+Food and Agriculture Organization (FAO), Traceability: A management tool for enterprises and governments, 2016. 388.
+United Nations Global Compact and BSR, A Guide to Traceability: A Practical Approach to Advance Sustainability in Global Supply Chains, 2014. 389.
+### Topic 13.24 Public policy and lobbying
+Additional references:
+Corporate Europe Observatory, Fishing for influence: Press passes give lobbyists EU Council building access during fishing quota talks, 2017. 390.
+Corporate Europe Observatory, Monsanto lobbying: an attack on us, our planet and democracy, 2016. 391.
+C. Boyer and H. J. Boyer, Discussion Paper 9 Sustainable Utilisation of Fish Stocks: Is This Achievable? A Case Study from Namibia, 2005. 392.
+European Commission, Assessment of the Agriculture and Rural Development Sectors in the Eastern Partnership countries, 2012. 393.
+European Trade Union Institute for Research, The world of EU lobbying in Brussels, 2018. 394.
+Food and Agriculture Organization (FAO), Livestock’s long shadow: environmental issues and options, 2006. 395.
+Greenpeace, How lobbyists for Monsanto led a ‘grassroots farmers’ movement against an EU glyphosate ban, 2018. 396.
+High Level Panel of Experts on Food Security and Nutrition of the Committee on World Food Security, Agroecological and Other Innovative Approaches for Sustainable Agriculture and Food Systems that Enhance Food Security and Nutrition, 2019.
+### Topic 13.25 Anti-competitive behavior
+Additional references:
+European Commission, Case AT.39633 – Shrimps, Cartel Procedure Council Regulation (EC) 1/2003, 2013. 398.
+European Commission, Study on the Environmental Impact of Palm Oil Consumption and on Existing Sustainability Standards, 2018. 399.
+Food and Agriculture Organization (FAO), The State of Agricultural Commodity Markets 2015-16: Competition and food security, 2016. 400.
+Organisation for Economic Co-operation and Development (OECD), Competition and Regulation in Agriculture: Monopsony Buying and Joint Selling, 2004. 401.
+United Nations Conference on Trade and Development, Cocoa Study: Industry Structures and Competition, 2008. 402.
+United Nations Conference on Trade and Development, The effects of anti-competitive business practices on developing countries and their development prospects, 2008. 403.
+### Topic 13.26 Anti-corruption
+Additional references:
+Environmental Investigation Agency, Permitting Crime: How palm oil expansions drives illegal logging in Indonesia, 2014. 404.
+Food and Agriculture Organization (FAO) and Transparency International, Corruption in the Land Sector, 2011. 405.
+IDH – The Sustainable Trade Initiative, A recipe for success? Three measures protecting the Cavally forest in West Africa from illegal cocoa farming activities, 2020. 406.
+International Union for Conservation of Nature, Corruption in fisheries: from bad to worse, 2008. 407.
+Ridler and N. Hishamunda, Promotion of sustainable commercial aquaculture in sub-Saharan Africa, 2001. 408.
+Resources:
+United Nations Office on Drugs and Crime, Rotten Fish: A guide on addressing corruption in the fisheries sector, 2019. 409.
