@@ -246,7 +246,8 @@ The diagram also highlights the relationships between these standards, with arro
 
 An organization in the oil and gas sector reporting in accordance with the GRI Standards is required to use this Standard when determining its material topics and then when determining what information to report for the material topics.
 
-### Determining material topics Material topics represent an organization's most significant impacts on the economy, environment, and people, including their human rights.
+### Determining material topics 
+Material topics represent an organization's most significant impacts on the economy, environment, and people, including their human rights.
 
 Section 1 of this Standard provides contextual information that can help the organization in identifying and assessing its impacts.
 
@@ -258,7 +259,8 @@ If the organization has determined any of the topics included in this Standard a
 
 See Requirement 3 in GRI 1: Foundation 2021 and Box 5 in GRI 3 for more information on using Sector Standards to determine material topics.
 
-### Determining what to report For each material topic, an organization reports information about its impacts and how it manages these impacts.
+### Determining what to report 
+For each material topic, an organization reports information about its impacts and how it manages these impacts.
 
 Once an organization has determined a topic included in this Standard to be material, the Standard also helps the organization identify disclosures to report information about its impacts relating to that topic.
 
